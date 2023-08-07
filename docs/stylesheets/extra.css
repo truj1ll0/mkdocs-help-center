@@ -1,0 +1,31 @@
+[data-md-color-scheme="classy"] {
+  --md-primary-fg-color: #425cc3;
+  --md-primary-fg-color--light: #ecb7b7;
+  --md-primary-fg-color--dark: #90030c;
+}
+
+.md-content__inner {
+  max-width: 70ch;
+}
+
+/* Replace article title with Navigation */
+/* label.md-nav__link {
+  visibility: hidden;
+  position: relative;
+}
+
+label.md-nav__link:after {
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "Navigation";
+} */
+
+.do {
+  color: green;
+}
+
+.dont {
+  color: red;
+}

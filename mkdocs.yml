@@ -1,0 +1,69 @@
+#===================================================================================#
+# Project information
+#===================================================================================#
+site_name: Classy Beta Center
+extra_css:
+  - stylesheets/extra.css
+
+#===================================================================================#
+# Mkdocs Theme (Material Mkdocs) + Extras
+#===================================================================================#
+theme:
+  name: material
+  custom_dir: docs/theme_override_home/
+  logo: assets/logo-badge_indigo.png
+  favicon: assets/logo-badge_indigo.png
+  font:
+    text: Mulish, Arial, Helvetica, sans-serif
+
+  features:
+    - navigation.top
+    - navigation.path
+    - navigation.tabs
+    - navigation.footer
+    - header.autohide
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotaion
+    - content.code.copy
+  palette:
+    - scheme: classy
+      primary: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+#===================================================================================#
+# Mkdocs Markdown Extentions, Plugins & extras
+#===================================================================================#
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+#===================================================================================#
+# Mkdocs Navigation Tree
+#===================================================================================#
+nav:
+  - Home: index.md
+  - Campaign studio:
+      - Intro: campaign-studio/getting-started/intro-to-campaign-studio.md
+      - Publish: campaign-studio/getting-started/publish.md
+  - Supporter center:
+      - Intro: supporter-center/intro-to-supporter-center.md
+  - Classy Live Mobile App:
+      - Sign up: classy-live/mobile-app/sign-up.md

@@ -54,6 +54,9 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.superfences
+  - toc:
+      title: On this page
+      toc_depth: 3
 
 #===================================================================================#
 # Mkdocs Navigation Tree
@@ -61,9 +64,10 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Campaign studio:
-      - Intro: campaign-studio/getting-started/intro-to-campaign-studio.md
+      - Intro to Campaign Studio: campaign-studio/getting-started/intro-to-campaign-studio.md
+      - Designer: campaign-studio/designer/intro-to-the-designer.md
       - Publish: campaign-studio/getting-started/publish.md
   - Supporter center:
-      - Intro: supporter-center/intro-to-supporter-center.md
+      - Intro to the Supporter Center: supporter-center/intro-to-supporter-center.md
   - Classy Live Mobile App:
       - Sign up: classy-live/mobile-app/sign-up.md

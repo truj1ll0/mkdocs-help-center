@@ -4,7 +4,7 @@ The Supporter Center is Classy’s new hub for supporters, where they can manage
 
 ![Example of Classy's Supporter Center](assets/supporter-center/sc-supporter-example.png)
 
-## Customize your organization’s Supporter Center
+## Customize the Supporter Center
 
 To customize an organization’s Supporter Center in Classy:
 

@@ -11,47 +11,53 @@
     height: 100%;
   }
 
-  .tx-container {
+  .hero-container {
     padding-top: 0rem;
     background: #425cc3;
   }
 
-  .tx-hero {
+  .hero-contents {
     color: var(--md-primary-bg-color);
+    display: flex;
+    align-items: center;
+    gap: 3rem;
   }
 
-  .tx-hero h1 {
+  .hero-contents h1 {
     margin-bottom: 0.25rem;
     color: currentColor;
     font-weight: 700;
   }
 
-  .tx-hero__content {
+  .hero-contents__content {
     padding-bottom: 1rem;
     margin: 0 auto;
   }
 
-  .tx-hero__image {
+  .hero-contents__image {
     width: 17rem;
-    height: 17rem;
-    order: 1;
-    padding-right: 2.5rem;
+    margin-right: 3rem;
   }
 
-  .tx-hero .md-button {
+  .hero-contents__image img {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .hero-contents .md-button {
     margin-top: 0.5rem;
     margin-right: 0.5rem;
     color: var(--md-primary-bg-color);
   }
 
-  .tx-hero .md-button--primary {
+  .hero-contents .md-button--primary {
     background-color: var(--md-primary-bg-color);
     color: hsla(280deg, 37%, 48%, 1);
     border-color: var(--md-primary-bg-color);
   }
 
-  .tx-hero .md-button:focus,
-  .tx-hero .md-button:hover {
+  .hero-contents .md-button:focus,
+  .hero-contents .md-button:hover {
     background-color: var(--md-accent-fg-color);
     color: var(--md-default-bg-color);
     border-color: var(--md-accent-fg-color);
@@ -110,19 +116,12 @@
       display: none;
     }
 
-    .tx-hero {
-      display: flex;
-      align-items: start;
-      justify-content: left;
-    }
-
-    .tx-hero__content {
+    .hero-contents__content {
       max-width: 22rem;
       margin-top: 3.5rem;
       margin-bottom: 3.5rem;
       margin-left: 1rem;
       margin-right: 4rem;
-      align-items: left;
     }
   }
 
@@ -149,15 +148,18 @@
     }
 
     .feature-item {
+      border: 2px solid rgba(0, 0, 0, 0);
       flex: 1;
       min-width: 0;
     }
 
     .feature-item:hover {
       background-color: #f4f7ff;
+      border-color: #425cc3;
       border-radius: 8px;
-      -webkit-transition: background-color 0.3s ease-out;
-      transition: background-color 0.3s ease-out;
+      -webkit-transition: background-color 0.3s ease-out,
+        border-color 0.3s ease-out;
+      transition: background-color 0.3s ease-out, border-color 0.3s ease-out;
     }
   }
 
@@ -210,14 +212,20 @@
 </style>
 
 <!-- Main site Entry button descriptions -->
-<section class="tx-container">
+<section class="hero-container">
   <div class="md-grid md-typeset">
-    <div class="tx-hero">
-      <div class="tx-hero__content">
+    <div class="hero-contents">
+      <div class="hero-contents__content">
         <h1 class="hero-header">Welcome to Classy's Beta Help Center</h1>
         <p class="hero-subheading">
           Learn more about Classy features currently in beta.
         </p>
+      </div>
+      <div class="hero-contents__image">
+        <img
+          src="assets/illustration_desk-setup-1.png"
+          alt="campaign donations illustration"
+        />
       </div>
     </div>
   </div>
@@ -225,11 +233,19 @@
 
 <!-- Main site box descriptions -->
 <div class="top-hr">
-  <a href="supporter-center/intro-to-supporter-center" class="feature-item">
+  <a
+    href="campaign-studio/getting-started/intro-to-campaign-studio"
+    class="feature-item"
+  >
     <h2>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="48"
+        viewBox="0 -960 960 960"
+        width="48"
+      >
         <path
-          d="M15 17v-3h3v-2l4 3.5-4 3.5v-2h-3m2 1v3h-3v2l-4-3.5 4-3.5v2h3M12 8c-2.21 0-4 1.8-4 4 0 1.91 1.35 3.54 3.21 3.92L16 11.86A3.997 3.997 0 0012 8m0 6c-1.1 0-2-.89-2-2s.9-2 2-2 2 .9 2 2-.89 2-2 2m9.66-5.27l-2-3.46c-.12-.22-.38-.31-.61-.22l-2.49 1c-.51-.41-1.06-.74-1.69-1l-.37-2.63A.506.506 0 0014 2h-4c-.25 0-.46.18-.5.42l-.37 2.65c-.63.26-1.17.59-1.69 1L5 5.05c-.23-.09-.5 0-.61.22l-2 3.46c-.13.21-.08.49.11.64L4.57 11l-.07 1 .07 1-2.11 1.63c-.2.15-.25.43-.12.64l2 3.46c.11.27.4.38.66.27l2.5-1c.24.19.5.37.76.53l1.65-1.4c-.77-.33-1.45-.82-2-1.45l-2.41 1-.77-1.3L6.8 13.8a5.55 5.55 0 010-3.6L4.69 8.65l.75-1.3 2.41 1c.78-.9 1.83-1.53 3-1.78l.4-2.57h1.5l.37 2.62c1.17.24 2.22.88 3 1.77l2.41-1 .75 1.3-2.08 1.51c.09.26.16.53.2.8h2l2.1-1.63a.48.48 0 00.16-.64M12 8c-2.21 0-4 1.8-4 4 0 1.91 1.35 3.54 3.21 3.92L16 11.86A3.997 3.997 0 0012 8m0 6c-1.1 0-2-.89-2-2s.9-2 2-2 2 .9 2 2-.89 2-2 2m0-6c-2.21 0-4 1.8-4 4 0 1.91 1.35 3.54 3.21 3.92L16 11.86A3.997 3.997 0 0012 8m0 6c-1.1 0-2-.89-2-2s.9-2 2-2 2 .9 2 2-.89 2-2 2z"
+          d="M560-120q-12 0-21-9t-9-21q0-13 9-21.5t21-8.5q59 0 99.5-24t40.5-56q0-23-29.5-45T591-339l47-47q63 19 92.5 52.5T760-260q0 67-61 103.5T560-120ZM240-414q-64-14-92-44t-28-62q0-35 26-63t120-62q66-24 85-39t19-35q0-25-22-43t-68-18q-27 0-46 7t-34 22q-8 8-20.5 9.5T157-748q-11-8-11.5-20t7.5-21q17-22 51-36.5t76-14.5q68 0 109 32.5t41 88.5q0 41-28.5 69.5T290-590q-67 25-88.5 39.5T180-520q0 16 27 30.5t81 27.5l-48 48Zm496-154L608-696l45-45q18-18 40-18t40 18l48 48q18 18 18 40t-18 40l-45 45ZM220-180h42l345-345-42-42-345 345v42Zm-60 60v-128l405-405 128 128-405 405H160Zm405-447 42 42-42-42Z"
         />
       </svg>
       Campaign studio
@@ -241,36 +257,20 @@
   </a>
   <a href="supporter-center/intro-to-supporter-center/" class="feature-item">
     <h2>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <svg
+        width="48"
+        height="48"
+        viewBox="0 0 24 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
         <path
-          d="M16 17v2H2v-2s0-4 7-4 7 4 7 4m-3.5-9.5A3.5 3.5 0 109 11a3.5 3.5 0 003.5-3.5m3.44 5.5A5.32 5.32 0 0118 17v2h4v-2s0-3.63-6.06-4M15 4a3.39 3.39 0 00-1.93.59 5 5 0 010 5.82A3.39 3.39 0 0015 11a3.5 3.5 0 000-7z"
+          d="M2 19V16.2C2 15.65 2.14 15.13 2.42 14.65C2.7 14.17 3.09 13.8 3.59 13.55C4.44 13.12 5.4 12.75 6.47 12.45C7.54 12.15 8.71 12 10 12H10.35C10.45 12 10.55 12.02 10.65 12.05C10.52 12.35 10.4 12.66 10.31 12.99C10.22 13.31 10.15 13.65 10.1 14H10C8.82 14 7.75 14.15 6.81 14.45C5.87 14.75 5.1 15.05 4.5 15.35C4.35 15.43 4.23 15.55 4.14 15.7C4.05 15.85 4 16.02 4 16.2V17H10.3C10.4 17.35 10.53 17.7 10.7 18.04C10.87 18.38 11.05 18.7 11.25 19H2ZM12.83 4.17C12.05 3.39 11.1 3 10 3C8.9 3 7.96 3.39 7.17 4.17C6.38 4.95 6 5.89 6 7C6 8.11 6.39 9.04 7.17 9.83C7.95 10.61 8.89 11 10 11C11.11 11 12.04 10.61 12.83 9.83C13.61 9.05 14 8.1 14 7C14 5.9 13.61 4.96 12.83 4.17ZM11.42 8.41C11.03 8.8 10.56 9 10.01 9C9.46 9 8.99 8.8 8.6 8.41C8.21 8.02 8.01 7.55 8.01 7C8.01 6.45 8.21 5.98 8.6 5.59C8.99 5.2 9.46 5 10.01 5C10.56 5 11.03 5.2 11.42 5.59C11.81 5.98 12.01 6.45 12.01 7C12.01 7.55 11.81 8.02 11.42 8.41ZM21.43 11.39C20.86 10.82 20.15 10.53 19.3 10.53C18.82 10.53 18.36 10.63 17.94 10.84C17.52 11.04 17.15 11.32 16.85 11.67C16.55 11.32 16.19 11.05 15.76 10.84C15.34 10.64 14.88 10.53 14.4 10.53C13.55 10.53 12.84 10.82 12.27 11.39C11.7 11.96 11.41 12.67 11.41 13.52C11.41 14.03 11.56 14.57 11.86 15.12C12.16 15.67 12.57 16.24 13.07 16.83C13.58 17.42 14.16 18.02 14.81 18.63C15.47 19.24 16.14 19.86 16.84 20.5C17.55 19.87 18.23 19.24 18.88 18.63C19.53 18.02 20.11 17.42 20.61 16.83C21.12 16.24 21.52 15.67 21.82 15.12C22.12 14.57 22.27 14.04 22.27 13.52C22.27 12.67 21.98 11.96 21.41 11.39H21.43ZM19.33 15.53C18.57 16.37 17.74 17.21 16.85 18.06C15.96 17.21 15.13 16.37 14.37 15.53C13.61 14.69 13.23 14.02 13.23 13.52C13.23 13.17 13.34 12.89 13.56 12.67C13.78 12.45 14.06 12.34 14.41 12.34C14.62 12.34 14.82 12.38 15.01 12.46C15.2 12.54 15.36 12.67 15.5 12.83L16.86 14.46L18.22 12.83C18.36 12.66 18.52 12.54 18.71 12.46C18.9 12.38 19.1 12.34 19.31 12.34C19.66 12.34 19.94 12.45 20.16 12.67C20.38 12.89 20.49 13.17 20.49 13.52C20.49 14.02 20.11 14.69 19.35 15.53H19.33Z"
+          fill="black"
+          fill-opacity="0.9"
         />
       </svg>
       Supporter center
-    </h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    </p>
-  </a>
-  <a href="classy-live/mobile-app/sign-up" class="feature-item">
-    <h2>
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="35"
-        height="35"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="#000000"
-        stroke-width="2.5"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      >
-        <rect x="3" y="3" width="18" height="18" rx="2" />
-        <circle cx="8.5" cy="8.5" r="1.5" />
-        <path d="M20.4 14.5L16 10 4 20" />
-      </svg>
-      Classy Live
     </h2>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

@@ -1,16 +1,13 @@
 # Intro to Campaign Studio
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/423f5c41c2c8438c9380e0b0f29f53fc?sid=75f32913-e85f-4b40-a06e-aff419202220" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 Campaign Studio lets you build your campaign’s layout, design the look and feel of your pages, and add text, buttons, images, and custom code to create a donation page fit for your needs.
 
 In Campaign Studio, you can add or delete sections, drag and drop elements, and place widgets such as a donation form or FAQ exactly where you want them.
 
 In this article, you’ll learn how to:
 
-- Access Campaign Studio
-- Navigate Campaign Studio
-- Use Campaign Studio
+- [Access Campaign Studio](#access-campaign-studio)
+- [Navigate Campaign Studio](#navigate-campaign-studio)
 
 ## Access Campaign Studio
 

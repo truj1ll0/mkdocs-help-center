@@ -41,8 +41,6 @@ Then, you’ll land in the organization’s Supporter Center.
 
 If you have any fundraising pages or teams, you can find them under Fundraising. Select **View** or **Manage** to visit or edit these pages.
 
-![Fundraising page card](assets/supporter-center/sc-fundraising-page.png)
-
 ### View donation history and resend receipts
 
 To view your donation history, select **Donation History** in the menu. Then, you can search for any specific donation and select **Resend receipt** to automatically send a receipt to the email address in your settings.

@@ -55,7 +55,7 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.superfences
   - toc:
-      title: On this page
+      title: In this article
       toc_depth: 3
 
 #===================================================================================#

@@ -26,7 +26,8 @@ To create a campaign using Studio:
 
 ![Create a new campaign modal](assets/campaign-studio/cs-create-campaign.png)
 
-**Note:** Campaign Studio is only available for donation pages. We’re currently working on making it available for all campaign types.
+!!! notes
+    Campaign Studio is only available for donation pages. We’re currently working on making it available for all campaign types.
 
 #### Choose a starting point
 

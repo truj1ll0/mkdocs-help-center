@@ -59,6 +59,7 @@ nav:
   - Campaign studio:
       - Intro to Campaign Studio: campaign-studio/getting-started/intro-to-campaign-studio.md
       - Designer: campaign-studio/designer/intro-to-the-designer.md
+      - Emails: campaign-studio/getting-started/email-studio.md
       - Publish: campaign-studio/getting-started/publish.md
   - Supporter center:
       - Intro to the Supporter Center: supporter-center/intro-to-supporter-center.md

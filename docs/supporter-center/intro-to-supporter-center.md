@@ -70,3 +70,9 @@ Under Payment details, you can update the credit card on file or switch to bank 
 If you wish, you can cancel your recurring donation. Simply go to your recurring donation and select **Cancel donation.** You’ll also have the option to pause your monthly donation for up to three months instead.
 
 ![Cancel recurring donation pop-up](assets/supporter-center/sc-cancel-recurring-donation.png)
+
+### Update contact information
+
+To update your contact information, select **Settings** in the menu. Then, select **Edit** to change your name, email address, phone number, and address.
+
+![Supporter center settings](assets/supporter-center/sc-supporter-settings.png)

@@ -1,6 +1,8 @@
 # Intro to the Supporter Center
 
-The Supporter Center is Classy’s new hub for supporters, where they can manage their contact information, recurring donations, and receipts. Also, admins can customize this experience for their supporters by adding a hero image, and a thank you message to the Supporter Center and adjusting the organization’s preferences.
+The Supporter Center is Classy’s new hub for supporters, where they can manage their contact information, recurring donations, and receipts. Also, admins can customize this experience by adding a hero image and a thank you message and adjusting your organization’s preferences.
+
+Share this [supporter article](for-supporters.md) to help your supporters get acquainted with their new hub.
 
 ![Example of Classy's Supporter Center](assets/supporter-center/sc-supporter-example.png)
 

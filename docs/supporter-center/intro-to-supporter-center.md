@@ -16,10 +16,10 @@ To customize an organization’s Supporter Center in Classy:
 Then, select **Edit** to change the Hero Section and your Preferences. In this section, you can:
 
 - Add a hero image
-  - For best quality, use a 1184px by 265px image
+    - For best quality, use a 1184px by 265px image
 - Add a headline message
 - Choose whether to display donation statistics
-  - These include: current-year giving, all-time giving, and all-time fundraising
+    - These include: current-year giving, all-time giving, and all-time fundraising
 - Choose whether to allow supporters to download annual summaries of their receipts
 
 ## Use the Supporter Center

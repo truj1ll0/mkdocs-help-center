@@ -58,6 +58,7 @@ nav:
   - Home: index.md
   - Campaign studio:
       - Intro to Campaign Studio: campaign-studio/getting-started/intro-to-campaign-studio.md
+      - Designer: campaign-studio/getting-started/intro-to-the-designer.md
       - Emails: campaign-studio/getting-started/email-studio.md
       - Settings: campaign-studio/getting-started/settings.md
   - Supporter center:

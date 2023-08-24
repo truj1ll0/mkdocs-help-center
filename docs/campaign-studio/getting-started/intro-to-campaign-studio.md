@@ -96,13 +96,15 @@ The editor is how you’ll add new content to the page, including layouts, eleme
 
 ![Campaign studio editor](assets/campaign-studio/cs-campaign-studio-editor.png)
 
+[Learn more about the designer](intro-to-the-designer.md)
+
 ### Settings
 
 Settings provide the basic details of your campaign and other options, including custom questions. Use the Campaign settings menu to find options for setting up and customizing your supporter’s experience.
 
 ![Campaign studio settings](assets/campaign-studio/cs-settings.png)
 
-Learn more about campaign settings
+[Learn more about campaign settings](settings.md)
 
 ### Emails
 

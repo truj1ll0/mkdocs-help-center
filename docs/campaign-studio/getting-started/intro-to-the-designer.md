@@ -4,6 +4,31 @@ Campaign Studio’s designer lets you build your campaign’s layout, design the
 
 In Campaign Studio, you can add or delete sections, drag and drop elements, and place widgets such as a donation form or FAQ where you need them.
 
+## Add, remove, or move blocks
+
+You can add sections and elements to your canvas by dragging and dropping them from the editor to your canvas. To move or remove blocks, you’ll need to hover over the element or section and select the appropriate icon. 
+
+### Add blocks
+
+Add layouts, elements, and widgets to your canvas by dragging and dropping the block from the editor to the canvas.
+
+![Adding a section and element](assets/campaign-studio/cs-using-layouts.gif)
+
+### Remove blocks
+
+Remove sections, elements, or widgets by selecting the block you want to remove and then selecting the trash can icon.
+
+![Removing an element](assets/campaign-studio/cs-remove-element.gif)
+
+!!! tip
+    Confirm you’re removing the right element or section by viewing the tab that appears when hovering over the block.
+
+### Move blocks
+
+Move a section, element, or widget to another part of the canvas by hovering over the block, selecting the drag icon (six dots at the top), and dragging it to its new location.
+
+![Moving a section](assets/campaign-studio/cs-move-sections.gif)
+
 ## Layouts
 
 Layouts are either blank or pre-built sections you can drag and drop onto the canvas. Once on the canvas, you can add elements or widgets to the sections. All layouts span across the full width of the page.
@@ -12,11 +37,11 @@ Layouts are either blank or pre-built sections you can drag and drop onto the ca
 
 ### Blank layouts
 
-Blank layouts consist of 1-section or 2-section layouts. These layouts do not include any elements or widgets by default. 
+Blank layouts consist of 1-section or 2-section layouts. These layouts do not include any elements or widgets. 
 
 #### 1-section
 
-Use a 1-section layout to stack elements or center widgets on top of each other.
+Use a 1-section layout to stack elements or widgets on top of each other.
 
 #### 2-section
 
@@ -24,7 +49,7 @@ Use a 2-section layout to set elements and widgets side-by-side.
 
 ### Prebuilt layouts
 
-Prebuilt layouts include a Hero overlay, a Donation layout, and a Footer. These layouts include some elements and widgets by default. Once added, you can adjust these layouts to fit your needs.
+Prebuilt layouts include a Hero overlay, a Donation layout, and a Footer. These layouts have some elements and widgets by default. Once added, you can adjust these layouts to fit your needs.
 
 #### Hero overlay
 
@@ -38,7 +63,7 @@ The donation layout is a 2-section layout with a donation form, share button, an
 
 The footer layout can only be added to the bottom of the page. It includes information about your organization, including the name, address, contact information, and social links. 
 
-Use the editor to style the background color and opacity of the footer. And configure the logo and social links that appear.
+Use the editor to style the background color and opacity of the section. Also, select the **Configure** tab to edit the logo and social links that appear.
 
 ## Elements
 
@@ -81,27 +106,32 @@ Once added, you can adjust the image’s overlay (a color added on top of an ima
 
 Custom code elements let you add HTML and CSS to your campaign’s pages (Javascript is not supported). When added to your page's canvas, these full-width elements create a new section.
 
-## Add, remove, or move blocks
+## Widgets
 
-You can add sections and elements to your canvas by dragging and dropping them from the editor to your canvas. To move or remove blocks, you’ll need to hover over the element or section and select the appropriate icon. 
+Widgets are advanced elements with specific use cases and features built-in.  You can add widgets just like other blocks by dragging and dropping them onto the canvas.
 
-### Add blocks
+The full list of widgets includes:
 
-Add layouts, elements, and widgets to your canvas by dragging and dropping the block from the editor to the canvas.
+* Donation form
+* Share button
+* FAQ
 
-![Adding a section and element](assets/campaign-studio/cs-using-layouts.gif)
+### Donation form
 
-### Remove blocks
+Supporters can use the donation form to contribute to your campaign. Once added to the canvas, you can customize the heading, the tax-deductible message at the bottom, the donation frequencies, and donation amounts. 
 
-Remove sections, elements, or widgets by selecting the block you want to remove and then selecting the trash can icon.
+!!! tip
 
-![Removing an element](assets/campaign-studio/cs-remove-element.gif)
+    For a recurring donation campaign, turn off One-time donations and let supporters choose their preferred donation frequency.
 
-!!!! tip
-    Confirm you’re removing the right element or section by viewing the tab that appears when hovering over the block.
+### Share button
 
-### Move blocks
+The share button lets supporters share your campaign via social media, email, or text. When someone selects your Share widget, a pop-up appears to share your campaign via the methods you allow. 
 
-Move a section, element, or widget to another part of the canvas by hovering over the block, selecting the drag icon (six dots at the top), and dragging it to its new location.
+Once added to the canvas, you can customize the heading and sub-heading that appears in the pop-up, the options that appear, and the style of the button.
 
-![Moving a section](assets/campaign-studio/cs-move-sections.gif)
+To edit the default messages used for sharing, visit your campaign’s settings. 
+
+### FAQ
+
+The FAQ widget lets you add frequently asked questions to your campaign’s pages to reassure supporters. Once added to the canvas, you can customize the widget’s questions and answers.

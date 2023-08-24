@@ -36,13 +36,13 @@ The Email builder differs from Campaign Studio in a couple of important ways:
 - A selection of limited, email-safe fonts
 - Email-specific widgets such as **Contact Us** and **Manage Donation**
 
-### Add dynamic content (Smart Variables) to emails
+### Add dynamic content (Smart Variables)
 
 During Early Access, we’ll provide a list of variables you can copy and paste into each email to dynamically populate data, such as recipient name, transaction amount, etc.
 
 Later, we’ll update these settings to allow you to select these values from within the email and PDF receipt builders.
 
-### Show or hide custom questions in emails
+### Show or hide custom questions
 
 To show or hide custom questions in emails:
 
@@ -50,7 +50,7 @@ To show or hide custom questions in emails:
 2. Select the transaction table
 3. In the editor, turn on or off the **Show questions** toggle
 
-### Show or hide Contact details in the email’s footer
+### Show or hide Contact details
 
 To show or hide Contact details in an email’s footer
 
@@ -58,7 +58,7 @@ To show or hide Contact details in an email’s footer
 2. Select the email’s footer
 3. In the editor, turn on or off the **Show contact us** toggle
 
-### Show or hide Manage Your Donation in an email’s body
+### Show or hide Manage Your Donation
 
 To show or hide Manage Your Donation in an email’s body:
 

@@ -2,7 +2,7 @@
 
 Campaign Studio lets you build your campaign’s layout, design the look and feel of your pages, and add text, buttons, images, and custom code to create a donation page fit for your needs.
 
-In Campaign Studio, you can add or delete sections, drag and drop elements, and place widgets such as a donation form or FAQ exactly where you want them.
+In Campaign Studio, you can add or delete sections, drag and drop elements, and place widgets such as a donation form or FAQ where you need them.
 
 In this article, you’ll learn how to:
 
@@ -15,7 +15,7 @@ To access Classy’s Campaign Studio for the first time, you need to create a ne
 
 If you already have a Campaign Studio campaign, you can access Studio again by going to the campaign and selecting **Edit Campaign**.
 
-### Create a campaign using Campaign Studio
+### Create a campaign
 
 To create a campaign using Studio:
 

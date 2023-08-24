@@ -21,12 +21,15 @@ theme:
     - navigation.path
     - navigation.tabs
     - navigation.footer
+    - navigation.instant
+    - navigation.tracking
     - header.autohide
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotaion
     - content.code.copy
+    - toc.follow
   palette:
     - scheme: classy
       primary: custom

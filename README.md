@@ -1,3 +1,3 @@
-# Classy Beta Help Center
+# Classy early access help center
 
-Classy help center to document products currently in closed beta. Built using MkDocs Material Theme.
+Classy's help center for products and features in early access (Closed beta). Built using MkDocs Material Theme.

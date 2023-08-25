@@ -74,7 +74,7 @@ The navigation menu appears at the top of the page. It includes:
 - Preview
 - Save and Publish
 
-![Campaign studio designer with navigation menu highlighted](assets/campaign-studio/cs-campaign-studio-nav-menu.png)
+![Campaign studio designer with navigation menu highlighted](assets/campaign-studio/cs-campaign-studio-nav-menu-overlay.png)
 
 Select **Settings**, **Pages**, and **Emails** to navigate through Campaign Studio and customize each part of your campaign.
 
@@ -88,13 +88,13 @@ Pages provide the canvas and editor to preview, build, and design your campaign.
 
 The canvas previews the supporter-facing page. You can select blocks, drag and drop them to move them around, and edit the content directly on the page.
 
-![Campaign studio canvas](assets/campaign-studio/cs-campaign-studio-canvas.png)
+![Campaign studio canvas](assets/campaign-studio/cs-campaign-studio-canvas-overlay.png)
 
 #### Editor
 
 The editor is how you’ll add new content to the page, including layouts, elements, and widgets. When you select a block in the canvas, the editor will update to show your tools and options.
 
-![Campaign studio editor](assets/campaign-studio/cs-campaign-studio-editor.png)
+![Campaign studio editor](assets/campaign-studio/cs-campaign-studio-editor-overlay.png)
 
 [Learn more about the designer](intro-to-the-designer.md)
 

@@ -130,7 +130,7 @@ The share button lets supporters share your campaign via social media, email, or
 
 Once added to the canvas, you can customize the heading and sub-heading that appears in the pop-up, the options that appear, and the style of the button.
 
-To edit the default messages used for sharing, visit your campaign’s settings. 
+To edit the default messages used for sharing, visit your campaign’s [settings](settings.md). 
 
 ### FAQ
 

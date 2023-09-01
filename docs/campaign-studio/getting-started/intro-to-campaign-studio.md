@@ -80,6 +80,10 @@ Select **Settings**, **Pages**, and **Emails** to navigate through Campaign Stud
 
 When ready, you can preview the pages, save your work, and publish your campaign before sharing it with your community.
 
+!!! note
+
+    Campaign Studio allows you to view and edit your campaign pages in three different views, Desktop, Tablet, and Mobile. To switch between these views, select the **desktop icon** in the  navigation menu.
+
 ### Pages
 
 Pages provide the canvas and editor to preview, build, and design your campaign. To switch to a different page, select the **Pages** tab and choose the page you want to edit.
@@ -100,7 +104,7 @@ The editor is how you’ll add new content to the page, including layouts, eleme
 
 ### Settings
 
-Settings provide the basic details of your campaign and other options, including custom questions. Use the Campaign settings menu to find options for setting up and customizing your supporter’s experience.
+Settings provide the basic details of your campaign and other options, including custom questions. Use the **Settings** tab to find options for setting up and customizing your supporter’s experience.
 
 ![Campaign studio settings](assets/campaign-studio/cs-settings.png)
 
@@ -113,3 +117,9 @@ Emails provide the tools to customize your campaign’s automated emails, view e
 ![Campaign studio emails](assets/campaign-studio/cs-emails.png)
 
 [Learn more about email settings](email-studio.md)
+
+### Save and publish
+
+Campaign Studio breaks saving and publishing into two separate actions. When you **Publish** a campaign, that campaign is made available on the web to your supporters. 
+
+You can also **Save** a campaign at any time. Saved changes will only appear on the **Published** version of the campaign. You can view saved changes in your browser's window by selecting Preview in the navigation menu.

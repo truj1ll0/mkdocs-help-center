@@ -10,7 +10,7 @@ extra_css:
 #===================================================================================#
 theme:
   name: material
-  custom_dir: docs/theme_override_home/
+  custom_dir: overrides
   logo: assets/logo-badge_indigo.png
   favicon: assets/logo-badge_indigo.png
   font:

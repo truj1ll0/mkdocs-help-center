@@ -54,6 +54,11 @@ markdown_extensions:
       title: In this article
       toc_depth: 3
 
+extra:
+  analytics:
+    provider: google
+    property: G-WFNJHCWKWV
+
 #===================================================================================#
 # Mkdocs Navigation Tree
 #===================================================================================#
@@ -68,3 +73,5 @@ nav:
   - Supporter center:
       - Intro to the Supporter Center: supporter-center/intro-to-supporter-center.md
       - For Supporters: supporter-center/for-supporters.md
+  - Release notes:
+      - Campaign studio: release-notes/campaign-studio.md

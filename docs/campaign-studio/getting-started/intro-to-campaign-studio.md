@@ -9,6 +9,10 @@ In this article, you’ll learn how to:
 - [Access Campaign Studio](#access-campaign-studio)
 - [Navigate Campaign Studio](#navigate-campaign-studio)
 
+!!! example "Want to participate?"
+
+    <a href="https://learn.classy.org/campaign-studio-early-access-sign-up.html">Sign up</a> to gain access to Campaign Studio.
+
 ## Access Campaign Studio
 
 To access Classy’s Campaign Studio for the first time, you need to create a new campaign.
@@ -27,6 +31,7 @@ To create a campaign using Studio:
 ![Create a new campaign modal](assets/campaign-studio/cs-create-campaign.png)
 
 !!! note
+
     Campaign Studio is only available for donation pages. We’re currently working on making it available for all campaign types.
 
 #### Choose a starting point
@@ -120,6 +125,6 @@ Emails provide the tools to customize your campaign’s automated emails, view e
 
 ### Save and publish
 
-Campaign Studio breaks saving and publishing into two separate actions. When you **Publish** a campaign, that campaign is made available on the web to your supporters. 
+Campaign Studio breaks saving and publishing into two separate actions. When you **Publish** a campaign, that campaign is made available on the web to your supporters.
 
 You can also **Save** a campaign at any time. Saved changes will only appear on the **Published** version of the campaign. You can view saved changes in your browser's window by selecting Preview in the navigation menu.

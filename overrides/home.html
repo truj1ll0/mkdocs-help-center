@@ -6,13 +6,16 @@
     flex-grow: 0;
   }
 
+  .md-container {
+    min-height: 100vh;
+  }
+
   .md-main__inner {
     display: flex;
     height: 100%;
   }
 
   .hero-container {
-    padding-top: 0rem;
     background: #425cc3;
   }
 
@@ -20,7 +23,7 @@
     color: var(--md-primary-bg-color);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     gap: 3rem;
   }
 
@@ -31,13 +34,18 @@
   }
 
   .hero-contents__content {
-    padding-bottom: 1rem;
-    margin: 0 auto;
+    padding: 1rem;
   }
 
   .hero-contents__image {
     width: 17rem;
     margin-right: 3rem;
+  }
+
+  @media (max-width: 600px) {
+    .hero-contents__image {
+      display: none;
+    }
   }
 
   .hero-contents__image img {
@@ -76,16 +84,18 @@
   }
 
   .feature-item {
-    margin: 2rem 0 0 0;
+    margin: 2rem 0;
     font-family: "Mulish", sans-serif;
     font-weight: 300;
     box-sizing: border-box;
     padding: 0 15px;
     word-break: break-word;
+    display: block;
+    max-width: 80ch;
   }
 
   .feature-item h2 {
-    color: #333;
+    color: #2d2e31;
     font-weight: 300;
     font-size: 25px;
     white-space: nowrap;
@@ -98,10 +108,10 @@
 
   .feature-item p {
     font-size: 16px;
-    line-height: 1.8em;
+    line-height: 24px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-    color: #111;
+    color: #2d2e31;
     margin: 0 0 10px;
     display: block;
   }
@@ -116,14 +126,6 @@
     .md-sidebar--secondary {
       display: none;
     }
-
-    .hero-contents__content {
-      max-width: 22rem;
-      margin-top: 3.5rem;
-      margin-bottom: 3.5rem;
-      margin-left: 1rem;
-      margin-right: 4rem;
-    }
   }
 
   @media screen and (min-width: 76.25em) {
@@ -134,6 +136,7 @@
     .top-hr {
       width: 100%;
       display: flex;
+      justify-content: space-between;
       max-width: 61rem;
       margin: auto;
       padding: 0 0.2rem;
@@ -210,6 +213,38 @@
   .md-footer-social {
     padding-top: 20px;
   }
+
+  /* Beta notice */
+
+  footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: auto;
+    max-width: 61rem;
+    padding: 0 1rem;
+  }
+
+  @media screen and (max-width: 76.25em) {
+    footer {
+      flex-direction: column;
+    }
+  }
+
+  .notice {
+    color: #2d2e31;
+    max-width: 65ch;
+  }
+
+  .notice a {
+    color: #425cc3;
+  }
+
+  .notice a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 <!-- Main site Entry button descriptions -->
@@ -219,8 +254,8 @@
       <div class="hero-contents__content">
         <h1 class="hero-header">Welcome to Classy Early Access</h1>
         <p class="hero-subheading">
-          Select the product or feature that your organization has signed up for
-          to learn more.
+          Discover Classy features that are currently in beta and learn how to
+          use them effectively.
         </p>
       </div>
       <div class="hero-contents__image">
@@ -398,7 +433,7 @@
 </section>
 
 <!-- Main site box descriptions -->
-<div class="top-hr">
+<section class="top-hr">
   <a
     href="campaign-studio/getting-started/intro-to-campaign-studio"
     class="feature-item"
@@ -417,8 +452,8 @@
       Campaign studio
     </h2>
     <p>
-      Classy's campaign builder that lets you drag-and-drop elements and
-      customize the page to reflect your brand.
+      Drag-and-drop elements to customize your campaign's and reflect your
+      brand.
     </p>
   </a>
   <a href="supporter-center/intro-to-supporter-center/" class="feature-item">
@@ -439,16 +474,55 @@
       Supporter center
     </h2>
     <p>
-      Classy's home for supporters lets you customize the hub to reflect your
-      brand and makes it easy for supporter's to manage their donations,
-      fundraising pages, and more.
+      Make it easy for supporter's to manage their donations, fundraising pages,
+      and more.
     </p>
   </a>
-</div>
+</section>
 
-<div class="top-hr">
-  <div class="hr"></div>
-</div>
+<footer>
+  <div class="notice beta-notice">
+    <h2>What is a beta program at Classy?</h2>
+
+    <p>
+      Beta programs are designed to test new or modified products, or features
+      or functionalities of existing products, which are designated as beta,
+      lighthouse, pilot, limited release, early access, developer preview,
+      non-production, evaluation, or by a similar description (“Beta Products”).
+      In Classy’s beta programs, one or more of these Beta Products are being
+      made available to select customers prior to general availability release.
+      While Classy extensively tests such Beta Products before release, the
+      functionality of the features of such Beta Products may not be complete,
+      and Beta Products could experience unknown bugs that may not be
+      immediately addressed. Classy may discontinue Beta Products at any time in
+      its sole discretion and may never make them generally available, and Beta
+      Products remain in beta unless otherwise specified by Classy. Please refer
+      to Classy’s Platform Attachment for full terms and conditions governing
+      Beta Products.
+    </p>
+  </div>
+  <div class="notice contact-notice">
+    <h2>Want to help improve Classy?</h2>
+    <p>
+      <a href="https://t.maze.co/141715913?guerilla=true" target="_blank"
+        >Sign up</a
+      >
+      to participate in Product Research and we'll reach out for feedback or a
+      brief survey.
+    </p>
+    <h2>Need help?</h2>
+
+    <p>
+      Please
+      <a
+        href="https://classy.typeform.com/to/h4B8FgwI?typeform-source=app.asana.com"
+        target="_blank"
+        >fill out this form</a
+      >
+      to ask questions or get help with beta features.
+    </p>
+  </div>
+</footer>
 
 {% endblock %} {% block content %}{% endblock %} {% block footer %}{% endblock
 %}

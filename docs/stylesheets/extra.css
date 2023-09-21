@@ -55,6 +55,28 @@ p > img {
   display: block;
 }
 
+p a:hover {
+  text-decoration: underline;
+}
+
+/* Feature and bug release note tags */
+
+.tag {
+  border: solid 1px;
+  padding: 0.25rem;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.tag--feature {
+  color: #006644;
+}
+
+.tag--bug {
+  color: #de350b;
+}
+
 /* Replace article title with Navigation */
 /* label.md-nav__link {
   visibility: hidden;
@@ -67,13 +89,4 @@ label.md-nav__link:after {
   top: 0;
   left: 0;
   content: "Navigation";
-} */
-
-/* 
-.do {
-  color: green;
-}
-
-.dont {
-  color: red;
 } */

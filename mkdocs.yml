@@ -73,3 +73,5 @@ nav:
   - Supporter center:
       - Intro to the Supporter Center: supporter-center/intro-to-supporter-center.md
       - For Supporters: supporter-center/for-supporters.md
+  - Release notes:
+      - Campaign studio: release-notes/campaign-studio.md

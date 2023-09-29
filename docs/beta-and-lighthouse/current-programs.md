@@ -10,7 +10,7 @@ These programs are currently in beta. Sign up to participate or join the waitlis
 
 **Current Status:** Closed Beta
 
-**Open beta ETA:** Oct 24
+**Estimated Open Beta:** Oct 24
 
 Reimagined campaign builder with drag-and-drop, advanced customization, & peak page performance. Campaign Studio is fundraising reimagined. Whether you’re a single fundraiser or an advanced digital marketing team, get the right experience in front of the right donor to maximize conversion on your segmented appeals.
 
@@ -20,7 +20,7 @@ Reimagined campaign builder with drag-and-drop, advanced customization, & peak p
 
 **Current Status:** Open Beta
 
-**GA Release ETA:** Oct 24
+**Estimated GA release:** Oct 24
 
 Redesigned supporter experience with more personalization and donor self-service tools. The next-generation Supporter Center provides nonprofits and supporters an all-new experience to better connect your supporters with your mission while improving the end-to-end donor experience.
 
@@ -30,7 +30,7 @@ Redesigned supporter experience with more personalization and donor self-service
 
 **Current Status:** Closed Beta
 
-**Open beta ETA:** Oct 3
+**Estimated Open Beta:** Oct 3
 
 Native integration between Classy and Zapier to unlock data and connectivity between 5,000 apps. The Zapier integration uses Classy's Public API to send Transaction, Supporter, and Campaign data, including all of the parameters associated with each object to empower you with your donor data.
 
@@ -40,7 +40,7 @@ Native integration between Classy and Zapier to unlock data and connectivity bet
 
 **Current Status:** Open Beta
 
-**GA Release ETA:** To be determined
+**Estimated GA release:** To be determined
 
 Event registration experience for groups and sponsors to manage their information across multiple attendees. The Classy Live Group Registration Management solution provides a simplified approach for admins to maintain control and streamline the day-of-event experience.
 
@@ -48,7 +48,7 @@ Event registration experience for groups and sponsors to manage their informatio
 
 ### User Experience & Product Testing
 
-**Current Status:** Ongoing
+**Current status:** Ongoing
 
 _Discovery & prototype feedback_
 
@@ -58,7 +58,7 @@ Test and provide feedback on new designs, prototypes, and products with quick on
 
 ### Reporting & Insights Lighthouse Program
 
-**Current Status:** Ongoing
+**Current status:** Ongoing
 
 _Discovery & prototype feedback_
 

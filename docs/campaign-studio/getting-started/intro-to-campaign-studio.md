@@ -128,3 +128,7 @@ Emails provide the tools to customize your campaign’s automated emails, view e
 Campaign Studio breaks saving and publishing into two separate actions. When you **Publish** a campaign, that campaign is made available on the web to your supporters.
 
 You can also **Save** a campaign at any time. Saved changes will only appear on the **Published** version of the campaign. You can view saved changes in your browser's window by selecting Preview in the navigation menu.
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/h4B8FgwI) to report issues, make requests, or share positive notes.

@@ -80,3 +80,7 @@ If you wish, you can cancel your recurring donation. Simply go to your recurring
 To update your contact information, select **Settings** in the menu. Then, select **Edit** to change your name, email address, phone number, and address.
 
 ![Supporter center settings](assets/supporter-center/sc-supporter-settings.png)
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/h4B8FgwI) to report issues, make requests, or share positive notes.

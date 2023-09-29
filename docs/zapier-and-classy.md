@@ -13,7 +13,7 @@ Customers will also benefit from data visibility across their organization, keep
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/beta-zapier-integration-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to gain access to the Zapier integration in Classy.
+    <a href="https://learn.classy.org/beta-zapier-integration-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the waitlist for the Zapier integration in Classy.
 
 ## **Activate Zapier in Classy**
 

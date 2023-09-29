@@ -11,7 +11,7 @@ In this article, you’ll learn how to:
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/campaign-studio-early-access-sign-up.html">Sign up</a> to gain access to Campaign Studio.
+    <a href="https://learn.classy.org/campaign-studio-early-access-sign-up.html">Sign up</a> to join the waitlist for Campaign Studio.
 
 ## Access Campaign Studio
 

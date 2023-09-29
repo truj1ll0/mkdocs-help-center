@@ -1,4 +1,4 @@
-# **Zapier and Classy**
+# Zapier and Classy
 
 Classy’s native integration with Zapier allows organizations to integrate with 5,000+ web applications and automate workflows. Classy customers leveraging Zapier will benefit from fluid data that is not isolated, helping organizations save time by avoiding manual work and opening up new opportunities for integrations without building from scratch using the public API.
 

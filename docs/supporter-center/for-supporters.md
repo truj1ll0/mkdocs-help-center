@@ -50,7 +50,13 @@ Under Donation details, you can adjust:
 
 Under Payment details, you can update the credit card on file or switch to bank transfer.
 
-## Cancel a recurring donation
+### Retry a recurring donation
+
+When you miss a recurring donation for any reason, you can update your payment details and retry the donation. To retry a missed recurring donation, go to your donation and select **Retry**. Once you update your payment details, select **Retry Donation** to process your recurring donation.
+
+![Retry recurring donation modal](assets/supporter-center/sc-retry-recurring-donation.png)
+
+### Cancel a recurring donation
 
 If you wish, you can cancel your recurring donation. Simply go to your recurring donation and select **Cancel donation**. You’ll also have the option to pause your monthly donation for up to three months instead.
 

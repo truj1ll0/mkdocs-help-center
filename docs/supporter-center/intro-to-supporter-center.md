@@ -22,10 +22,10 @@ To customize an organization’s Supporter Center in Classy:
 Then, select **Edit** to change the Hero Section and your Preferences. In this section, you can:
 
 - Add a hero image
-  - For best quality, use a 1184px by 265px image
+    - For best quality, use a 1184px by 265px image
 - Add a headline message
 - Choose whether to display donation statistics
-  - These include: current-year giving, all-time giving, and all-time fundraising
+    - These include: current-year giving, all-time giving, and all-time fundraising
 - Choose whether to allow supporters to download annual summaries of their receipts
 
 ## Use the Supporter Center
@@ -68,6 +68,12 @@ Under Donation details, you can adjust:
 - End date
 
 Under Payment details, you can update the credit card on file or switch to bank transfer.
+
+#### Retry a recurring donation
+
+When you miss a recurring donation for any reason, you can update your payment details and retry the donation. To retry a missed recurring donation, go to your donation and select **Retry**. Once you update your payment details, select **Retry Donation** to process your recurring donation.
+
+![Retry recurring donation modal](assets/supporter-center/sc-retry-recurring-donation.png)
 
 #### Cancel a recurring donation
 

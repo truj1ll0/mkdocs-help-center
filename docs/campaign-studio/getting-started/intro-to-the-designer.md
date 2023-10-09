@@ -1,12 +1,15 @@
 # Designer
 
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/fbu1uxzhk4?seo=true&videoFoam=true" title="Campaign Studio's Designer Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+
 Campaign Studio’s designer lets you build your campaign’s layout, design the look and feel of your pages, and add text, buttons, images, and custom code to create a donation page fit for your needs.
 
 In Campaign Studio, you can add or delete sections, drag and drop elements, and place widgets such as a donation form or FAQ where you need them.
 
 ## Add, remove, or move blocks
 
-You can add sections and elements to your canvas by dragging and dropping them from the editor to your canvas. To move or remove blocks, you’ll need to hover over the element or section and select the appropriate icon. 
+You can add sections and elements to your canvas by dragging and dropping them from the editor to your canvas. To move or remove blocks, you’ll need to hover over the element or section and select the appropriate icon.
 
 ### Add blocks
 
@@ -21,7 +24,7 @@ Remove sections, elements, or widgets by selecting the block you want to remove 
 ![Removing an element](assets/campaign-studio/cs-remove-element.gif)
 
 !!! tip
-    Confirm you’re removing the right element or section by viewing the tab that appears when hovering over the block.
+Confirm you’re removing the right element or section by viewing the tab that appears when hovering over the block.
 
 ### Move blocks
 
@@ -37,7 +40,7 @@ Layouts are either blank or pre-built sections you can drag and drop onto the ca
 
 ### Blank layouts
 
-Blank layouts consist of 1-section or 2-section layouts. These layouts do not include any elements or widgets. 
+Blank layouts consist of 1-section or 2-section layouts. These layouts do not include any elements or widgets.
 
 #### 1-section
 
@@ -57,11 +60,11 @@ The hero overlay is a 2-section layout with separate background images and a lef
 
 #### Donation layout
 
-The donation layout is a 2-section layout with a donation form, share button, and FAQ widget. It also includes a header and paragraph element. 
+The donation layout is a 2-section layout with a donation form, share button, and FAQ widget. It also includes a header and paragraph element.
 
 #### Footer
 
-The footer layout can only be added to the bottom of the page. It includes information about your organization, including the name, address, contact information, and social links. 
+The footer layout can only be added to the bottom of the page. It includes information about your organization, including the name, address, contact information, and social links.
 
 Use the editor to style the background color and opacity of the section. Also, select the **Configure** tab to edit the logo and social links that appear.
 
@@ -71,12 +74,12 @@ Elements are the page's content, including text, buttons, and images. You can ad
 
 The full list of elements includes:
 
-* Title
-* Heading
-* Paragraph
-* Button
-* Image
-* Custom code
+- Title
+- Heading
+- Paragraph
+- Button
+- Image
+- Custom code
 
 ### Title
 
@@ -108,17 +111,17 @@ Custom code elements let you add HTML and CSS to your campaign’s pages (Javasc
 
 ## Widgets
 
-Widgets are advanced elements with specific use cases and features built-in.  You can add widgets just like other blocks by dragging and dropping them onto the canvas.
+Widgets are advanced elements with specific use cases and features built-in. You can add widgets just like other blocks by dragging and dropping them onto the canvas.
 
 The full list of widgets includes:
 
-* Donation form
-* Share button
-* FAQ
+- Donation form
+- Share button
+- FAQ
 
 ### Donation form
 
-Supporters can use the donation form to contribute to your campaign. Once added to the canvas, you can customize the heading, the tax-deductible message at the bottom, the donation frequencies, and donation amounts. 
+Supporters can use the donation form to contribute to your campaign. Once added to the canvas, you can customize the heading, the tax-deductible message at the bottom, the donation frequencies, and donation amounts.
 
 !!! tip
 
@@ -126,11 +129,11 @@ Supporters can use the donation form to contribute to your campaign. Once added 
 
 ### Share button
 
-The share button lets supporters share your campaign via social media, email, or text. When someone selects your Share widget, a pop-up appears to share your campaign via the methods you allow. 
+The share button lets supporters share your campaign via social media, email, or text. When someone selects your Share widget, a pop-up appears to share your campaign via the methods you allow.
 
 Once added to the canvas, you can customize the heading and sub-heading that appears in the pop-up, the options that appear, and the style of the button.
 
-To edit the default messages used for sharing, visit your campaign’s [settings](settings.md). 
+To edit the default messages used for sharing, visit your campaign’s [settings](settings.md).
 
 ### FAQ
 

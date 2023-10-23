@@ -69,7 +69,9 @@ Next, locate and send over the auth credentials to Chariot:
 
 1. Locate the Chariot application you created in the **Your Applications** list and select **Edit**
 2. Find the **Client ID** and **Client Secret**
-3. Securely send them to Chariot (you can use a secret-sharing service like [Doppler](https://share.doppler.com)).
+3. Securely send them to Chariot using a secret-sharing service like [Doppler](https://share.doppler.com)
+4. Set the credentials to expire in **three days**
+5. Send to <developers@givechariot.com>
 
 #### API Request URL
 

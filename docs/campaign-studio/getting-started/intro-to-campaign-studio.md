@@ -7,6 +7,8 @@ Campaign Studio lets you build your campaign’s layout, design the look and fee
 
 In Campaign Studio, you can add or delete sections, drag and drop elements, and place widgets such as a donation form or FAQ where you need them.
 
+Want to know more about the difference between Campaign Studio and our current campaign builder? <span id="campaign-studio-feature-matrix">View our guide</span>.
+
 In this article, you’ll learn how to:
 
 - [Access Campaign Studio](#access-campaign-studio)

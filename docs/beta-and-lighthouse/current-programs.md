@@ -8,33 +8,13 @@ These programs are currently in beta. Sign up to participate or join the waitlis
 
 ### Campaign Studio
 
-**Current Status:** Closed Beta
+**Current Status:** Open Beta
 
-**Estimated Open Beta:** Oct 24
+**Estimated GA release:** To be determined
 
 Reimagined campaign builder with drag-and-drop, advanced customization, & peak page performance. Campaign Studio is fundraising reimagined. Whether you’re a single fundraiser or an advanced digital marketing team, get the right experience in front of the right donor to maximize conversion on your segmented appeals.
 
 [Sign up for waitlist](https://learn.classy.org/campaign-studio-early-access-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
-
-### Supporter Center
-
-**Current Status:** Open Beta
-
-**Estimated GA release:** Oct 24
-
-Redesigned supporter experience with more personalization and donor self-service tools. The next-generation Supporter Center provides nonprofits and supporters an all-new experience to better connect your supporters with your mission while improving the end-to-end donor experience.
-
-[Sign up to join](https://learn.classy.org/supporter-center-beta-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
-
-### Zapier
-
-**Current Status:** Closed Beta
-
-**Estimated Open Beta:** Oct 3
-
-Native integration between Classy and Zapier to unlock data and connectivity between 5,000 apps. The Zapier integration uses Classy's Public API to send Transaction, Supporter, and Campaign data, including all of the parameters associated with each object to empower you with your donor data.
-
-[Sign up for waitlist](https://learn.classy.org/beta-zapier-integration-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 
 ### Classy Live: Group Registration
 

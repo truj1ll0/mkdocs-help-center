@@ -2,6 +2,26 @@
 
 ## 2023
 
+### October 25
+
+#### Campaign Management
+
+<span class="tag tag--feature">:material-party-popper: Features</span>
+
+- Double the Donation Support
+
+<span class="tag tag--bug">:material-bug: Fixes</span>
+
+- Fixed an issue where organizations with the full spelling of their organization state name could not create a new Studio campaign.
+
+- Fixed an issue where the scroll bar was not appearing in step 2 of the campaign creation process.
+
+#### Email
+
+<span class="tag tag--feature">:material-party-popper: Features</span>
+
+- Admins can now send test emails to themselves.
+
 ### October 5
 
 #### Campaign Pages

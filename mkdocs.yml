@@ -70,9 +70,6 @@ nav:
       - Emails: campaign-studio/getting-started/email-studio.md
       - Settings: campaign-studio/getting-started/settings.md
       - Frequently asked questions: campaign-studio/getting-started/faq.md
-  - Supporter center:
-      - Intro to the Supporter Center: supporter-center/intro-to-supporter-center.md
-      - For Supporters: supporter-center/for-supporters.md
   - Classy Live:
       - Mobile app: classy-live/mobile-app.md
   - Current programs: beta-and-lighthouse/current-programs.md

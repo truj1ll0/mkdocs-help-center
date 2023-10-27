@@ -22,5 +22,5 @@ jobs:
             mkdocs-material-
       - run: pip install \
           mkdocs-material \
-          redirects
+          mkdocs-redirects
       - run: mkdocs gh-deploy --force

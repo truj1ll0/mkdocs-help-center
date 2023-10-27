@@ -59,6 +59,13 @@ extra:
     provider: google
     property: G-WFNJHCWKWV
 
+plugins:
+  - redirects:
+      redirect_maps:
+        "zapier-and-classy.md": "https://support.classy.org/s/article/zapier-and-classy"
+        "supporter-center/intro-to-supporter-center.md": "https://support.classy.org/s/article/edit-the-design-of-supporter-accounts"
+        "supporter-center/for-supporters.md": "https://support.classy.org/s/article/who-is-classy"
+
 #===================================================================================#
 # Mkdocs Navigation Tree
 #===================================================================================#

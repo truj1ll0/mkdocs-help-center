@@ -61,6 +61,7 @@ plugins:
         "zapier-and-classy.md": "https://support.classy.org/s/article/zapier-and-classy"
         "supporter-center/intro-to-supporter-center.md": "https://support.classy.org/s/article/edit-the-design-of-supporter-accounts"
         "supporter-center/for-supporters.md": "https://support.classy.org/s/article/who-is-classy"
+        "chariot-and-classy.md": "/chariot/chariot-and-classy.md"
 
 extra:
   analytics:
@@ -80,6 +81,9 @@ nav:
       - Frequently asked questions: campaign-studio/getting-started/faq.md
   - Classy Live:
       - Mobile app: classy-live/mobile-app.md
+  - Chariot:
+      - Chariot and Classy: chariot/chariot-and-classy.md
+      - Donor and Admin Experience: chariot/donor-and-admin-experience.md
   - Current programs: beta-and-lighthouse/current-programs.md
   - Release notes:
       - Campaign studio: release-notes/campaign-studio.md

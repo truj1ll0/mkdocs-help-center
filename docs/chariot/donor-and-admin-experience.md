@@ -46,6 +46,6 @@ DAF transaction will show up in Clasy manager in 'near-real' time.
 
 Different DAF providers have varying payment processing times for DAF gifts, and these timelines will be important to understand for efficient fund receipt.
 
-[Review the average wait times for specific DAFS](https://www.givechariot.com/donor-advised-fund-donation-wait-times)
+[Review the average wait times for specific DAFs](https://www.givechariot.com/donor-advised-fund-donation-wait-times)
 
 If you have any questions, please feel free to reach out to your Classy contact for the pilot, and we'll be happy to help.

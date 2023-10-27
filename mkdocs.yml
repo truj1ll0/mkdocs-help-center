@@ -45,8 +45,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.superfences
@@ -54,17 +54,18 @@ markdown_extensions:
       title: In this article
       toc_depth: 3
 
-extra:
-  analytics:
-    provider: google
-    property: G-WFNJHCWKWV
-
 plugins:
+  - search:
   - redirects:
       redirect_maps:
         "zapier-and-classy.md": "https://support.classy.org/s/article/zapier-and-classy"
         "supporter-center/intro-to-supporter-center.md": "https://support.classy.org/s/article/edit-the-design-of-supporter-accounts"
         "supporter-center/for-supporters.md": "https://support.classy.org/s/article/who-is-classy"
+
+extra:
+  analytics:
+    provider: google
+    property: G-WFNJHCWKWV
 
 #===================================================================================#
 # Mkdocs Navigation Tree

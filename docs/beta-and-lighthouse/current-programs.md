@@ -6,6 +6,16 @@ Discover the latest features currently in beta and other ways to partner with us
 
 These programs are currently in beta. Sign up to participate or join the waitlist.
 
+### Classy Manager Record Pages
+
+**Current Status:** Closed Beta
+
+**Open Beta ETA:** To be determined
+
+Redesigned, streamlined way to manage event attendees, fundraiser pages, and fundraising teams within the Classy Manager experience.
+
+[Sign Up for Waitlist](https://learn.classy.org/record-pages-beta.html)
+
 ### Campaign Studio
 
 **Current Status:** Open Beta

@@ -1,8 +1,3 @@
----
-search:
-  exclude: true
----
-
 # Chariot and Classy
 
 !!! example "To participate in the Chariot and Classy pilot program, you need to:"

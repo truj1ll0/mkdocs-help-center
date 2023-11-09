@@ -117,3 +117,35 @@ The giving season is the optimal time to surface a DAF giving option to donors w
 ## Pricing
 
 All fees and costs associated with the Classy x Chariot integration will be waived for pilot participants. Post-pilot, Chariot charges a 2.9% donation processing fee.
+
+## Frequently asked questions
+
+**How long do DAF donations take to be distributed to my organization?**
+
+Depending on the account and DAF provider, funds can take a few days to a few weeks.
+
+[Learn more about the wait times for different providers](https://www.givechariot.com/donor-advised-fund-donation-wait-times)
+
+**What DAF donor data will I receive?**
+
+Your organization will receive all information the form collects, including name, email, and mailing address. You'll also receive a Chariot ID, a unique, 5-digit identifier accompanying the DAF gift, helping you reconcile the transaction.
+
+**Do donors receive acknowledgment of their DAF donation post-giving?**
+
+Chariot and Classy do not send the DAF acknowledgment. Instead, each DAF provider sends varying information. Some may send acknowledgment to the donor when the money is received, while others may communicate when the grant is initiated.
+
+**How many DAFs are currently integrated?**
+
+Chariot is integrated with 70% of the DAF market (by assets under management). Regarding numbers, Chariot has about 20 integrations, which account for the largest providers in the market.
+
+**For DAFs that are not integrated, what is the process for making the gift? Does a supporter go directly to their site to log in?**
+
+For DAFs that are not integrated, Chariot redirects donors back to the Classy form to choose an alternative method. However, there is also an option for a donor to be redirected to their DAF portal to donate. In this scenario, Chariot collects the name, email, and donation amount suggested by the donor. However, because these grants are manual, we cannot guarantee that the donor submitted them.
+
+**Can you confirm that these donors will only receive a confirmation email from Classy, not a tax-deductible receipt?**
+
+The donor **will not** receive an email or receipt from Classy when they complete a DAF donation via Chariot. Once the DAF donation is processed, the donor will be redirected to a standard Thank You page. The donor would receive an email notification from their DAF brokerage (e.g., Fidelity Charitable), which would be consistent with the donor experience if they made the grant request directly from their DAF account.
+
+**For the Classy reporting, would we receive the donor-advised fund name (i.e., Kohl Fund at Fidelity)?**
+
+Currently, Classy will only receive the name of the Donor Advised Fund (i.e., Fidelity, Schwab) and the donor's information on the Classy form (First, Last, Email). The check or EFT will come with the Fund Name on the DAF side.

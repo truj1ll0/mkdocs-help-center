@@ -11,8 +11,8 @@ extra_css:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/logo-badge_indigo.png
-  favicon: assets/logo-badge_indigo.png
+  logo: assets/logo-badge_transparent.png
+  favicon: assets/logo-badge-favicon_indigo.png
   font:
     text: Mulish, Arial, Helvetica, sans-serif
 
@@ -61,7 +61,7 @@ plugins:
         "zapier-and-classy.md": "https://support.classy.org/s/article/zapier-and-classy"
         "supporter-center/intro-to-supporter-center.md": "https://support.classy.org/s/article/edit-the-design-of-supporter-accounts"
         "supporter-center/for-supporters.md": "https://support.classy.org/s/article/who-is-classy"
-        "chariot-and-classy.md": "/chariot/chariot-and-classy.md"
+        "chariot-and-classy.md": "chariot/chariot-and-classy.md"
 
 extra:
   analytics:
@@ -80,7 +80,9 @@ nav:
       - Settings: campaign-studio/getting-started/settings.md
       - Frequently asked questions: campaign-studio/getting-started/faq.md
   - Classy Live:
+      - Bulk close: classy-live/bulk-close.md
       - Mobile app: classy-live/mobile-app.md
+  - Record Pages: record-pages.md
   - Chariot:
       - Chariot and Classy: chariot/chariot-and-classy.md
       - Donor and Admin Experience: chariot/donor-and-admin-experience.md

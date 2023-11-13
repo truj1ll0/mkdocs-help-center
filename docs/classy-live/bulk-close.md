@@ -6,14 +6,9 @@ Also, attendees can visit their cart to pay for all their pending transactions i
 
 [View a demo of the feature](https://share.zight.com/9ZuLxvWN)
 
-!!! tip "Event tips"
+!!! example "Want to participate?"
 
-    We recommend:
-
-    * Adding attendee's cards on file during check-in
-    * Sending a CTA link to Invoice via Alerts to all attendees at the end of the event
-
-    This will help to ensure attendees can quickly complete payment on their own and will have a record of their transactions after the event.
+    <a href="https://learn.classy.org/classy-live-bulk-close-open-balances-beta.html">Sign up</a> to join the waitlist for Bulk Close of Balances on Classy Live.
 
 ## Collect balances
 
@@ -95,3 +90,12 @@ Attendees can also pay for multiple items in their cart at once. For an attendee
 ![Attendee view pay all button](https://learn.classy.org/rs/673-DCU-558/images/cl-attendee-pay-all.png?version=0)
 
 This will take the attendee to their invoice, where they can complete payment.
+
+!!! tip "Event tips"
+
+    We recommend:
+
+    * Adding attendee's cards on file during check-in
+    * Sending a CTA link to Invoice via Alerts to all attendees at the end of the event
+
+    This will help to ensure attendees can quickly complete payment on their own and will have a record of their transactions after the event.

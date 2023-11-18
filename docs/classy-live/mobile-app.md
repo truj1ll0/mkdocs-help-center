@@ -4,13 +4,17 @@ img { width: 50%; margin:auto!important; }
 
 # Classy Live Mobile App
 
-Classy Live’s mobile app lets admins easily manage their event’s check-in process.
+Classy Live’s mobile app lets admins efficiently manage their event’s check-in process.
 
-Right now, the app only supports manual check-in, but our team is working to expand its use.
+Today, the mobile app supports attendee check-in through tapping, swiping, or using a QR code scanner for in-person events.
+
+In the future, the app will let event coordinators collect information, process payments, and more.
 
 ## Login
 
-Once approved for the mobile app program, you’ll receive a link to download the app on your mobile device. To access your Classy Live account:
+Once approved for the mobile app program, you’ll receive a link to download the app on your mobile device.
+
+To access your Classy Live account:
 
 1. Enter your Classy email address and password
 2. Tap **Sign in**
@@ -19,18 +23,34 @@ Once approved for the mobile app program, you’ll receive a link to download th
 
 ## Check-in
 
-Once logged in, you’ll land on a page with all your account’s Classy Live events. You can search for or filter your events based on past or present.
+Once logged in, you’ll land on an event overview page with all your account’s Classy Live events.
 
-Select an event to start using the check-in feature.
+You can search for or filter your events based on past or present.
+
+Select an event to start checking in attendees.
 
 ![Mobile app events page](https://learn.classy.org/rs/673-DCU-558/images/cl-mobile-events.PNG)
 
-After selecting an event, you’ll land on a page listing your event’s attendees. You can search for a specific attendee or filter your attendees based on check-in status and ticket type.
+After you select an event, you can view all the event’s registered attendees.
 
-To check in an attendee, select **Check in** next to their name. Then, you’ll see a success notification with information about the attendee, such as their seating assignment, bidder number, and ticket type.
+Search for a specific attendee or filter attendees based on check-in status and ticket type.
 
-![Mobile app attendees page](https://learn.classy.org/rs/673-DCU-558/images/cl-mobile-attendees.PNG)
+### Manual check-in
+
+Tap **Check in** next to an attendee's name to check them in manually.
+
+A success notification will appear with information about the attendees, such as their seating assignment, bidder number, and ticket type.
+
+### QR code check-in
+
+Tap **Scan Code** on the Attendees page to check in an attendee via QR code.
+
+You’ll need to grant the app permission to use your device’s camera. Once allowed, you can scan the attendee’s QR code to check them in.
+
+![Mobile app attendees page](https://learn.classy.org/rs/673-DCU-558/images/cl-mobile-app-attendees-page.png)
+
+A success notification will appear with information about the attendee, such as their seating assignment, bidder number, and ticket type.
 
 !!! note
 
-    You’ll need to use the Classy Live website to edit attendee information.
+    When editing attendee information or other features, use the Classy Live website.

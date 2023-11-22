@@ -66,7 +66,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: G-WFNJHCWKWV
+    property: G-NC9WXEJ9N3
 
 #===================================================================================#
 # Mkdocs Navigation Tree

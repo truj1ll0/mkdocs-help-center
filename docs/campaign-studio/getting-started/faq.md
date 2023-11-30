@@ -72,13 +72,6 @@ We have some remaining work to ensure that Studio Campaigns sync to Salesforce. 
 List of features that are currently unavailable for Early Access but will be coming soon. We will be continually adding features throughout early access, so make sure to check beck here regularly.
 
 - Donation Matching
-- Supporter chosen Program Designations
-- LinkedIn, Facebook sharing
-- GTM, GA4 integrations
-- Domain Masking
-- Venmo
-- Dedications
-- Ecards
-- Comment with Donation
+- LinkedIn sharing
 - Email Performance
 - PDF editing and listing

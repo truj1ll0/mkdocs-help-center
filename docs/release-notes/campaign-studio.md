@@ -2,6 +2,26 @@
 
 ## 2023
 
+### November 15
+
+<span class="tag tag--feature">:material-party-popper: Features</span>
+
+- Facebook Sharing
+
+- Supporter Chosen Program Designations
+
+- Additional GA4 Custom Events
+
+  - GA_purchase event
+
+- Comment with Donation
+
+- Dedication Emails
+
+- Dedication Ecards
+
+- Duplicating emails with Campaign Duplication
+
 ### October 25
 
 #### Campaign Management

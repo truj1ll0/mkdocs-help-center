@@ -65,7 +65,11 @@ We plan on creating many more types of elements, widgets, and layouts. You can e
 
 ## Will my campaigns sync to Salesforce?
 
-We have some remaining work to ensure that Studio Campaigns sync to Salesforce. This will be available soon.
+Yes, Campaign Studio campaigns will sync to Salesforce. Learn more about [Classy for Salesforce](https://support.classy.org/s/article/how-to-set-up-classy-for-salesforce).
+
+## Can I use Omatic's Raiser's Edge (RE) connector to sync Campaign Studio campaigns to RE?
+
+Yes, Campaign Studio campaigns will sync to RE through [Omatic's connector](https://omaticsoftware.com/integration-solutions-by-activity/importomatic-for-raisers-edge/).
 
 ## Coming Soon Features
 

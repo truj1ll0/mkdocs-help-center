@@ -10,6 +10,10 @@ Today, the mobile app supports attendee check-in through tapping, swiping, or us
 
 In the future, the app will let event coordinators collect information, process payments, and more.
 
+!!! example "Want to participate?"
+
+    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the waitlist for Classy Live's mobile app.
+
 ## Login
 
 Once approved for the mobile app program, you’ll receive a link to download the app on your mobile device.

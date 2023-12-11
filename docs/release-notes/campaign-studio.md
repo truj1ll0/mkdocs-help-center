@@ -6,6 +6,10 @@
 
 <span class="tag tag--feature">:material-party-popper: Features</span>
 
+- Classy for Salesforce integration compatibility (version 7.2 Julian and above)
+
+- Omatic integration compatibility
+
 - Facebook Sharing
 
 - Supporter Chosen Program Designations

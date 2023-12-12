@@ -24,7 +24,8 @@ Remove sections, elements, or widgets by selecting the block you want to remove 
 ![Removing an element](assets/campaign-studio/cs-remove-element.gif)
 
 !!! tip
-Confirm you’re removing the right element or section by viewing the tab that appears when hovering over the block.
+
+    Confirm you’re removing the right element or section by viewing the tab that appears when hovering over the block.
 
 ### Move blocks
 

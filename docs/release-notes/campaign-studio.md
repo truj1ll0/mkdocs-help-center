@@ -12,8 +12,6 @@
 
 - PDF receipts
 
-- Improvements to the Update Credit Card link in emails
-
 - Email Footer and Page footer updated to “Powered by Classy - A GoFundMe Company”
 
 - When “Stretch to fit” is selected on an image element, it will stretch the full width and height of the section, assuming it is the only block in that section.

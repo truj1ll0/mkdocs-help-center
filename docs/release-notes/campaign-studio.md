@@ -2,6 +2,26 @@
 
 ## 2023
 
+### December 12
+
+<span class="tag tag--feature">:material-party-popper: Features</span>
+
+- Ability to place custom code blocks in sections with other blocks
+
+- Email performance/deliverability statistics
+
+- PDF receipts
+
+- Improvements to the Update Credit Card link in emails
+
+- Email Footer and Page footer updated to “Powered by Classy - A GoFundMe Company”
+
+- When “Stretch to fit” is selected on an image element, it will stretch the full width and height of the section, assuming it is the only block in that section.
+
+<span class="tag tag--bug">:material-bug: Fixes</span>
+
+- Several bug fixes for minor issues in the checkout experience
+
 ### November 15
 
 <span class="tag tag--feature">:material-party-popper: Features</span>

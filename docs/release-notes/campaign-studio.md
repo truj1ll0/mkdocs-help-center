@@ -8,7 +8,7 @@
 
 - Ability to place custom code blocks in sections with other blocks
 
-- Email performance/deliverability statistics
+- Email performance/deliverability statistics - **Note:** We identified a bug preventing Opened, Clicked, and Failed statuses are not updating, so all emails are marked as Sent. We're working on a fix to include in our next release.
 
 - PDF receipts
 

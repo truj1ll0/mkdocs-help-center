@@ -16,11 +16,11 @@ In this article, you’ll learn how to:
 
     <a href="https://learn.classy.org/campaign-studio-early-access-sign-up.html">Sign up</a> to join the waitlist for Classy Studio.
 
-## Access Classy Studio
+## Access Campaign Studio
 
-To access Classy’s Classy Studio for the first time, you need to create a new campaign.
+To access Campaign Studio for the first time, you need to create a new campaign.
 
-If you already have a Classy Studio campaign, you can access Studio again by going to the campaign and selecting **Edit Campaign**.
+If you already have a Campaign Studio campaign, you can access Studio again by going to the campaign and selecting **Edit Campaign**.
 
 ### Create a campaign
 
@@ -28,14 +28,14 @@ To create a campaign using Studio:
 
 1. In the menu, select **Campaigns**
 2. Select **Create new campaign**
-3. Choose **Classy Studio**
+3. Choose **Campaign Studio**
 4. Select **Create**
 
 ![Create a new campaign modal](assets/campaign-studio/cs-create-campaign.png)
 
 !!! note
 
-    Classy Studio is only available for donation pages. We’re currently working on making it available for all campaign types.
+    Campaign Studio is only available for donation pages. We’re currently working on making it available for all campaign types.
 
 #### Choose a starting point
 

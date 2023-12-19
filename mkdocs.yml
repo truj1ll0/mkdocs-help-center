@@ -73,8 +73,8 @@ extra:
 #===================================================================================#
 nav:
   - Home: index.md
-  - Campaign studio:
-      - Intro to Campaign Studio: campaign-studio/getting-started/intro-to-campaign-studio.md
+  - Classy Studio:
+      - Intro to Classy Studio: campaign-studio/getting-started/intro-to-campaign-studio.md
       - Designer: campaign-studio/getting-started/intro-to-the-designer.md
       - Emails: campaign-studio/getting-started/email-studio.md
       - Settings: campaign-studio/getting-started/settings.md
@@ -89,4 +89,4 @@ nav:
       - Donor and Admin Experience: chariot/donor-and-admin-experience.md
   - Current programs: beta-and-lighthouse/current-programs.md
   - Release notes:
-      - Campaign studio: release-notes/campaign-studio.md
+      - Classy Studio: release-notes/campaign-studio.md

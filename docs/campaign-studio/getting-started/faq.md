@@ -4,15 +4,15 @@
 
 Yes. While starting with donation and thank you pages only, we are working to build the Studio Experience for all campaign types, including crowdfunding, peer-to-peer, and events.
 
-## Will Campaign Studio replace the current campaign builder and pages?
+## Will Classy Studio replace the current campaign builder and pages?
 
-Yes, Campaign Studio will eventually be Classy’s sole campaign-building experience. The sunset of our current campaign builder will not occur until we are confident that we have parity with our current builder and campaign types. So, in the near future, you can continue creating and launching campaigns in our legacy experience.
+Yes, Classy Studio will eventually be Classy’s sole campaign-building experience. The sunset of our current campaign builder will not occur until we are confident that we have parity with our current builder and campaign types. So, in the near future, you can continue creating and launching campaigns in our legacy experience.
 
-## Is Campaign Templating available for Campaign Studio?
+## Is Campaign Templating available for Classy Studio?
 
-Not yet, but it will be. We are developing templating for Campaign Studio specifically, which will be available later.
+Not yet, but it will be. We are developing templating for Classy Studio specifically, which will be available later.
 
-## When should I use Campaign Studio versus Embedded Donation Forms versus our current campaign builder?
+## When should I use Classy Studio versus Embedded Donation Forms versus our current campaign builder?
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ Not yet, but it will be. We are developing templating for Campaign Studio specif
 <p>
 (Email, paid ads, social media, direct mail)
    </td>
-   <td>Campaign Studio
+   <td>Classy Studio
    </td>
    <td>Control the narrative and align the content and design of your campaign based on the referral source, audience, and donor interest. Unleash creativity and provide more context and storytelling to drive a larger impact. 
    </td>
@@ -65,11 +65,11 @@ We plan on creating many more types of elements, widgets, and layouts. You can e
 
 ## Will my campaigns sync to Salesforce?
 
-Yes, Campaign Studio campaigns will sync to Salesforce. Learn more about [Classy for Salesforce](https://support.classy.org/s/article/how-to-set-up-classy-for-salesforce).
+Yes, Classy Studio campaigns will sync to Salesforce. Learn more about [Classy for Salesforce](https://support.classy.org/s/article/how-to-set-up-classy-for-salesforce).
 
-## Can I use Omatic's Raiser's Edge (RE) connector to sync Campaign Studio campaigns to RE?
+## Can I use Omatic's Raiser's Edge (RE) connector to sync Classy Studio campaigns to RE?
 
-Yes, Campaign Studio campaigns will sync to RE through [Omatic's connector](https://omaticsoftware.com/integration-solutions-by-activity/importomatic-for-raisers-edge/).
+Yes, Classy Studio campaigns will sync to RE through [Omatic's connector](https://omaticsoftware.com/integration-solutions-by-activity/importomatic-for-raisers-edge/).
 
 ## Coming Soon Features
 

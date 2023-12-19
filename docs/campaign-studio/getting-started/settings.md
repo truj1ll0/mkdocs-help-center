@@ -1,18 +1,16 @@
 # Settings
 
-Your campaign settings include details, theme, checkout preferences, and more. To adjust campaign settings, select the **Settings** tab in Campaign Studio.
+Your campaign settings include details, theme, checkout preferences, and more. To adjust campaign settings, select the **Settings** tab in Classy Studio.
 
-![Campaign studio settings](assets/campaign-studio/cs-settings.png)
+![Classy Studio settings](assets/campaign-studio/cs-settings.png)
 
 ## About
 
-About settings include campaign name, Short URLs, campaign contact, and more. 
-
+About settings include campaign name, Short URLs, campaign contact, and more.
 
 ### Campaign name
 
 This is the public-facing name of your campaign.
-
 
 ### Internal event name
 
@@ -20,17 +18,16 @@ Internal campaign names are secondary names that only appear in your account. Us
 
 For example, if you want to test two campaign versions, the public names could be the same, and you could use internal names to tell them apart.
 
-
 ### Short URLs
 
 !!! warning "Important"
-    Set up[ domain masking](https://support.classy.org/s/article/how-to-set-up-domain-masking) before you create and share any Short URLs. If you set up domain masking later, it will break any short URLs you have already created.
+Set up[ domain masking](https://support.classy.org/s/article/how-to-set-up-domain-masking) before you create and share any Short URLs. If you set up domain masking later, it will break any short URLs you have already created.
 
 A short URL is a shorter version of your campaign’s web address. Short URLs are easier to share and can be visually appealing. Learn more about [Short URLs](https://support.classy.org/s/article/edit-your-campaign-details#short-url).
 
 ### Redirect URLs
 
-Redirect URLs will send supporters to a page of your choice when a campaign is unpublished. Otherwise, they’ll be sent to a Classy**-**branded 404 page. 
+Redirect URLs will send supporters to a page of your choice when a campaign is unpublished. Otherwise, they’ll be sent to a Classy**-**branded 404 page.
 
 The redirect URL will automatically be filled in with the redirect set in your account settings, but you can update this for a specific campaign.
 
@@ -59,7 +56,6 @@ Choose whether to let donors indicate they’re using a company credit card and 
 Choose whether to show an opt-in checkbox for your organization’s marketing emails. You can also have the opt-in box checked by default.
 
 If someone opts out, your organization is responsible for adjusting your communications. You can find this information in your Supporters report.
-
 
 ### Donor covered fees
 
@@ -151,7 +147,7 @@ Separately, you can choose the font family for paragraph text elements. You can 
 
 ## Sharing
 
-Sharing settings let you customize the default content displayed when someone shares your content on Facebook, LinkedIn, Twitter, Text (SMS), or Email. 
+Sharing settings let you customize the default content displayed when someone shares your content on Facebook, LinkedIn, Twitter, Text (SMS), or Email.
 
 To edit the social links for your organization, go to your account settings.
 

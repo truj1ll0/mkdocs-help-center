@@ -1,4 +1,4 @@
-# Campaign studio release notes
+# Classy Studio release notes
 
 ## 2023
 

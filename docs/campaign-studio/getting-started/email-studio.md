@@ -2,7 +2,7 @@
 
 Email Studio is the one-stop solution for writing, managing, and delivering emails for your fundraising campaign. This versatile tool elevates the communication experience, enhancing your interaction with donors and supporters while ensuring your messages reflect your brand.
 
-To access Email Studio, select the **Emails** tab in Campaign Studio.
+To access Email Studio, select the **Emails** tab in Classy Studio.
 
 ## Navigate emails
 
@@ -20,17 +20,17 @@ Default campaign emails include:
 
 Select an email’s title to open the builder and edit the message. Select the toggle to turn on/off specific messages and select a message’s Click Rate to view additional metrics.
 
-![Campaign studio emails](assets/campaign-studio/cs-emails.png)
+![Classy Studio emails](assets/campaign-studio/cs-emails.png)
 
 ## Edit and preview emails
 
-Select an email’s title to go to the drag-and-drop builder for that message. Within the builder, you’ll find similar tools available in Campaign Studio:
+Select an email’s title to go to the drag-and-drop builder for that message. Within the builder, you’ll find similar tools available in Page's designer:
 
 - Drag-and-drop sections, headings, paragraphs, buttons, and images
 - Ability to customize the logo and style of your header
 - Ability to add, remove, and position custom widgets
 
-The Email builder differs from Campaign Studio in a couple of important ways:
+The Email builder differs from the designer in a couple of important ways:
 
 - A single, 1-section blank layout for the initial launch
 - A selection of limited, email-safe fonts

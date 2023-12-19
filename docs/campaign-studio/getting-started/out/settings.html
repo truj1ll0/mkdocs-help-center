@@ -1,131 +1,282 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Settings</title>
-        <style>
-/* From extension vscode.github */
-/*---------------------------------------------------------------------------------------------
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Settings</title>
+    <style>
+      /* From extension vscode.github */
+      /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-.vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only] {
-	display: none;
-}
+      .vscode-dark img[src$="\#gh-light-mode-only"],
+      .vscode-light img[src$="\#gh-dark-mode-only"] {
+        display: none;
+      }
+    </style>
 
-</style>
-        
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
-<style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
-                font-size: 14px;
-                line-height: 1.6;
-            }
-        </style>
-        <style>
-.task-list-item {
-    list-style-type: none;
-}
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css"
+    />
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI",
+          system-ui, "Ubuntu", "Droid Sans", sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+      }
+    </style>
+    <style>
+      .task-list-item {
+        list-style-type: none;
+      }
 
-.task-list-item-checkbox {
-    margin-left: -20px;
-    vertical-align: middle;
-    pointer-events: none;
-}
-</style>
-        
-    </head>
-    <body class="vscode-body vscode-light">
-        <h1 id="settings">Settings</h1>
-<p>Your campaign settings include details, theme, checkout preferences, and more. To adjust campaign settings, select the <strong>Settings</strong> tab in Campaign Studio.</p>
-<p><img src="file:////Users/taylortrujillo/Documents/MkDocs/help-center/docs/campaign-studio/getting-started/assets/campaign-studio/cs-settings.png" alt="Campaign studio settings"></p>
-<h2 id="about">About</h2>
-<p>About settings include campaign name, Short URLs, campaign contact, and more.</p>
-<h3 id="campaign-name">Campaign name</h3>
-<p>This is the public-facing name of your campaign.</p>
-<h3 id="internal-event-name">Internal event name</h3>
-<p>Internal campaign names are secondary names that only appear in your account. Use these to help stay organized while keeping your public campaign names on brand.</p>
-<p>For example, if you want to test two campaign versions, the public names could be the same, and you could use internal names to tell them apart.</p>
-<h3 id="short-urls">Short URLs</h3>
-<p>!!! warning &quot;Important&quot;
-Set up<a href="https://support.classy.org/s/article/how-to-set-up-domain-masking"> domain masking</a> before you create and share any Short URLs. If you set up domain masking later, it will break any short URLs you have already created.</p>
-<p>A short URL is a shorter version of your campaign’s web address. Short URLs are easier to share and can be visually appealing. Learn more about <a href="https://support.classy.org/s/article/edit-your-campaign-details#short-url">Short URLs</a>.</p>
-<h3 id="redirect-urls">Redirect URLs</h3>
-<p>Redirect URLs will send supporters to a page of your choice when a campaign is unpublished. Otherwise, they’ll be sent to a Classy**-**branded 404 page.</p>
-<p>The redirect URL will automatically be filled in with the redirect set in your account settings, but you can update this for a specific campaign.</p>
-<h3 id="campaign-contact">Campaign contact</h3>
-<p>This contact information appears in your campaign's footer and emails. By default, we use your organization's email, but you can update the email and phone number for a specific campaign.</p>
-<h2 id="checkout">Checkout</h2>
-<p>Checkout settings include campaign preferences such as allowing anonymous donations and customizing donor-covered fees.</p>
-<h3 id="donations">Donations</h3>
-<p>Choose your preferences for the donation experience</p>
-<h4 id="anonymous-donations">Anonymous donations</h4>
-<p>Choose whether to let donors remain nameless when donating.</p>
-<h4 id="donate-with-a-company-credit-card">Donate with a company credit card</h4>
-<p>Choose whether to let donors indicate they’re using a company credit card and provide their company’s name for the receipt.</p>
-<h4 id="contact-opt-in-checkbox">Contact opt-in checkbox</h4>
-<p>Choose whether to show an opt-in checkbox for your organization’s marketing emails. You can also have the opt-in box checked by default.</p>
-<p>If someone opts out, your organization is responsible for adjusting your communications. You can find this information in your Supporters report.</p>
-<h3 id="donor-covered-fees">Donor covered fees</h3>
-<p>Choose your preferences for donors who cover donation transaction fees. Learn more about <a href="https://support.classy.org/s/article/donor-covered-fees">donor covered fees</a>.</p>
-<h4 id="cover-fees">Cover fees</h4>
-<p>Choose whether donors can cover transaction fees on donations. You can also check the cover fees box by default.</p>
-<h4 id="percentage">Percentage</h4>
-<p>Set the donor covered fees add-on rate for the campaign. This can be set at the account level and customized on specific campaigns.</p>
-<h2 id="program-designations">Program designations</h2>
-<p>Program designations let you organize the donations made to your organization and let supporters choose where their donation goes. Learn more about <a href="https://support.classy.org/s/article/how-to-use-program-designations">program designations</a>.</p>
-<h3 id="default-designation">Default designation</h3>
-<p>Every Classy account has a General Fund Project program designation by default. After you create your program designations in account settings, you can select a new default selection for your campaign.</p>
-<h3 id="active-designations">Active designations</h3>
-<p>When supporters donate, they can choose from your active designations.</p>
-<h3 id="all-designations">All designations</h3>
-<p>To add additional active designations to your donation form, choose from your all designations list and select <strong>Move to active designations</strong>.</p>
-<h2 id="campaign-theme">Campaign theme</h2>
-<p>The campaign theme is your campaign’s branding. These settings let you adjust your campaign’s logo, colors, and typography.</p>
-<h3 id="logos">Logos</h3>
-<p>There are two campaign logos you can add to your campaign’s pages—the header logo and the footer logo.</p>
-<h4 id="header-logo">Header logo</h4>
-<p>For a header logo, we recommend an image height of 180px. You can also add a link to your logo to take supporters to a website of your choice.</p>
-<h4 id="footer-logo">Footer logo</h4>
-<p>For a footer logo, we also recommend an image height of 180px.</p>
-<h3 id="colors">Colors</h3>
-<p>There are a few options to customize the color’s of your campaign’s text and buttons.</p>
-<h4 id="primary-color">Primary color</h4>
-<p>The primary color will be used for donation amounts. We recommend a color with high contrast to help it stand out.</p>
-<h4 id="secondary-color">Secondary color</h4>
-<p>The secondary color will be used for log-in and share buttons.</p>
-<h4 id="tertiary-color">Tertiary color</h4>
-<p>The tertiary color defines your footer’s background color.</p>
-<h4 id="text-color">Text color</h4>
-<p>The text color applies to all text content. It will default to white for dark backgrounds.</p>
-<h4 id="background">Background</h4>
-<p>The background color will be the default color for your campaign’s background. However, you can adjust the background color for elements under the <strong>Pages</strong> tab.</p>
-<h4 id="background-accent">Background accent</h4>
-<p>Some sections and elements may have an accented background to make it stand out. Adjust the background accent to change the default color used. However, these can also be individually customized under the <strong>Pages</strong> tab.</p>
-<h3 id="typography">Typography</h3>
-<p>Typography lets you choose the font family for your entire campaign and the font family, style, and size for specific text elements.</p>
-<h4 id="default-font">Default font</h4>
-<p>The default font will be the family used for all text on your campaign.</p>
-<h4 id="headings">Headings</h4>
-<p>You can also choose the font family for headings across your campaign and customize the style (bold or regular) and size of individual headings.</p>
-<h4 id="paragraphs">Paragraphs</h4>
-<p>Separately, you can choose the font family for paragraph text elements. You can also set the font style (regular or bold) and size of individual paragraphs types.</p>
-<h2 id="sharing">Sharing</h2>
-<p>Sharing settings let you customize the default content displayed when someone shares your content on Facebook, LinkedIn, Twitter, Text (SMS), or Email.</p>
-<p>To edit the social links for your organization, go to your account settings.</p>
-<h2 id="custom-questions">Custom questions</h2>
-<p>Custom questions let you gather additional information about your supporters during checkout. You can turn on and mark required pre-defined questions or create new ones.</p>
-<h3 id="pre-defined-questions">Pre-defined questions</h3>
-<p>Pre-defined questions are default questions for your campaign, you can toggle each one on to have it show on your campaign, mark it required, and customize some of them.</p>
-<h3 id="add-custom-questions">Add custom questions</h3>
-<p>If you want to ask additional questions, type in your question under Add custom questions, select its type, and select <strong>Add question</strong>.</p>
-<p>After you create a custom question, you can edit or delete it under <strong>Manage questions.</strong></p>
-
-        
-        
-    </body>
-    </html>
+      .task-list-item-checkbox {
+        margin-left: -20px;
+        vertical-align: middle;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body class="vscode-body vscode-light">
+    <h1 id="settings">Settings</h1>
+    <p>
+      Your campaign settings include details, theme, checkout preferences, and
+      more. To adjust campaign settings, select the
+      <strong>Settings</strong> tab in Classy Studio.
+    </p>
+    <p>
+      <img
+        src="file:////Users/taylortrujillo/Documents/MkDocs/help-center/docs/campaign-studio/getting-started/assets/campaign-studio/cs-settings.png"
+        alt="Classy Studio settings"
+      />
+    </p>
+    <h2 id="about">About</h2>
+    <p>
+      About settings include campaign name, Short URLs, campaign contact, and
+      more.
+    </p>
+    <h3 id="campaign-name">Campaign name</h3>
+    <p>This is the public-facing name of your campaign.</p>
+    <h3 id="internal-event-name">Internal event name</h3>
+    <p>
+      Internal campaign names are secondary names that only appear in your
+      account. Use these to help stay organized while keeping your public
+      campaign names on brand.
+    </p>
+    <p>
+      For example, if you want to test two campaign versions, the public names
+      could be the same, and you could use internal names to tell them apart.
+    </p>
+    <h3 id="short-urls">Short URLs</h3>
+    <p>
+      !!! warning &quot;Important&quot; Set up<a
+        href="https://support.classy.org/s/article/how-to-set-up-domain-masking"
+      >
+        domain masking</a
+      >
+      before you create and share any Short URLs. If you set up domain masking
+      later, it will break any short URLs you have already created.
+    </p>
+    <p>
+      A short URL is a shorter version of your campaign’s web address. Short
+      URLs are easier to share and can be visually appealing. Learn more about
+      <a
+        href="https://support.classy.org/s/article/edit-your-campaign-details#short-url"
+        >Short URLs</a
+      >.
+    </p>
+    <h3 id="redirect-urls">Redirect URLs</h3>
+    <p>
+      Redirect URLs will send supporters to a page of your choice when a
+      campaign is unpublished. Otherwise, they’ll be sent to a
+      Classy**-**branded 404 page.
+    </p>
+    <p>
+      The redirect URL will automatically be filled in with the redirect set in
+      your account settings, but you can update this for a specific campaign.
+    </p>
+    <h3 id="campaign-contact">Campaign contact</h3>
+    <p>
+      This contact information appears in your campaign's footer and emails. By
+      default, we use your organization's email, but you can update the email
+      and phone number for a specific campaign.
+    </p>
+    <h2 id="checkout">Checkout</h2>
+    <p>
+      Checkout settings include campaign preferences such as allowing anonymous
+      donations and customizing donor-covered fees.
+    </p>
+    <h3 id="donations">Donations</h3>
+    <p>Choose your preferences for the donation experience</p>
+    <h4 id="anonymous-donations">Anonymous donations</h4>
+    <p>Choose whether to let donors remain nameless when donating.</p>
+    <h4 id="donate-with-a-company-credit-card">
+      Donate with a company credit card
+    </h4>
+    <p>
+      Choose whether to let donors indicate they’re using a company credit card
+      and provide their company’s name for the receipt.
+    </p>
+    <h4 id="contact-opt-in-checkbox">Contact opt-in checkbox</h4>
+    <p>
+      Choose whether to show an opt-in checkbox for your organization’s
+      marketing emails. You can also have the opt-in box checked by default.
+    </p>
+    <p>
+      If someone opts out, your organization is responsible for adjusting your
+      communications. You can find this information in your Supporters report.
+    </p>
+    <h3 id="donor-covered-fees">Donor covered fees</h3>
+    <p>
+      Choose your preferences for donors who cover donation transaction fees.
+      Learn more about
+      <a href="https://support.classy.org/s/article/donor-covered-fees"
+        >donor covered fees</a
+      >.
+    </p>
+    <h4 id="cover-fees">Cover fees</h4>
+    <p>
+      Choose whether donors can cover transaction fees on donations. You can
+      also check the cover fees box by default.
+    </p>
+    <h4 id="percentage">Percentage</h4>
+    <p>
+      Set the donor covered fees add-on rate for the campaign. This can be set
+      at the account level and customized on specific campaigns.
+    </p>
+    <h2 id="program-designations">Program designations</h2>
+    <p>
+      Program designations let you organize the donations made to your
+      organization and let supporters choose where their donation goes. Learn
+      more about
+      <a
+        href="https://support.classy.org/s/article/how-to-use-program-designations"
+        >program designations</a
+      >.
+    </p>
+    <h3 id="default-designation">Default designation</h3>
+    <p>
+      Every Classy account has a General Fund Project program designation by
+      default. After you create your program designations in account settings,
+      you can select a new default selection for your campaign.
+    </p>
+    <h3 id="active-designations">Active designations</h3>
+    <p>
+      When supporters donate, they can choose from your active designations.
+    </p>
+    <h3 id="all-designations">All designations</h3>
+    <p>
+      To add additional active designations to your donation form, choose from
+      your all designations list and select
+      <strong>Move to active designations</strong>.
+    </p>
+    <h2 id="campaign-theme">Campaign theme</h2>
+    <p>
+      The campaign theme is your campaign’s branding. These settings let you
+      adjust your campaign’s logo, colors, and typography.
+    </p>
+    <h3 id="logos">Logos</h3>
+    <p>
+      There are two campaign logos you can add to your campaign’s pages—the
+      header logo and the footer logo.
+    </p>
+    <h4 id="header-logo">Header logo</h4>
+    <p>
+      For a header logo, we recommend an image height of 180px. You can also add
+      a link to your logo to take supporters to a website of your choice.
+    </p>
+    <h4 id="footer-logo">Footer logo</h4>
+    <p>For a footer logo, we also recommend an image height of 180px.</p>
+    <h3 id="colors">Colors</h3>
+    <p>
+      There are a few options to customize the color’s of your campaign’s text
+      and buttons.
+    </p>
+    <h4 id="primary-color">Primary color</h4>
+    <p>
+      The primary color will be used for donation amounts. We recommend a color
+      with high contrast to help it stand out.
+    </p>
+    <h4 id="secondary-color">Secondary color</h4>
+    <p>The secondary color will be used for log-in and share buttons.</p>
+    <h4 id="tertiary-color">Tertiary color</h4>
+    <p>The tertiary color defines your footer’s background color.</p>
+    <h4 id="text-color">Text color</h4>
+    <p>
+      The text color applies to all text content. It will default to white for
+      dark backgrounds.
+    </p>
+    <h4 id="background">Background</h4>
+    <p>
+      The background color will be the default color for your campaign’s
+      background. However, you can adjust the background color for elements
+      under the <strong>Pages</strong> tab.
+    </p>
+    <h4 id="background-accent">Background accent</h4>
+    <p>
+      Some sections and elements may have an accented background to make it
+      stand out. Adjust the background accent to change the default color used.
+      However, these can also be individually customized under the
+      <strong>Pages</strong> tab.
+    </p>
+    <h3 id="typography">Typography</h3>
+    <p>
+      Typography lets you choose the font family for your entire campaign and
+      the font family, style, and size for specific text elements.
+    </p>
+    <h4 id="default-font">Default font</h4>
+    <p>
+      The default font will be the family used for all text on your campaign.
+    </p>
+    <h4 id="headings">Headings</h4>
+    <p>
+      You can also choose the font family for headings across your campaign and
+      customize the style (bold or regular) and size of individual headings.
+    </p>
+    <h4 id="paragraphs">Paragraphs</h4>
+    <p>
+      Separately, you can choose the font family for paragraph text elements.
+      You can also set the font style (regular or bold) and size of individual
+      paragraphs types.
+    </p>
+    <h2 id="sharing">Sharing</h2>
+    <p>
+      Sharing settings let you customize the default content displayed when
+      someone shares your content on Facebook, LinkedIn, Twitter, Text (SMS), or
+      Email.
+    </p>
+    <p>
+      To edit the social links for your organization, go to your account
+      settings.
+    </p>
+    <h2 id="custom-questions">Custom questions</h2>
+    <p>
+      Custom questions let you gather additional information about your
+      supporters during checkout. You can turn on and mark required pre-defined
+      questions or create new ones.
+    </p>
+    <h3 id="pre-defined-questions">Pre-defined questions</h3>
+    <p>
+      Pre-defined questions are default questions for your campaign, you can
+      toggle each one on to have it show on your campaign, mark it required, and
+      customize some of them.
+    </p>
+    <h3 id="add-custom-questions">Add custom questions</h3>
+    <p>
+      If you want to ask additional questions, type in your question under Add
+      custom questions, select its type, and select
+      <strong>Add question</strong>.
+    </p>
+    <p>
+      After you create a custom question, you can edit or delete it under
+      <strong>Manage questions.</strong>
+    </p>
+  </body>
+</html>

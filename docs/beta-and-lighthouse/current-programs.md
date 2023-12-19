@@ -16,13 +16,13 @@ Redesigned, streamlined way to manage event attendees, fundraiser pages, and fun
 
 [Sign Up for Waitlist](https://learn.classy.org/record-pages-beta.html)
 
-### Campaign Studio
+### Classy Studio
 
 **Current Status:** Open Beta
 
 **Estimated GA release:** To be determined
 
-Reimagined campaign builder with drag-and-drop, advanced customization, & peak page performance. Campaign Studio is fundraising reimagined. Whether you’re a single fundraiser or an advanced digital marketing team, get the right experience in front of the right donor to maximize conversion on your segmented appeals.
+Reimagined campaign builder with drag-and-drop, advanced customization, & peak page performance. Classy Studio is fundraising reimagined. Whether you’re a single fundraiser or an advanced digital marketing team, get the right experience in front of the right donor to maximize conversion on your segmented appeals.
 
 [Sign up for waitlist](https://learn.classy.org/campaign-studio-early-access-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 

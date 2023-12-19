@@ -82,6 +82,7 @@ nav:
   - Classy Live:
       - Bulk close: classy-live/bulk-close.md
       - Mobile app: classy-live/mobile-app.md
+      - Card tokenization: classy-live/card-tokenization.md
   - Record Pages: record-pages.md
   - Chariot:
       - Chariot and Classy: chariot/chariot-and-classy.md

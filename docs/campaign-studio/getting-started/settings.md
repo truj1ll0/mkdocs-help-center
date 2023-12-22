@@ -21,7 +21,8 @@ For example, if you want to test two campaign versions, the public names could b
 ### Short URLs
 
 !!! warning "Important"
-Set up[ domain masking](https://support.classy.org/s/article/how-to-set-up-domain-masking) before you create and share any Short URLs. If you set up domain masking later, it will break any short URLs you have already created.
+
+    Set up [domain masking](https://support.classy.org/s/article/how-to-set-up-domain-masking) before you create and share any Short URLs. If you set up domain masking later, it will break any short URLs you have already created.
 
 A short URL is a shorter version of your campaign’s web address. Short URLs are easier to share and can be visually appealing. Learn more about [Short URLs](https://support.classy.org/s/article/edit-your-campaign-details#short-url).
 

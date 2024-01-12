@@ -14,7 +14,9 @@ Currently, Classy does not sync this card information to the event, and the purc
 
 ## Benefits of tokenization
 
-However, credit card tokenization does save the purchaser's card information. When turned on for your account, tokenization will match the purchaser's name and email to an attendee during checkout and then securely store the payment details for the connected event.
+Credit card tokenization makes it easy for attendees to use the same credit card they provided during registration.
+
+By matching the purchaser's name and email to an attendee during checkout and then securely storing the payment details for the integrated event, the attendee's card is saved to their record for use at the event.
 
 ## Rules for tokenization
 

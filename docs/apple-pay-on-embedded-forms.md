@@ -1,10 +1,6 @@
 # Add Apple Pay to Embedded Donation Forms
 
-Apple requires all merchants to host a verification file on their domain(s) to ensure that Apple Pay payments are only processed by authorized merchants.
-
-Domain verification helps to prevent fraudulent use of Apple Pay and protects donors from unauthorized transactions.
-
-To add Apple Pay as a payment option on your embedded donation forms, you must verify the domain where it will be used.
+You need to verify the domain where you plan to use Apple Pay to add it to your embedded donation forms. This is a security feature made by Apple to ensure that only authorized merchants process payments.
 
 To verify your domain:
 

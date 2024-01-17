@@ -86,6 +86,7 @@ nav:
       - Card tokenization: classy-live/card-tokenization.md
       - Group registration: classy-live/group-registration.md
   - Record Pages: record-pages.md
+  - Domain masking: domain-masking.md
   - Chariot:
       - Chariot and Classy: chariot/chariot-and-classy.md
       - Donor and Admin Experience: chariot/donor-and-admin-experience.md

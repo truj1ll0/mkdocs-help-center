@@ -28,7 +28,7 @@ To add the File Manager plugin:
 
 1. Go to your WordPress site’s Dashboard
 2. In the menu, select **Plugins** and **Add New**
-3. Search for and Install **File Manager**
+3. Search for and install **File Manager**
 
 ![Install file manager plugin](https://learn.classy.org/rs/673-DCU-558/images/edf-apple-pay-file-manager-plugin.png?version=1)
 
@@ -40,7 +40,7 @@ To upload the domain association file:
 
 1. In the menu, select **WP File Manager**
 2. Select the **Create New Folder** icon and name it `.well-known`
-3. Within .well-known, create a new folder and name it `apple-developer-merchantid-domain-association`
+3. Within `.well-known`, create a new folder and name it `apple-developer-merchantid-domain-association`
 4. Select the **Upload File** icon and upload the [domain association file](https://stripe.com/files/apple-pay/apple-developer-merchantid-domain-association)
 
 ![Using the file manager plugin](https://learn.classy.org/rs/673-DCU-558/images/edf-apple-pay-using-file-manager.png?version=0)

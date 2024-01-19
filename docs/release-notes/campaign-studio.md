@@ -1,5 +1,40 @@
 # Classy Studio release notes
 
+## 2024
+
+### January 16
+
+<span class="tag tag--feature">:material-party-popper: Features</span>
+
+- Style and copy updates to the Donation Form to accommodate smaller devices.
+- Donation Form button text colors will automatically switch between black and white depending on the background color to meet WCAG 2.0 AA standards.
+- Admins can now update the background color of the Share and Social Links buttons.
+- Update the design of Social Links to accommodate smaller screens better and add accessibility features.
+
+<span class="tag tag--bug">:material-bug: Fixes</span>
+
+- Updated campaign page titles from “Donate to {NPO Name}” to “Donate to {Campaign Name}”.
+
+#### Checkout
+
+<span class="tag tag--feature">:material-party-popper: Features</span>
+
+- Relocated the “Cover Transaction Fees” checkbox to align with itemized donation information on the summary.
+
+- Added the ability to turn off Plaid in the event an organization wants to use the legacy accounting/routing manual method.
+
+- Added commas to relevant number fields.
+
+<span class="tag tag--bug">:material-bug: Fixes</span>
+
+- Fixed issue where source codes weren’t being tracked.
+
+- Fixed validation issue where birthday “year” input field was accepting single digits.
+
+- Fixed validation issue where birthday “year” input field was red (indicating an error) on page load.
+
+- Fixed issue where Program Designation was blank on the transaction record.
+
 ## 2023
 
 ### December 12

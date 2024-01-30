@@ -1,8 +1,12 @@
 # Add Apple Pay to Embedded Donation Forms
 
-You need to verify the domain where you plan to use Apple Pay to add it to your embedded donation forms. This is a security feature made by Apple to ensure that only authorized merchants process payments.
+You need to verify the domain where you plan to use Apple Pay to add it to your embedded donation forms. To verify the domain, add the [domain association file](https://stripe.com/files/apple-pay/apple-developer-merchantid-domain-association) to your website's file structure and contact our [Care team](https://support.classy.org/s/contactcare).
 
-To verify your domain:
+This is a security feature made by Apple to ensure that only authorized merchants process payments.
+
+## General instructions
+
+To verify your domain on most website providers:
 
 1. Download the [domain association file](https://stripe.com/files/apple-pay/apple-developer-merchantid-domain-association)
 2. On your website, host the file at `/.well-known/apple-developer-merchantid-domain-association`
@@ -34,7 +38,7 @@ To add the File Manager plugin:
 
 4. Once installed, select **Activate**
 
-Now, you’ll have a new option for **WP File Manager **in your menu. This plugin lets you easily create folders and upload files to your site.
+Now, you’ll have a new option for **WP File Manager** in your menu. This plugin lets you easily create folders and upload files to your site.
 
 To upload the domain association file:
 

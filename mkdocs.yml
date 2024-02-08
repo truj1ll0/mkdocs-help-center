@@ -63,6 +63,11 @@ plugins:
         "supporter-center/intro-to-supporter-center.md": "https://support.classy.org/s/article/edit-the-design-of-supporter-accounts"
         "supporter-center/for-supporters.md": "https://support.classy.org/s/article/who-is-classy"
         "chariot-and-classy.md": "chariot/chariot-and-classy.md"
+        "campaign-studio/getting-started/intro-to-campaign-studio.md": "https://support.classy.org/s/article/intro-to-classy-studio"
+        "campaign-studio/getting-started/settings.md": "https://support.classy.org/s/article/intro-to-classy-studio"
+        "campaign-studio/getting-started/faq.md": "https://support.classy.org/s/article/intro-to-classy-studio"
+        "campaign-studio/getting-started/intro-to-the-designer.md": "https://support.classy.org/s/article/classy-studio-designer"
+        "campaign-studio/getting-started/email-studio.md": "https://support.classy.org/s/article/email-studio"
 
 extra:
   analytics:

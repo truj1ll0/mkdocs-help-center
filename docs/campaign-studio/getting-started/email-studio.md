@@ -20,7 +20,7 @@ Default campaign emails include:
 
 Select an email’s title to open the builder and edit the message. Select the toggle to turn on/off specific messages and select a message’s Click Rate to view additional metrics.
 
-![Classy Studio emails](assets/campaign-studio/cs-emails.png)
+![Classy Studio emails](https://learn.classy.org/rs/673-DCU-558/images/cs-emails.png?version=1)
 
 ## Edit and preview emails
 

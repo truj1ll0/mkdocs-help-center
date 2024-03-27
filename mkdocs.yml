@@ -79,22 +79,13 @@ extra:
 #===================================================================================#
 nav:
   - Home: index.md
-  - Classy Studio:
-      - Intro to Classy Studio: campaign-studio/getting-started/intro-to-campaign-studio.md
-      - Designer: campaign-studio/getting-started/intro-to-the-designer.md
-      - Emails: campaign-studio/getting-started/email-studio.md
-      - Settings: campaign-studio/getting-started/settings.md
-      - Frequently asked questions: campaign-studio/getting-started/faq.md
   - Classy Live:
       - Bulk close: classy-live/bulk-close.md
       - Mobile app: classy-live/mobile-app.md
       - Card tokenization: classy-live/card-tokenization.md
       - Group registration: classy-live/group-registration.md
-  - Record Pages: record-pages.md
   - Domain masking: domain-masking.md
-  - Chariot:
-      - Chariot and Classy: chariot/chariot-and-classy.md
-      - Donor and Admin Experience: chariot/donor-and-admin-experience.md
+  - C4SF Fundraising: classy-for-salesforce-fundraising.md
   - Current programs: beta-and-lighthouse/current-programs.md
   - Release notes:
       - Classy Studio: release-notes/campaign-studio.md

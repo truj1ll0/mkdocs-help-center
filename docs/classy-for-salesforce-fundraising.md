@@ -1,6 +1,6 @@
-# Install Classy for Salesforce Fundraising
+# Classy for Salesforce Nonprofit Cloud Integration
 
-Learn how to install Classy for Salesforce Fundraising in your Nonprofit Cloud or Education Cloud instance.
+The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
 
 ## Requirements
 

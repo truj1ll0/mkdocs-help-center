@@ -10,6 +10,10 @@ The calculation for donor covered fees works just as it does in Classy. Even the
 
 [Learn more about Donor Covered Fees on Classy](https://support.classy.org/s/article/donor-covered-fees)
 
+!!! example "Want to participate?"
+
+    <a href="https://learn.classy.org/cl-donor-covered-fees-closed-beta.html">Sign up</a> to join the waitlist for the closed beta.
+
 ## Turn on Donor Covered Fees
 
 If you use both the Auction and Text-to-Donate features at your event, you'll have separate donor-covered fee settings for each.

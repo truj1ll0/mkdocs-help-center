@@ -10,8 +10,6 @@ These programs are currently in beta. Sign up to participate or join the waitlis
 
 **Current status:** Closed beta
 
-**Estimated open beta release:** To be determined
-
 The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
 
 [Sign up to join](https://learn.classy.org/beta-nonprofit-cloud-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
@@ -19,8 +17,6 @@ The Classy x Nonprofit Cloud integration is built with powerful technology for t
 ### Classy Live: Bulk close of balances
 
 **Current status:** Closed beta
-
-**Estimated open beta release:** To be determined
 
 Bulk close of balances lets admins and attendees complete multiple pending transactions at once. Admins can collect balances from multiple transactions (Max 100 transactions at a time) or select specific ones to collect.
 
@@ -32,31 +28,25 @@ Also, attendees can visit their cart to pay for all their pending transactions i
 
 **Current status:** Closed Beta
 
-**Estimated open beta release:** To be determined
-
 Classy Live’s mobile app lets admins efficiently manage their event’s check-in process.
 
 Today, the mobile app supports attendee check-in through tapping, swiping, or using a QR code scanner for in-person events.
 
 In the future, the app will let event coordinators collect information, process payments, and more.
 
-_Coming soon - open beta sign up_
+_Open beta sign up - Coming soon_
 
 ### Classy Live: Card tokenization
 
 **Current status:** Closed Beta
 
-**Estimated open beta release:** To be determined
-
 When attendees register for an event on Classy, the purchaser provides a credit card during checkout. Credit card tokenization is a process that can save the purchaser's card information, removing the hassle of re-entering it at the event.
 
-_Coming soon - open beta sign up_
+_Open beta sign up - Coming soon_
 
 ### Classy Live: Group Registration
 
 **Current status:** Open Beta
-
-**Estimated GA release:** To be determined
 
 Event registration experience for groups and sponsors to manage their information across multiple attendees. The Classy Live Group Registration Management solution provides a simplified approach for admins to maintain control and streamline the day-of-event experience.
 

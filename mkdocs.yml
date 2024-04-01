@@ -80,7 +80,7 @@ extra:
 nav:
   - Home: index.md
   - Classy Live:
-      - Donor covered fees: classy-live/donor-covered-fees.md
+      # - Donor covered fees: classy-live/donor-covered-fees.md
       - Bulk close: classy-live/bulk-close.md
       - Mobile app: classy-live/mobile-app.md
       - Card tokenization: classy-live/card-tokenization.md

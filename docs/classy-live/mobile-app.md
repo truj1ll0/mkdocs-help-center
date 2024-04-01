@@ -10,9 +10,9 @@ Today, the mobile app supports attendee check-in through tapping, swiping, or us
 
 In the future, the app will let event coordinators collect information, process payments, and more.
 
-!!! example "Want to participate?"
+!!! example "Sign up for this beta program is currently closed"
 
-    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the waitlist for Classy Live's mobile app.
+    This feature will soon be released for an open beta. Stay tuned and we'll update you when it is available to sign up again.
 
 ## Login
 

@@ -2,6 +2,10 @@
 
 The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
 
+!!! example "Want to participate?"
+
+    <a href="https://learn.classy.org/beta-nonprofit-cloud-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=closed_beta_programs">Sign up</a> to join the waitlist for the closed beta.
+
 ## Requirements
 
 To install the integration, you’ll need to:

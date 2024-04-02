@@ -12,7 +12,7 @@ These programs are currently in beta. Sign up to participate or join the waitlis
 
 The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
 
-[Sign up to join](https://learn.classy.org/beta-nonprofit-cloud-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
+_Open beta sign up - Coming soon_
 
 ### Classy Live: Bulk close of balances
 

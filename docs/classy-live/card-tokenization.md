@@ -51,3 +51,7 @@ No, offline tickets added through Classy do not have credit card information, so
 **Are attendees notified that their credit card information syncs to Classy Live?**
 
 There's a tooltip on all payment methods synced from Classy campaigns in the attendee's cart.
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/WD4msInJ) to report issues, make requests, or share positive notes.

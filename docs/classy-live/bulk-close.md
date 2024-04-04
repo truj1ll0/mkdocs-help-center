@@ -99,3 +99,7 @@ This will take the attendee to their invoice, where they can complete payment.
     * Sending a CTA link to Invoice via Alerts to all attendees at the end of the event
 
     This will help to ensure attendees can quickly complete payment on their own and will have a record of their transactions after the event.
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/WD4msInJ) to report issues, make requests, or share positive notes.

@@ -58,3 +58,7 @@ A success notification will appear with information about the attendee, such as 
 !!! note
 
     When editing attendee information or other features, use the Classy Live website.
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/WD4msInJ) to report issues, make requests, or share positive notes.

@@ -88,3 +88,7 @@ No, attendees do not receive any notification when they are assigned tickets. Ad
 The group purchaser's first name, last name, and email address cannot be edited. This helps ensure data integrity, as these are part of the purchase's billing information.
 
 However, you can still [edit the attendee's information](https://support.classy.org/s/article/attendee-management-on-classy-live#attendee-details). If the group purchaser's email is incorrect, you can invite them to help manage their group by sharing the **Manage** link with the purchaser.
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/WD4msInJ) to report issues, make requests, or share positive notes.

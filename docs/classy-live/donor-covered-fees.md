@@ -81,3 +81,7 @@ The add-on rate is set in the connected campaign's settings. Select **Edit Add-o
 Classy uses the same [calculation as Stripe](https://support.stripe.com/questions/passing-the-stripe-fee-on-to-customers) to ensure you receive the total intended donation amount.
 
 [View a detailed breakdown of the equation](https://support.classy.org/s/article/donor-covered-fees#detailed-breakdown-of-donor-covered-fees)
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://classy.typeform.com/to/WD4msInJ) to report issues, make requests, or share positive notes.

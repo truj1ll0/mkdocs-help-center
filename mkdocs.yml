@@ -68,6 +68,8 @@ plugins:
         "campaign-studio/getting-started/faq.md": "https://support.classy.org/s/article/intro-to-classy-studio"
         "campaign-studio/getting-started/intro-to-the-designer.md": "https://support.classy.org/s/article/classy-studio-designer"
         "campaign-studio/getting-started/email-studio.md": "https://support.classy.org/s/article/email-studio"
+        "domain-masking.md": "https://support.classy.org/s/article/how-to-set-up-domain-masking"
+        "classy-for-salesforce-fundraising.md": "https://support.classy.org/s/article/install-classy-for-salesforce-fundraising"
 
 extra:
   analytics:
@@ -85,6 +87,5 @@ nav:
       - Mobile app: classy-live/mobile-app.md
       - Card tokenization: classy-live/card-tokenization.md
       - Group registration: classy-live/group-registration.md
-  - Domain masking: domain-masking.md
-  - C4SF Fundraising: classy-for-salesforce-fundraising.md
+  - Giving cart: giving-cart.md
   - Current programs: beta-and-lighthouse/current-programs.md

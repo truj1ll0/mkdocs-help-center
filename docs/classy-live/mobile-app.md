@@ -28,27 +28,28 @@ To access your Classy Live account:
 
 If you purchased an M2 card reader through Classy Live, follow these steps to add and connect it:
 
-1. Tap the **Settings icon** in the top right corner of an event
-2. Tap **Add now**
-3. Select a location and the device
+1. Tap the event
+2. Tap the **Settings icon** in the top right corner
+3. Tap **Add now**
+4. Select a location and the device
 
 !!! note
 
     You must create a location for the card reader on the Classy Live event website. Learn more about [adding device locations](https://support.classy.org/s/article/card-readers-on-classy-live#add-device-location).
 
-1. Once you have added the location in Classy Live, select it from the menu
-2. Tap** Scan for available devices**
+5. Once you have added the location in Classy Live, select it from the menu
+6. Tap** Scan for available devices**
 
 Make sure your phone, tablet, or computer’s Bluetooth is turned on.
 
-1. Turn on your M2 device by pressing the button on the side once. The LEDs should turn on for 2 seconds and hear several beeps. If not, ensure the device is charged.
-2. The app will recognize the M2 and display a confirmation message.
+7. Turn on your M2 device by pressing the button on the side once. The LEDs should turn on for 2 seconds and hear several beeps. If not, ensure the device is charged.
+8. The app will recognize the M2 and display a confirmation message.
 
 !!! note
 
     If your device and the M2 are not connecting, ensure Bluetooth is on, and the M2 is on. For more help, view [Stripe’s documentation on setting up the Stripe Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2).
 
-1. After closing the confirmation window, your card reader will appear in the Select a device menu. Tap **Save** and **OK** in the confirmation window, and you’ll return to the Manage Card Readers screen.
+9. After closing the confirmation window, your card reader will appear in the Select a device menu. Tap **Save** and **OK** in the confirmation window, and you’ll return to the Manage Card Readers screen.
 
 ### Connect to your card reader
 

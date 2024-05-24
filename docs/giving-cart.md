@@ -29,3 +29,7 @@ This feature is in closed beta, and capabilities are limited while in developmen
 - You cannot change the program designation of individual order items.
 - ‘Recurring Giving Plans’ in Classy Manager will show a list of Transactions but not Updates.
 - Dedications can be applied at the order level, but not for each individual donation.
+
+!!! question "Have feedback?"
+
+    Let us know! [Fill out this form](https://docs.google.com/forms/d/1XGi2jYtXPDwBLbpwvfihNmo42VL2_OkbhChAtbMZQ50/viewform?edit_requested=true) to report issues, make requests, or share positive notes.

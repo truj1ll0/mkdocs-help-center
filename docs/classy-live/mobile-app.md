@@ -6,30 +6,72 @@ img { width: 50%; margin:auto!important; }
 
 Classy Live’s mobile app lets admins efficiently manage their event’s check-in process.
 
-Today, the mobile app supports attendee check-in through tapping, swiping, or using a QR code scanner for in-person events.
-
-In the future, the app will let event coordinators collect information, process payments, and more.
+Event admins can use the app to easily check-in attendees, add payment methods, and edit attendee details.
 
 !!! example "Sign up for this beta program is currently closed"
 
-    This feature will soon be released for an open beta. Stay tuned and we'll update you when it is available to sign up again.
+    This feature will soon be released for an open beta. Stay tuned, and we'll update you when it is available to sign up again.
 
 ## Login
 
-Once approved for the mobile app program, you’ll receive a link to download the app on your mobile device.
+Once approved for the mobile app program, you’ll receive a link to download the app.
 
 To access your Classy Live account:
 
 1. Enter your Classy email address and password
+
 2. Tap **Sign in**
 
 ![Mobile app sign in page](https://learn.classy.org/rs/673-DCU-558/images/cl-mobile-login.PNG)
 
+## Add a card reader
+
+If you purchased an M2 card reader through Classy Live, follow these steps to add and connect it:
+
+1. Tap the **Settings icon** in the top right corner of an event
+2. Tap **Add now**
+3. Select a location and the device
+
+!!! note
+
+    You must create a location for the card reader on the Classy Live event website. Learn more about [adding device locations](https://support.classy.org/s/article/card-readers-on-classy-live#add-device-location).
+
+1. Once you have added the location in Classy Live, select it from the menu
+2. Tap** Scan for available devices**
+
+Make sure your phone, tablet, or computer’s Bluetooth is turned on.
+
+1. Turn on your M2 device by pressing the button on the side once. The LEDs should turn on for 2 seconds and hear several beeps. If not, ensure the device is charged.
+2. The app will recognize the M2 and display a confirmation message.
+
+!!! note
+
+    If your device and the M2 are not connecting, ensure Bluetooth is on, and the M2 is on. For more help, view [Stripe’s documentation on setting up the Stripe Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2).
+
+1. After closing the confirmation window, your card reader will appear in the Select a device menu. Tap **Save** and **OK** in the confirmation window, and you’ll return to the Manage Card Readers screen.
+
+### Connect to your card reader
+
+To connect your mobile device to the card reader:
+
+1. On the Manage Card Readers screen, find your card reader
+2. Tap the **three-dot menu** and select **Connect to device**
+
+When the M2 is connected:
+
+- The LEDs will flash four times.
+- The first LED will flash every 5 seconds.
+- A star will appear next to the reader's name in the app.
+
+Once connected, you can easily collect card information for attendees during check-in or after the event.
+
+#### Device updates
+
+When connecting to your M2 reader, you might be prompted to update. This is normal as Stripe updates the reader's software. Wait for the update to complete, then connect to the card reader.
+
 ## Check-in
 
-Once logged in, you’ll land on an event overview page with all your account’s Classy Live events.
-
-You can search for or filter your events based on past or present.
+Once logged in, you can access your account’s Classy Live events. Search for or filter your events based on past or present.
 
 Select an event to start checking in attendees.
 
@@ -47,17 +89,54 @@ A success notification will appear with information about the attendees, such as
 
 ### QR code check-in
 
-Tap **Scan Code** on the Attendees page to check in an attendee via QR code.
+Tap **Scan Code **on the Attendees page to check in an attendee via QR code.
 
 You’ll need to grant the app permission to use your device’s camera. Once allowed, you can scan the attendee’s QR code to check them in.
 
 ![Mobile app attendees page](https://learn.classy.org/rs/673-DCU-558/images/cl-mobile-app-attendees-page.png)
 
-A success notification will appear with information about the attendee, such as their seating assignment, bidder number, and ticket type.
+A success notification will appear with information about the attendees, such as their seating assignment, bidder number, and ticket type.
+
+## Edit attendees
+
+To edit attendee details in the mobile app:
+
+1. Go to the event
+
+2. Tap on the attendee's name or select **View Profile**
+
+Then, you can edit their name, email, bidder number, phone number, and notes, plus you can opt them in to receive texts.
 
 !!! note
 
-    When editing attendee information or other features, use the Classy Live website.
+    You cannot edit external bidders or attendees added directly to Classy Live. We recommend adding [offline attendees](https://support.classy.org/s/article/manage-tickets-and-registrations#add-offline-tickets) to the Classy Campaign.
+
+## Add payment method
+
+To add a payment method via the mobile app:
+
+1. When checking in an attendee, tap **Add Payment Method** or select **View Payment Methods** in the attendee's profile
+
+2. Tap **Add from card reader** or **Manually add card**
+
+### Add from card reader
+
+To add a card via the card reader:
+
+1. Scroll down and tap **Tap, swipe, or insert card**
+2. Present the credit card using any of the three methods
+
+When the card is accepted:
+
+- You'll hear a beep.
+- All LEDs will turn on.
+- The app will show asterisks in the Card Number field for security.
+
+Add a phone number, opt the attendee into auction notification SMS messages, and tap **Save**.
+
+### Manually add card
+
+You also have the option to enter the attendee’s card information manually. If you don’t have a card reader or are having trouble connecting, tap **Manually add card** to enter the card details.
 
 !!! question "Have feedback?"
 

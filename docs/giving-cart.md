@@ -2,7 +2,7 @@
 
 Giving Cart lets your supporters checkout with more than one giving item at a time. With the feature on, every donate button on your page will now show the option to Add to cart.
 
-![Giving Cart example](https://learn.classy.org/rs/673-DCU-558/images/Giving-cart-add-to-cart.png)
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/0d00585d05034943aa2826d489b0dd2f?sid=73d9a523-248f-4cb3-86f9-cc068f8d178a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Turn on Giving Cart
 

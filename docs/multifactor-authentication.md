@@ -4,7 +4,15 @@ Multi-factor authentication (MFA) is a user verification method that requires mo
 
 During Early Access, you can use MFA for your organization’s Classy account. This will require admins to enter their password and OTP via the Okta Verify app on a mobile device to access your account.
 
-!!! example "Want to participate?"
+!!! example "To use MFA on Classy, you need:"
+
+    * A computer
+    * A smartphone
+    * Okta Verify downloaded on your device
+      * <a href="https://itunes.apple.com/ca/app/okta-verify/id490179405">iPhone</a>
+      * <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth">Android</a>
+
+    <strong>Want to participate?</strong>
 
     <a href="https://learn.classy.org/mfa-beta-program.html">Sign up</a> to join the waitlist for Bulk Close of Balances on Classy Live.
 
@@ -30,6 +38,9 @@ To set up MFA:
 
 1. Start setup on your computer and log in to [Classy](https://www.classy.org/sso) using your username and password
 2. You’ll be prompted to set up multifactor authentication. Select **Setup.**
+
+![Setup multifactor authentication](https://learn.classy.org/rs/673-DCU-558/images/mfa-setup-okta.png)
+
 3. Select your device type (iPhone or Android)
 4. Download the Okta Verify app on your smartphone and select **Next**
 5. Open the Okta Verify app on your device and select **Add an account or [+] button.**
@@ -47,6 +58,8 @@ To log in with MFA:
 1. Log in to Classy using your username and password
 2. Enter the one-time passcode provided in the Okta Verify app on your smartphone
 3. Select **Verify**
+
+![Verify with a one-time passcode](https://learn.classy.org/rs/673-DCU-558/images/mfa-enter-otp.png)
 
 And you’re in! We recommend marking the checkbox so we don't challenge you again on this device for 24 hours.
 

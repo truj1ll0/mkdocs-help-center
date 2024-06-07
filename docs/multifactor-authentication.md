@@ -1,16 +1,18 @@
+<style type="text/css" rel="stylesheet">
+img { width: 50%; margin:auto!important; }
+</style>
+
 # Multifactor authentication
 
 Multi-factor authentication (MFA) is a user verification method that requires more than one type of user validation, such as a password and a one-time passcode (OTP). It helps prevent unauthorized account access even if someone has acquired the username and password.
 
 During Early Access, you can use MFA for your organization’s Classy account. This will require admins to enter their password and OTP via the Okta Verify app on a mobile device to access your account.
 
-!!! example "To use MFA on Classy, you need:"
+!!! abstract "To use MFA on Classy, you need:"
 
     * A computer
     * A smartphone
-    * Okta Verify downloaded on your device
-      * <a href="https://itunes.apple.com/ca/app/okta-verify/id490179405">iPhone</a>
-      * <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth">Android</a>
+    * Okta Verify downloaded on your device: <a href="https://itunes.apple.com/ca/app/okta-verify/id490179405">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth">Android</a>
 
     <strong>Want to participate?</strong>
 
@@ -31,8 +33,6 @@ MFA can also help you:
 !!! note
 
     If you’re a new Classy admin, select the button in the ‘Claim your account’ email sent to your address to set up your account for the first time.
-
-You need a smartphone to set up MFA for your account.
 
 To set up MFA:
 

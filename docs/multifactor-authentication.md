@@ -12,7 +12,7 @@ During Early Access, you can use MFA for your organization’s Classy account. T
 
     * A computer
     * A smartphone
-    * Okta Verify downloaded on your device: <a href="https://itunes.apple.com/ca/app/okta-verify/id490179405">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth">Android</a>
+    * Okta Verify downloaded on your <a href="https://itunes.apple.com/ca/app/okta-verify/id490179405">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth">Android</a> device
 
     <strong>Want to participate?</strong>
 

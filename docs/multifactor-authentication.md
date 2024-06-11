@@ -36,7 +36,7 @@ MFA can also help you:
 
 To set up MFA:
 
-1. Start setup on your computer and log in to [Classy](https://www.classy.org/sso) using your username and password
+1. Start on your computer and log in to [Classy](https://www.classy.org/sso) using your username and password
 2. You’ll be prompted to set up multifactor authentication. Select **Setup.**
 
 ![Setup multifactor authentication](https://learn.classy.org/rs/673-DCU-558/images/mfa-setup-okta.png)

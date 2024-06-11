@@ -10,9 +10,9 @@ The calculation for donor covered fees works just as it does in Classy. Even the
 
 [Learn more about Donor Covered Fees on Classy](https://support.classy.org/s/article/donor-covered-fees)
 
-!!! example "Want to participate?"
+!!! example "Sign up for this beta program is currently closed"
 
-    <a href="https://learn.classy.org/cl-donor-covered-fees-closed-beta.html">Sign up</a> to join the waitlist for the closed beta.
+    This feature will soon be released for an open beta. Stay tuned and we'll update you when it is available to sign up again.
 
 ## Turn on Donor Covered Fees
 

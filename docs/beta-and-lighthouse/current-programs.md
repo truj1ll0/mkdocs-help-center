@@ -6,14 +6,6 @@ Discover the latest features currently in beta and other ways to partner with us
 
 These programs are currently in beta. Sign up to participate or join the waitlist.
 
-### Classy for Salesforce Nonprofit Cloud integration
-
-**Current status:** Closed beta
-
-The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
-
-_Open beta sign up - Coming soon_
-
 ### Classy Live: Bulk close of balances
 
 **Current status:** Closed beta
@@ -44,7 +36,7 @@ When attendees register for an event on Classy, the purchaser provides a credit 
 
 _Open beta sign up - Coming soon_
 
-### Classy Live: Group Registration
+### Classy Live: Group registration
 
 **Current status:** Open Beta
 
@@ -75,6 +67,16 @@ Small group product development discovery and discussion around reporting, analy
 ## Past programs
 
 These programs are now available to all Classy customers.
+
+### Classy for Salesforce Nonprofit Cloud integration
+
+**Current status:** General availability
+
+**GA release:** April 2024
+
+The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
+
+[Learn more about Classy for Salesforce Nonprofit Cloud](https://support.classy.org/s/article/install-classy-for-salesforce-fundraising)
 
 ### Classy Studio
 

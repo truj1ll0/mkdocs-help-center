@@ -1,18 +1,55 @@
 <style type="text/css" rel="stylesheet">
 img { width: 50%; margin:auto!important; }
+
+.md-typeset table:not([class]) td:not([align]), .md-typeset table:not([class]) th:not([align]) {
+    text-align: left;
+    vertical-align: text-bottom;
+}
+
+.md-typeset table:not([class]) {
+    border: 0;
+    border-radius: 19.8px;
+}
 </style>
 
-# Classy Live Mobile App
+# Classy Live Mobile App + M2 Card Readers
 
 Classy Live’s mobile app lets admins efficiently manage their event’s check-in process.
 
-Event admins can use the app to easily check-in attendees, add payment methods, and edit attendee details.
+Event admins can use the app to easily check-in attendees, add payment methods, and edit attendee details. Plus, you can use Stripe's Reader M2 to add attendee payment methods at check-in.
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the waitlist for the Classy Live Mobile App Closed Beta.
+    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the waitlist for the Classy Live Mobile App and Reader M2 Closed Beta.
 
-## Login
+## M2 card reader
+
+As part of the mobile app beta program, you can purchase Stripe's Reader M2 through Classy Live.
+
+Here's how the M2 compares to the previously available WisePOS E card readers:
+
+|                     | ![WisePOS E](https://learn.classy.org/rs/673-DCU-558/images/wise-pos-e.png) </br>WisePOS E | ![Reader M2](https://learn.classy.org/rs/673-DCU-558/images/m2-reader.png) </br>Reader M2 |
+| ------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| **Cost per device** | $282                                                                                       | $65                                                                                       |
+| **Connectivity**    | WiFi                                                                                       | Bluetooth                                                                                 |
+| **Feature**         | Add payment method                                                                         | Add payment method                                                                        |
+| **Requirements**    | Password-protected WiFi network                                                            | Smartphone or tablet with the Classy Live mobile app                                      |
+
+As part of the beta program, you can purchase the Reader M2 and accessories through Classy Live.
+
+### Order a card reader
+
+To purchase a reader:
+
+1. Go to your Classy Live organization dashboard and select **Billing**
+2. Under Card Reader Orders, select **Place Order**
+3. Add the **Reader M2** to your cart
+4. Enter shipping information and choose a shipping method
+5. Enter your card info and process order
+
+You'll receive updates about your order directly from Stripe.
+
+## Login to the mobile app
 
 Once approved for the mobile app program, you’ll receive a link to download the app.
 
@@ -24,9 +61,9 @@ To access your Classy Live account:
 
 ![Mobile app sign in page](https://learn.classy.org/rs/673-DCU-558/images/cl-mobile-login.PNG)
 
-## Add a card reader
+## Add an M2 card reader
 
-If you purchased an M2 card reader through Classy Live, follow these steps to add and connect it:
+To add your Reader M2 to your event:
 
 1. Tap the event
 2. Tap the **Settings icon** in the top right corner
@@ -46,11 +83,11 @@ If you purchased an M2 card reader through Classy Live, follow these steps to ad
 
 !!! note
 
-    If your device and the M2 are not connecting, ensure Bluetooth is on, and the M2 is on. For more help, view [Stripe’s documentation on setting up the Stripe Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2).
+    If your device and the M2 are not connecting, ensure Bluetooth is turned on, and the ReaderM2 is on. For more help, view [Stripe’s documentation on setting up the Stripe Reader M2](https://docs.stripe.com/terminal/payments/setup-reader/stripe-m2).
 
 After closing the confirmation window, your card reader will appear in the Select a device menu. Tap **Save** and **OK** in the confirmation window, and you’ll return to the Manage Card Readers screen.
 
-### Connect to your card reader
+### Connect to the card reader
 
 To connect your mobile device to the card reader:
 
@@ -71,7 +108,7 @@ Once connected, you can easily collect card information for attendees during che
 
 When connecting to your M2 reader, you might be prompted to update. This is normal as Stripe updates the reader's software. Wait for the update to complete, then connect to the card reader.
 
-## Check-in
+## Check-in with the mobile app
 
 Once logged in, you can access your account’s Classy Live events. Search for or filter your events based on past or present.
 
@@ -99,7 +136,7 @@ You’ll need to grant the app permission to use your device’s camera. Once al
 
 A success notification will appear with information about the attendees, such as their seating assignment, bidder number, and ticket type.
 
-## Edit attendees
+## Edit attendees with the mobile app
 
 To edit attendee details in the mobile app:
 

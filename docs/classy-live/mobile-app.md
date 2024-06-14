@@ -26,7 +26,7 @@ Event admins can use the app to easily check-in attendees, add payment methods, 
 
 As part of the mobile app beta program, you can purchase Stripe's Reader M2 through Classy Live.
 
-Here's how the M2 compares to the previously available WisePOS E card readers:
+Here's how the M2 compares to the WisePOS E card readers:
 
 |                     | ![WisePOS E](https://learn.classy.org/rs/673-DCU-558/images/wise-pos-e.png) </br>WisePOS E | ![Reader M2](https://learn.classy.org/rs/673-DCU-558/images/m2-reader.png) </br>Reader M2 |
 | ------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |

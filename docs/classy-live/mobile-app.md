@@ -20,7 +20,7 @@ Event admins can use the app to easily check-in attendees, add payment methods, 
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the waitlist for the Classy Live Mobile App and Reader M2 Closed Beta.
+    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the beta program for the Classy Live Mobile App and Reader M2 Closed Beta.
 
 ## M2 card reader
 

@@ -8,7 +8,7 @@ Also, attendees can visit their cart to pay for all their pending transactions i
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/classy-live-bulk-close-open-balances-beta.html">Sign up</a> to join the waitlist for Bulk Close of Balances on Classy Live.
+    <a href="https://learn.classy.org/classy-live-bulk-close-open-balances-beta.html">Sign up</a> to join the beta program for Bulk Close of Balances on Classy Live.
 
 ## Collect balances
 

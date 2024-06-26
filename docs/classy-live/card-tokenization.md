@@ -6,7 +6,7 @@ When attendees register for an event on Classy, the purchaser provides a credit 
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/credit-card-tokenization-beta.html">Sign up</a> to join the waitlist for Credit Card Tokenization on Classy Live.
+    <a href="https://learn.classy.org/credit-card-tokenization-beta.html">Sign up</a> to join the beta program for Credit Card Tokenization on Classy Live.
 
 ## Current checkout process
 

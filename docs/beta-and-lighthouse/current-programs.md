@@ -4,7 +4,15 @@ Discover the latest features currently in beta and other ways to partner with us
 
 ## Active and upcoming
 
-These programs are currently in beta. Sign up to participate or join the waitlist.
+These programs are currently in beta or coming soon. Sign up to participate or join the waitlist.
+
+### Classy Live: Bulk import attendees
+
+**Current status:** Coming soon
+
+Bulk import attendees lets admins upload a list of registered event attendees to their Classy Live event.
+
+The feature is currenly being worked on and a closed beta signup form will be available soon.
 
 ### Classy Live: Bulk close of balances
 
@@ -30,11 +38,11 @@ _Open beta sign up - Coming soon_
 
 ### Classy Live: Card tokenization
 
-**Current status:** Closed Beta
+**Current status:** Open Beta
 
 When attendees register for an event on Classy, the purchaser provides a credit card during checkout. Credit card tokenization is a process that can save the purchaser's card information, removing the hassle of re-entering it at the event.
 
-_Open beta sign up - Coming soon_
+[Sign up to join the credit card tokenization open beta](https://learn.classy.org/credit-card-tokenization-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 
 ### Classy Live: Group registration
 

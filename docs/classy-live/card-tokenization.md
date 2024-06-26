@@ -4,9 +4,9 @@ When attendees register for an event on Classy, the purchaser provides a credit 
 
 ![Example of tokenization](https://learn.classy.org/rs/673-DCU-558/images/tokenization-example.png?version=0)
 
-!!! example "Sign up for this beta program is currently closed"
+!!! example "Want to participate?"
 
-    This feature will soon be released for an open beta. Stay tuned and we'll update you when it is available to sign up again.
+    <a href="https://learn.classy.org/credit-card-tokenization-beta.html">Sign up</a> to join the waitlist for Credit Card Tokenization on Classy Live.
 
 ## Current checkout process
 

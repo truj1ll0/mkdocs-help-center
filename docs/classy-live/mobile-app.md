@@ -18,9 +18,9 @@ Classy Live’s mobile app lets admins efficiently manage their event’s check-
 
 Event admins can use the app to easily check-in attendees, add payment methods, and edit attendee details. Plus, you can use Stripe's Reader M2 to add attendee payment methods at check-in.
 
-!!! example "Want to participate?"
+!!! example "Sign up for this beta program is currently closed"
 
-    <a href="https://learn.classy.org/classy-live-mobile-app-closed-beta.html">Sign up</a> to join the beta program for the Classy Live Mobile App and Reader M2 Closed Beta.
+    This feature will soon be released for an open beta. Stay tuned and we'll update you when it is available to sign up again.
 
 ## M2 card reader
 

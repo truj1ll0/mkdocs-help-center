@@ -70,6 +70,7 @@ plugins:
         "campaign-studio/getting-started/email-studio.md": "https://support.classy.org/s/article/email-studio"
         "domain-masking.md": "https://support.classy.org/s/article/how-to-set-up-domain-masking"
         "classy-for-salesforce-fundraising.md": "https://support.classy.org/s/article/install-classy-for-salesforce-fundraising"
+        "classy-live/bulk-close.md": "https://support.classy.org/s/article/bulk-close-balances-in-classy-live"
 
 extra:
   analytics:
@@ -83,9 +84,9 @@ nav:
   - Home: index.md
   - Classy Live:
       - Donor covered fees: classy-live/donor-covered-fees.md
-      - Bulk close: classy-live/bulk-close.md
       - Mobile app + M2 card reader: classy-live/mobile-app.md
       - Card tokenization: classy-live/card-tokenization.md
       - Group registration: classy-live/group-registration.md
+  - Campaign Insights: campaign-insights.md
   - Giving Cart: giving-cart.md
   - Current programs: beta-and-lighthouse/current-programs.md

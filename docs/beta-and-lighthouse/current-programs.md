@@ -6,6 +6,12 @@ Discover the latest features currently in beta and other ways to partner with us
 
 These programs are currently in beta or coming soon. Sign up to participate or join the waitlist.
 
+### Campaign Insights
+
+**Current status:** Closed beta
+
+Campaign Insights provides an in-depth overview of your Classy campaign’s performance, including: transaction amounts, amount raised by time, one-time vs. recurring donations, and performance metrics such as conversion rate and donor covered fee rate.
+
 ### Classy Live: Bulk import attendees
 
 **Current status:** Coming soon
@@ -13,16 +19,6 @@ These programs are currently in beta or coming soon. Sign up to participate or j
 Bulk import attendees lets admins upload a list of registered event attendees to their Classy Live event.
 
 The feature is currenly being worked on and a closed beta signup form will be available soon.
-
-### Classy Live: Bulk close of balances
-
-**Current status:** Closed beta
-
-Bulk close of balances lets admins and attendees complete multiple pending transactions at once. Admins can collect balances from multiple transactions (Max 100 transactions at a time) or select specific ones to collect.
-
-Also, attendees can visit their cart to pay for all their pending transactions in bulk.
-
-[Sign up to join](https://learn.classy.org/classy-live-bulk-close-open-balances-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 
 ### Classy Live: Mobile app
 
@@ -75,6 +71,14 @@ Small group product development discovery and discussion around reporting, analy
 ## Past programs
 
 These programs are now available to all Classy customers.
+
+### Classy Live: Bulk close of balances
+
+**Current status:** Open beta (Available to all customers)
+
+Bulk close of balances lets admins and attendees complete multiple pending transactions at once. Admins can collect balances from multiple transactions (Max 100 transactions at a time) or select specific ones to collect.
+
+Also, attendees can visit their cart to pay for all their pending transactions in bulk.
 
 ### Classy for Salesforce Nonprofit Cloud integration
 

@@ -23,7 +23,7 @@ To view Campaign Insights:
 
 ![Insights tab](https://learn.classy.org/rs/673-DCU-558/images/campaign-insights-tab.png)
 
-## Transactions and fee coverage
+### Transactions and fee coverage
 
 Campaign Insights provide real-time updates on:
 
@@ -31,15 +31,15 @@ Campaign Insights provide real-time updates on:
 - Total net donation revenue (excluding all fees)
 - Total fees (add-on, processing, and platform fees)
 
-## Total amount raised by time
+### Total amount raised by time
 
 Sort and view how much the campaign has raised on Classy by day, week, month, year, or quarter.
 
-## One-time and recurring donors
+### One-time and recurring donors
 
 Quickly understand how many of your campaign’s donors are giving on a one-time or recurring basis so you can adjust your program accordingly.
 
-## Performance metrics
+### Performance metrics
 
 Campaign Insights also provides near real-time feedback on three core fundraising metrics:
 

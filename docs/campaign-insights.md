@@ -9,6 +9,10 @@ Campaign Insights provides an overview of a Classy campaign’s performance, inc
 
 ![Campaign insights example](https://learn.classy.org/rs/673-DCU-558/images/campaign-insights.png)
 
+!!! example "Want to participate?"
+
+    Campaign Insights is in **closed beta** and is **not yet available to all customers**. [Sign up](https://learn.classy.org/campaign-insights-beta.html?utm_source=early-access&utm_medium=help-center&utm_campaign=beta-program) to be notified when Campaign Insights is in open beta to gain early access.
+
 ## View Campaign Insights
 
 To view Campaign Insights:

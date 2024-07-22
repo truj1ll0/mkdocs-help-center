@@ -49,7 +49,7 @@ Campaign Insights also provides near real-time feedback on three core fundraisin
 
 !!! question "Have feedback?"
 
-    Let us know! [Fill out this form](https://classy.typeform.com/to/h4B8FgwI) to report issues, make requests, or share positive notes.
+    Let us know! [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSd-yl-tuTEa36h00Oer0sEipTzF176YPdXW7S_97JFEdBSgSg/viewform) to report issues, make requests, or share positive notes.
 
 ## **Frequently asked questions**
 

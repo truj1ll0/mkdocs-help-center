@@ -14,9 +14,9 @@ During Early Access, you can use MFA for your organization’s Classy account. T
     * A smartphone
     * Okta Verify downloaded on your <a href="https://itunes.apple.com/ca/app/okta-verify/id490179405">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth">Android</a> device
 
-    <strong>Want to participate?</strong>
+    **Want to participate?**
 
-    <a href="https://learn.classy.org/mfa-beta-program.html">Sign up</a> to join the waitlist for Bulk Close of Balances on Classy Live.
+    [Sign up to join Classy's MFA beta program.](https://learn.classy.org/mfa-beta-program.html?utm_source=early-access&utm_medium=help-center&utm_campaign=beta-program)
 
 ## Why is MFA important?
 

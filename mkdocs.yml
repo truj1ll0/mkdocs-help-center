@@ -71,6 +71,7 @@ plugins:
         "domain-masking.md": "https://support.classy.org/s/article/how-to-set-up-domain-masking"
         "classy-for-salesforce-fundraising.md": "https://support.classy.org/s/article/install-classy-for-salesforce-fundraising"
         "classy-live/bulk-close.md": "https://support.classy.org/s/article/bulk-close-balances-in-classy-live"
+        "giving-cart.md": "https://support.classy.org/s/article/giving-cart"
 
 extra:
   analytics:

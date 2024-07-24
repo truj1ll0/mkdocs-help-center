@@ -77,7 +77,7 @@ To add your Reader M2 to your event:
     You must create a location for the card reader on the Classy Live event website. Learn more about [adding device locations](https://support.classy.org/s/article/card-readers-on-classy-live#add-device-location).
 
 5. Once you have added the location in Classy Live, select it from the menu
-6. Tap** Scan for available devices**. Make sure your phone, tablet, or computer’s Bluetooth is turned on.
+6. Tap **Scan for available devices**. Make sure your phone or tablet's Bluetooth is turned on.
 7. Turn on your M2 device by pressing the button on the side once. The LEDs should turn on for 2 seconds and hear several beeps. If not, ensure the device is charged.
 8. The app will recognize the M2 and display a confirmation message.
 

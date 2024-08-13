@@ -20,7 +20,7 @@ Import attendees lets admins upload a list of registered event attendees to thei
 
 The feature is in a closed beta for select organizations.
 
-[Learn more about import attendees on Classy Live](/classy-live/import-attendees.md)
+[Learn more about import attendees on Classy Live](/help-center/classy-live/import-attendees/)
 
 ### Classy Live: Mobile app + M2 Readers
 

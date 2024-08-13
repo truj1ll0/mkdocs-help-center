@@ -20,7 +20,7 @@ Event admins can use the app to easily check-in attendees, add payment methods, 
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the beta program for the Classy Live mobile app and M2 readers.
+    <a href="https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the beta program for the Classy Live mobile app and M2 readers. The app is not available for organizations using <a href="https://support.classy.org/s/article/federated-sso">Federated Single Sign-on (SSO)</a>.
 
 ## M2 card reader
 

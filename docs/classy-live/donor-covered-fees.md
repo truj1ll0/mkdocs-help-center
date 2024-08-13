@@ -12,7 +12,7 @@ The calculation for donor covered fees works just as it does in Classy. Even the
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/cl-donor-covered-fees-closed-beta.html">Sign up</a> to join the beta program for Donor Covered Fees on Classy Live.
+    <a href="https://learn.classy.org/cl-donor-covered-fees-open-beta.html">Sign up</a> to join the beta program for Donor Covered Fees on Classy Live.
 
 ## Turn on Donor Covered Fees
 

@@ -14,31 +14,21 @@ Campaign Insights provides an in-depth overview of your Classy campaign’s perf
 
 ### Classy Live: Bulk import attendees
 
-**Current status:** Coming soon
+**Current status:** Closed beta
 
-Bulk import attendees lets admins upload a list of registered event attendees to their Classy Live event.
+Import attendees lets admins upload a list of registered event attendees to their Classy Live event.
 
-The feature is currenly being worked on and a closed beta signup form will be available soon.
+The feature is in a closed beta for select organizations.
 
-### Classy Live: Mobile app
+[Learn more about import attendees on Classy Live](/classy-live/import-attendees.md)
 
-**Current status:** Closed Beta
+### Classy Live: Mobile app + M2 Readers
 
-Classy Live’s mobile app lets admins efficiently manage their event’s check-in process.
+**Current status:** Open beta
 
-Today, the mobile app supports attendee check-in through tapping, swiping, or using a QR code scanner for in-person events.
+Classy Live’s mobile app lets admins efficiently manage their event’s check-in process using smartphones and tablets. With the app, event staff can check-in attendees, add a payment method, and edit attendee information. The mobile app is also compatible with Stripe's M2 card readers.
 
-In the future, the app will let event coordinators collect information, process payments, and more.
-
-_Open beta sign up - Coming soon_
-
-### Classy Live: Card tokenization
-
-**Current status:** Open Beta
-
-When attendees register for an event on Classy, the purchaser provides a credit card during checkout. Credit card tokenization is a process that can save the purchaser's card information, removing the hassle of re-entering it at the event.
-
-[Sign up to join the credit card tokenization open beta](https://learn.classy.org/credit-card-tokenization-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
+[Sign up to join](https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 
 ### Classy Live: Group registration
 
@@ -72,6 +62,14 @@ Small group product development discovery and discussion around reporting, analy
 
 These programs are now available to all Classy customers.
 
+### Classy Live: Card tokenization
+
+**Current status:** General availability
+
+When attendees register for an event on Classy, the purchaser provides a credit card during checkout. Credit card tokenization is a process that can save the purchaser's card information, removing the hassle of re-entering it at the event.
+
+[Learn more about credit card tokenization on Classy Live](https://support.classy.org/s/article/credit-card-tokenization)
+
 ### Classy Live: Bulk close of balances
 
 **Current status:** Open beta (Available to all customers)
@@ -79,6 +77,8 @@ These programs are now available to all Classy customers.
 Bulk close of balances lets admins and attendees complete multiple pending transactions at once. Admins can collect balances from multiple transactions (Max 100 transactions at a time) or select specific ones to collect.
 
 Also, attendees can visit their cart to pay for all their pending transactions in bulk.
+
+[Learn more about bulk close of balances on Classy Live](https://support.classy.org/s/article/bulk-close-balances-in-classy-live)
 
 ### Classy for Salesforce Nonprofit Cloud integration
 

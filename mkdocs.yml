@@ -72,6 +72,7 @@ plugins:
         "classy-for-salesforce-fundraising.md": "https://support.classy.org/s/article/install-classy-for-salesforce-fundraising"
         "classy-live/bulk-close.md": "https://support.classy.org/s/article/bulk-close-balances-in-classy-live"
         "giving-cart.md": "https://support.classy.org/s/article/giving-cart"
+        "classy-live/card-tokenization.md": "https://support.classy.org/s/article/credit-card-tokenization"
 
 extra:
   analytics:
@@ -84,6 +85,7 @@ extra:
 nav:
   - Home: index.md
   - Classy Live:
+      - Import attendees: classy-live/import-attendees.md
       - Donor covered fees: classy-live/donor-covered-fees.md
       - Mobile app + M2 card reader: classy-live/mobile-app.md
       - Card tokenization: classy-live/card-tokenization.md

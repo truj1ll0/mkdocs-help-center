@@ -92,5 +92,5 @@ nav:
       - Card tokenization: classy-live/card-tokenization.md
       - Group registration: classy-live/group-registration.md
   - Multifactor authentication: multifactor-authentication.md
-  - Campaign Insights: campaign-insights.md
+  - Campaign insights: campaign-insights.md
   - Current programs: beta-and-lighthouse/current-programs.md

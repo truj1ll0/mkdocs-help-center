@@ -85,7 +85,7 @@ extra:
 nav:
   - Home: index.md
   - Classy Live:
-      - Mobile app + M2 card reader: classy-live/mobile-app.md
+      - Mobile app: classy-live/mobile-app.md
       - Reader M2: classy-live/reader-m2.md
       - Import attendees: classy-live/import-attendees.md
       - Donor covered fees: classy-live/donor-covered-fees.md

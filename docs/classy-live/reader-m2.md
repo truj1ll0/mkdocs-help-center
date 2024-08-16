@@ -1,3 +1,17 @@
+<style type="text/css" rel="stylesheet">
+img { width: 50%; margin:auto!important; }
+
+.md-typeset table:not([class]) td:not([align]), .md-typeset table:not([class]) th:not([align]) {
+    text-align: left;
+    vertical-align: text-bottom;
+}
+
+.md-typeset table:not([class]) {
+    border: 0;
+    border-radius: 19.8px;
+}
+</style>
+
 # M2 Card Readers
 
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/kdrq775cv9?seo=true&videoFoam=true" title="Classy Live Mobile App + Reader M2 Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
@@ -30,7 +44,9 @@ You'll receive updates about your order directly from Stripe.
 
 Once you receive the Reader M2, you’ll want to set it up with your event and test it to ensure everything works properly.
 
-To start, charge it fully using the provided cable. Each charge should provide more than 20 hours of active use.
+To start, charge it fully using the provided cable.
+
+Each charge should provide more than 20 hours of active use.
 
 Turn on the device by pressing the button on the left-hand side. The lights that appear indicate it's charge level and four lights means it is fully charged.
 

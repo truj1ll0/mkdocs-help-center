@@ -12,15 +12,27 @@ img { width: 50%; margin:auto!important; }
 }
 </style>
 
-# Classy Live Mobile App + M2 Card Readers
+# Classy Live Mobile App
 
-Classy Live’s mobile app lets admins efficiently manage their event’s check-in process.
+Classy Live’s mobile app lets admins efficiently manage their events through easy-to-use check-in capabilities and integrations with Stripe’s M2 and WisePOS E card readers to add a payment method on file.
 
-Event admins can use the app to easily check-in attendees, add payment methods, and edit attendee details. Plus, you can use Stripe's Reader M2 to add attendee payment methods at check-in.
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/kdrq775cv9?seo=true&videoFoam=true" title="Classy Live Mobile App + Reader M2 Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
 
 !!! example "Want to participate?"
 
     <a href="https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the beta program for the Classy Live mobile app and M2 readers. The app is not available for organizations using <a href="https://support.classy.org/s/article/federated-sso">Federated Single Sign-on (SSO)</a>.
+
+## Download
+
+The mobile app is available for download on smartphones and tablets. Visit your device’s app store to download:
+
+- [iOS App Store](https://apps.apple.com/us/app/classy-live/id6457514197)
+- [Android Apps on Google Play](https://play.google.com/store/search?q=classy%20live&c=apps&hl=en_US)
+
+!!! warning "Important"
+
+    You can only use the mobile app once accepted into the beta program. If you’ve already signed up, we’ll notify your organization when you can download the app.
 
 ## M2 card reader
 

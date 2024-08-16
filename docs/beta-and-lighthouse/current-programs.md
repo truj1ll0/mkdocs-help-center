@@ -6,21 +6,21 @@ Discover the latest features currently in beta and other ways to partner with us
 
 These programs are currently in beta or coming soon. Sign up to participate or join the waitlist.
 
+### Multifactor authentication
+
+**Current status:** Closed beta
+
+Classy's multi-factor authentication (MFA) solution is rooted in data security and protecting sensitive information. Our MFA beta program will specifically focus on authentication using the Okta Verify authenticator app and one-time passcode (OTP) feature.
+
+[Sign up to join](https://learn.classy.org/mfa-beta-program.html?utm_source=early-access&utm_medium=help-center&utm_campaign=beta-program)
+
+[Learn more about MFA](/help-center/multifactor-authentication/)
+
 ### Campaign Insights
 
 **Current status:** Closed beta
 
 Campaign Insights provides an in-depth overview of your Classy campaign’s performance, including: transaction amounts, amount raised by time, one-time vs. recurring donations, and performance metrics such as conversion rate and donor covered fee rate.
-
-### Classy Live: Bulk import attendees
-
-**Current status:** Closed beta
-
-Import attendees lets admins upload a list of registered event attendees to their Classy Live event.
-
-The feature is in a closed beta for select organizations.
-
-[Learn more about import attendees on Classy Live](/help-center/classy-live/import-attendees/)
 
 ### Classy Live: Mobile app + M2 Readers
 
@@ -30,6 +30,18 @@ Classy Live’s mobile app lets admins efficiently manage their event’s check-
 
 [Sign up to join](https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 
+[Learn more about the Classy Live mobile app](/help-center/classy-live/mobile-app/)
+
+### Classy Live: Donor covered fees
+
+**Current status:** Open beta
+
+Donor Covered Fees, also known as a fee on top, help nonprofits receive more of each donation by letting supporters increase their gift to cover the Classy transaction fee, payment processor fees, and any optional add-on rate.
+
+[Sign up to join](https://learn.classy.org/cl-donor-covered-fees-open-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
+
+[Learn more about donor covered fees on Classy Live](/help-center/classy-live/donor-covered-fees/)
+
 ### Classy Live: Group registration
 
 **Current status:** Open Beta
@@ -37,6 +49,20 @@ Classy Live’s mobile app lets admins efficiently manage their event’s check-
 Event registration experience for groups and sponsors to manage their information across multiple attendees. The Classy Live Group Registration Management solution provides a simplified approach for admins to maintain control and streamline the day-of-event experience.
 
 [Sign up to join](https://learn.classy.org/classy-live-group-registration-beta-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
+
+[Learn more about group registration on Classy Live](https://support.classy.org/s/article/group-registration-on-classy-live)
+
+### Classy Live: Bulk import attendees
+
+**Current status:** Closed beta
+
+Import attendees lets admins upload a list of registered event attendees to their Classy Live event.
+
+The feature is in a closed beta for select organizations.
+
+[Sign up to join](https://learn.classy.org/classy-live-bulk-import-attendees-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
+
+[Learn more about import attendees on Classy Live](/help-center/classy-live/import-attendees/)
 
 ### User Experience & Product Testing
 
@@ -47,16 +73,6 @@ _Discovery & prototype feedback_
 Test and provide feedback on new designs, prototypes, and products with quick online surveys throughout the year.
 
 [Sign up to join](https://t.maze.co/141715913?guerilla=true&utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
-
-### Reporting & Insights Lighthouse Program
-
-**Current status:** Ongoing
-
-_Discovery & prototype feedback_
-
-Small group product development discovery and discussion around reporting, analytics, and insights.
-
-[Sign up to join](https://learn.classy.org/lighthouse-reporting-analytics-research-program-sign-up.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
 
 ## Past programs
 
@@ -79,38 +95,6 @@ Bulk close of balances lets admins and attendees complete multiple pending trans
 Also, attendees can visit their cart to pay for all their pending transactions in bulk.
 
 [Learn more about bulk close of balances on Classy Live](https://support.classy.org/s/article/bulk-close-balances-in-classy-live)
-
-### Classy for Salesforce Nonprofit Cloud integration
-
-**Current status:** General availability
-
-**GA release:** April 2024
-
-The Classy x Nonprofit Cloud integration is built with powerful technology for today's needs and tomorrow's inevitable challenges. This solution provides organizations with actionable data that help drive decision-making, strategy, and donor relationships forward.
-
-[Learn more about Classy for Salesforce Nonprofit Cloud](https://support.classy.org/s/article/install-classy-for-salesforce-fundraising)
-
-### Classy Studio
-
-**Current Status:** General availability
-
-**GA release:** February 2024
-
-Reimagined campaign builder with drag-and-drop, advanced customization, & peak page performance. Classy Studio is fundraising reimagined. Whether you’re a single fundraiser or an advanced digital marketing team, get the right experience in front of the right donor to maximize conversion on your segmented appeals.
-
-[Learn more about Classy Studio](https://support.classy.org/s/article/intro-to-classy-studio)
-
-### Classy Manager Record Pages
-
-**Current Status:** General availability
-
-**GA release:** Febraury 2024
-
-Redesigned, streamlined way to manage event attendees, fundraiser pages, and fundraising teams within the Classy Manager experience.
-
-[Learn how to manage attendees](https://support.classy.org/s/article/manage-tickets-and-registrations)
-
-[Learn how to manage fundraisers](https://support.classy.org/s/article/manage-fundraisers-and-teams)
 
 ## Early Access program definitions
 

@@ -89,7 +89,6 @@ nav:
       - Reader M2: classy-live/reader-m2.md
       - Import attendees: classy-live/import-attendees.md
       - Donor covered fees: classy-live/donor-covered-fees.md
-      - Card tokenization: classy-live/card-tokenization.md
       - Group registration: classy-live/group-registration.md
   - Multifactor authentication: multifactor-authentication.md
   - Campaign insights: campaign-insights.md

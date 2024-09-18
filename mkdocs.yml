@@ -11,8 +11,8 @@ extra_css:
 theme:
   name: material
   custom_dir: overrides
-  logo: https://learn.classy.org/rs/673-DCU-558/images/ray_white.png
-  favicon: https://learn.classy.org/rs/673-DCU-558/images/favicon.ico
+  logo: docs/assets/ray_white.png
+  favicon: docs/assets/favicon-32x32.png
   font:
     text: Mulish, Arial, Helvetica, sans-serif
 

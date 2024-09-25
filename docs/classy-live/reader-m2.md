@@ -12,10 +12,14 @@ img { width: 50%; margin:auto!important; }
 }
 </style>
 
-# M2 Card Readers
+# Reader M2 with the Classy Live mobile app
 
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/kdrq775cv9?seo=true&videoFoam=true" title="Classy Live Mobile App + Reader M2 Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+
+!!! example "Want to participate?"
+
+    <a href="https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the beta program for the Classy Live mobile app and Reader M2.The mobile app is required to purchase and use the Reader M2s with Classy Live.
 
 As part of the [mobile app beta program](/help-center/classy-live/mobile-app), you can purchase Stripe's Reader M2 through Classy Live.
 

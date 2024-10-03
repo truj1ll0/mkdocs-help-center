@@ -32,6 +32,10 @@ Here's how the M2 compares to the WisePOS E card readers:
 | **Feature**         | Add payment method                                                                         | Add payment method                                                                        |
 | **Requirements**    | Password-protected WiFi network                                                            | Smartphone or tablet with the Classy Live mobile app                                      |
 
+!!! warning "Important"
+
+    When adding an American Express card, insert it into the reader rather than tapping to complete the process.
+
 ## Order a card reader
 
 To purchase a reader:

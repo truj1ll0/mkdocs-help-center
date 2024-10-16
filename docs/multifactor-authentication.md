@@ -78,6 +78,10 @@ If you need help, check out Okta’s documentation for your device:
 
 MFA will be required for all organizations and admins using Classy when the feature reaches general availability (GA).
 
+**How do I set up multifactor authentication on a new device?**
+
+If you're adding MFA to a new device, contact our [Care team](https://support.classy.org/s/contactcare). We'll help verify your identity and guide you through the process.
+
 **Does MFA also apply to Classy Live?**
 
 Not at this time.

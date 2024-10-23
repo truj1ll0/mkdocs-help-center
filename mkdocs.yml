@@ -73,6 +73,8 @@ plugins:
         "classy-live/bulk-close.md": "https://support.classy.org/s/article/bulk-close-balances-in-classy-live"
         "giving-cart.md": "https://support.classy.org/s/article/giving-cart"
         "classy-live/card-tokenization.md": "https://support.classy.org/s/article/credit-card-tokenization"
+        "classy-live/donor-covered-fees.md": "https://support.classy.org/s/article/donor-covered-fees-classy-live"
+        "classy-live/group-registration.md": "https://support.classy.org/s/article/group-registration-on-classy-live"
 
 extra:
   analytics:
@@ -88,8 +90,6 @@ nav:
       - Mobile app: classy-live/mobile-app.md
       - Reader M2: classy-live/reader-m2.md
       - Import attendees: classy-live/import-attendees.md
-      - Donor covered fees: classy-live/donor-covered-fees.md
-      - Group registration: classy-live/group-registration.md
   - Multifactor authentication: multifactor-authentication.md
   - Campaign insights: campaign-insights.md
   - Current programs: beta-and-lighthouse/current-programs.md

@@ -23,9 +23,7 @@ Classy Live’s mobile app lets admins efficiently manage their events through e
 
     <a href="https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the beta program for the Classy Live mobile app and M2 readers.
 
-    To use the mobile app:
-    - Your organization must not be using <a href="https://support.classy.org/s/article/federated-sso">Federated Single Sign-on (SSO)</a>.
-    - You must have a compatible mobile device. View [compatibility requirements](#device-requirements).
+    To use the mobile app, your organization must not be using <a href="https://support.classy.org/s/article/federated-sso">Federated Single Sign-on (SSO)</a> and you must have a [compatible mobile device](#device-requirements).
 
 ## Download
 
@@ -193,8 +191,7 @@ Then, you can edit their name, email, bidder number, phone number, notes, and cu
 To use the mobile app, your device must be either an:
 
 - Apple device running iOS 14.0 or higher (released 2020)
-- Android device running versions 8.0 or higher (released 2017)
-  - Your Android device must also be NFC-compatible. [Find out if your device supports NFC](https://support.google.com/wallet/answer/12200245#checkNFC).
+- Android device running versions 8.0 or higher (released 2017). Your Android device must also be NFC-compatible. [Find out if your device supports NFC](https://support.google.com/wallet/answer/12200245#checkNFC).
 
 !!! question "Have feedback?"
 

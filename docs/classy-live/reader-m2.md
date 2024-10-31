@@ -21,7 +21,7 @@ img { width: 50%; margin:auto!important; }
 
     <a href="https://learn.classy.org/classy-live-mobile-app-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs">Sign up</a> to join the beta program for the Classy Live mobile app and M2 readers.
 
-    To use the mobile app, your organization must not be using <a href="https://support.classy.org/s/article/federated-sso">Federated Single Sign-on (SSO)</a> and you must have a [compatible mobile device](#device-requirements).
+    To use the mobile app, your organization must not be using <a href="https://support.classy.org/s/article/federated-sso">Federated Single Sign-on (SSO)</a> and you must have a [compatible mobile device](https://classyacademy.github.io/help-center/classy-live/mobile-app/#device-requirements).
 
 As part of the [mobile app beta program](/help-center/classy-live/mobile-app), you can purchase Stripe's Reader M2 through Classy Live.
 

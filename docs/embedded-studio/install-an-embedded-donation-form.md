@@ -2,7 +2,7 @@
 
 !!! example "Before you start"
 
-    The steps to add an embedded form depend on your website builder. Check out our article for [WordPress](/embedded-studio/embed-a-donation-form-on-wordpress)
+    The steps to add an embedded form depend on your website builder. Check out our article for [WordPress](help-center/embedded-studio/embed-a-donation-form-on-wordpress)
 
     **Note for Wix users:** Embedded Studio does not currently support Wix.
 
@@ -64,4 +64,4 @@ To embed the form directly on a webpage
 
 ## Need help?
 
-Check out our [troubleshooting article](/embedded-studio/troubleshooing-embedded-campaigns) for help when you run into any issues.
+Check out our [troubleshooting article](help-center/embedded-studio/troubleshooting-embedded-campaigns) for help when you run into any issues.

@@ -17,7 +17,7 @@ To make sure your embedded form appears, safelist your website. If you need to a
 
 ## Install a code snippet
 
-The Install snippet is a script that lets embedded campaigns appear on your site. You only need to add it once to your website’s `&lt;head>` section, where it will work for all embedded campaigns.
+The Install snippet is a script that lets embedded campaigns appear on your site. You only need to add it once to your website’s `<head>` section, where it will work for all embedded campaigns.
 
 !!! warning "Important"
 

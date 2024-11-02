@@ -18,7 +18,7 @@ The **About** page includes campaign details:
 
 ### Donation options
 
-To edit donation settings, go to **Donations **and** Donation options**. This page lets you adjust:
+To edit donation settings, go to **Donations** and **Donation options**. This page lets you adjust:
 
 - Anonymous donations
 - Hide donation amount
@@ -93,5 +93,5 @@ The **Install** page includes important elements for embedding your campaign on 
 
 For specific instructions on adding the snippet and embedding the form, refer to our guides:
 
-- [WordPress](/embedded-studio/embed-a-donation-form-on-wordpress)
-- [General embed guide for other builders](/embedded-studio/install-an-embedded-donation-form)
+- [WordPress](help-center/embedded-studio/embed-a-donation-form-on-wordpress)
+- [General embed guide for other builders](help-center/embedded-studio/install-an-embedded-donation-form)

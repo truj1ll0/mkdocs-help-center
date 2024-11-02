@@ -68,8 +68,8 @@ To find the Install snippet and embed code:
 
 To add the code to your site, we offer builder-specific guides for:
 
-- [WordPress](/embedded-studio/embed-a-donation-form-on-wordpress)
-- [General embed guide for other builders](/embedded-studio/install-an-embedded-donation-form)
+- [WordPress](help-center/embedded-studio/embed-a-donation-form-on-wordpress)
+- [General embed guide for other builders](help-center/embedded-studio/install-an-embedded-donation-form)
 
 ## Settings
 
@@ -77,8 +77,8 @@ Customize your campaign’s settings to create the best experience for supporter
 
 To access settings, go to the **Settings** tab in the campaign designer.
 
-[Learn more about Embedded Studio settings](/embedded-studio/embedded-studio-settings)
+[Learn more about Embedded Studio settings](help-center/embedded-studio/embedded-studio-settings)
 
 ## Troubleshooting
 
-Check out our [troubleshooting article](/embedded-studio/troubleshooing-embedded-campaigns) for help when you run into any issues.
+Check out our [troubleshooting article](help-center/embedded-studio/troubleshooting-embedded-campaigns) for help when you run into any issues.

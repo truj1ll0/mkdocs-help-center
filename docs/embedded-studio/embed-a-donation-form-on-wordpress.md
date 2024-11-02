@@ -67,9 +67,7 @@ With the Install snippet added, you’re ready to embed your donation form. You 
 
 1. Go to your WordPress site’s editor
 2. Add a **Custom HTML** block in the location where you want to place the form
-3. In your campaign’s **Install** page, copy either:
-   - The **Donate button** campaign parameter, or
-   - The **Inline donation grid** embed code
+3. In your campaign’s **Install** page, copy either: the **Donate button** campaign parameter, or the **Inline donation grid** embed code
 4. Paste the code into the Custom HTML block, then **Save** and **Publish** the page
 
 ![WordPress HTML block](https://learn.classy.org/rs/673-DCU-558/images/wordpress-custom-html-block.png)

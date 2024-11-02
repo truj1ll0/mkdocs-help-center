@@ -87,12 +87,12 @@ extra:
 nav:
   - Home: index.md
   - Embedded Studio:
-      - Embedded Studio: help-center/embedded-studio/embedded-studio.md
-      - Designer: help-center/embedded-studio/embedded-studio-designer.md
-      - Install: help-center/embedded-studio/install-an-embedded-donation-form.md
-      - Settings: help-center/embedded-studio/embedded-studio-settings.md
-      - WordPress: help-center/embedded-studio/embed-a-donation-form-on-wordpress.md
-      - Troubleshooting: help-center/embedded-studio/troubleshooting-embedded-campaigns.md
+      - Embedded Studio: /embedded-studio/embedded-studio.md
+      - Designer: /embedded-studio/embedded-studio-designer.md
+      - Install: /embedded-studio/install-an-embedded-donation-form.md
+      - Settings: /embedded-studio/embedded-studio-settings.md
+      - WordPress: /embedded-studio/embed-a-donation-form-on-wordpress.md
+      - Troubleshooting: /embedded-studio/troubleshooting-embedded-campaigns.md
   - Classy Live:
       - Mobile app: classy-live/mobile-app.md
       - Reader M2: classy-live/reader-m2.md

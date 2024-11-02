@@ -7,14 +7,6 @@ To access settings:
 1. Go to the Studio designer
 2. Select the **Settings** tab
 
-### **Frequently asked questions**
-
-- Where can I toggle nudges on or off?
-- How can I set custom questions to appear before or after a donation?
-- Where is the Install snippet?
-- Where can I edit fees?
-- How do I change the program designation?
-
 ### About
 
 The **About** page includes campaign details:
@@ -101,5 +93,5 @@ The **Install** page includes important elements for embedding your campaign on 
 
 For specific instructions on adding the snippet and embedding the form, refer to our guides:
 
-- WordPress
-- General embed guide for other builders
+- [WordPress](/embedded-studio/embed-a-donation-form-on-wordpress)
+- [General embed guide for other builders](/embedded-studio/install-an-embedded-donation-form)

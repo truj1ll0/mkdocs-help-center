@@ -1,6 +1,6 @@
 # Embedded Studio
 
-!!! example "To setup domain masking, you need:"
+!!! example "Before you start"
 
     Embedded donation forms are only available for [Classy Pay](http://support.classy.org/s/article/how-to-set-up-classy-pay-powered-by-stripe) customers.
 
@@ -45,17 +45,21 @@ The **Save**, **Publish**, and **Update** options are in the header for easy acc
 - **Publish** your campaign to make it visible on your website.
 - Use **Update** after making edits to push changes live.
 
-**Note: **Once the campaign is live, updates to your form do not require changes to the Install snippet or embed code.
+!!! note
+
+    Once the campaign is live, updates to your form do not require changes to the Install snippet or embed code.
 
 ## Install and embed
 
 To embed your campaign:
 
 1. **Safelist your domains.**
-2. **Add the Install snippet** to the `&lt;head>` section of your website.
+2. **Add the Install snippet** to the `<head>` section of your website.
 3. **Place the form** on your chosen web pages.
 
-**Important:** Add only one Install snippet per website to avoid performance issues. A single snippet will support all embedded campaigns on your site.
+!!! warning "Important"
+
+    Add only one Install snippet per website to avoid performance issues. A single snippet will support all embedded campaigns on your site.
 
 To find the Install snippet and embed code:
 
@@ -64,9 +68,8 @@ To find the Install snippet and embed code:
 
 To add the code to your site, we offer builder-specific guides for:
 
-- [WordPress](https://support.classy.org/s/article/add-an-embedded-donation-form-to-wordpress)
-- [Squarespace](https://support.classy.org/s/article/add-an-embedded-donation-form-to-squarespace)
-- General embed guide for other builders
+- [WordPress](/embedded-studio/embed-a-donation-form-on-wordpress)
+- [General embed guide for other builders](/embedded-studio/install-an-embedded-donation-form)
 
 ## Settings
 
@@ -74,8 +77,8 @@ Customize your campaign’s settings to create the best experience for supporter
 
 To access settings, go to the **Settings** tab in the campaign designer.
 
-[Learn more about Embedded Studio settings](#heading=h.hq5i0rud59nj)
+[Learn more about Embedded Studio settings](/embedded-studio/embedded-studio-settings)
 
 ## Troubleshooting
 
-Check out our troubleshooting article for help when you run into any issues.
+Check out our [troubleshooting article](/embedded-studio/troubleshooing-embedded-campaigns) for help when you run into any issues.

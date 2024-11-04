@@ -1,3 +1,7 @@
+<style type="text/css" rel="stylesheet">
+img { width: 50%; margin:auto!important; }
+</style>
+
 # Embedded Studio Designer
 
 The Embedded Studio designer is divided into two sections:

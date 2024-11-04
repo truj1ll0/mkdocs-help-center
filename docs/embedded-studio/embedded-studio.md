@@ -14,6 +14,8 @@ To create an embedded form:
 2. Select **Create new campaign**
 3. Next to Embedded form, select **Create**
 
+![Create embedded form modal](https://learn.classy.org/rs/673-DCU-558/images/create-embedded-studio.png)
+
 Then, add your campaign details, such as name, color, and goal.
 
 ### Safelist domains
@@ -26,8 +28,10 @@ Use the Embedded Studio designer to style each page of your form and adjust opti
 
 **To edit pages:**
 
-1. Go to the **Design** tab.
-2. Select the page you want to edit from the dropdown menu.
+1. Go to the **Design** tab
+2. Select the page you want to edit from the dropdown menu
+
+![Design tab dropdown](https://learn.classy.org/rs/673-DCU-558/images/es-design-tab.png)
 
 Pages available for customization include:
 
@@ -44,6 +48,8 @@ The **Save**, **Publish**, and **Update** options are in the header for easy acc
 
 - **Publish** your campaign to make it visible on your website.
 - Use **Update** after making edits to push changes live.
+
+![Save, update, and publish buttons in the header](https://learn.classy.org/rs/673-DCU-558/images/es-save-update-publish.png)
 
 !!! note
 
@@ -64,7 +70,7 @@ To embed your campaign:
 To find the Install snippet and embed code:
 
 1. Open the campaign’s **Settings** tab
-2. Select **Installation**
+2. Select **Install**
 
 To add the code to your site, we offer builder-specific guides for:
 

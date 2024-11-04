@@ -2,9 +2,9 @@
 
 !!! example "Before you start"
 
-    The steps to add an embedded form depend on your website builder. Check out our article for [WordPress](help-center/embedded-studio/embed-a-donation-form-on-wordpress)
+    The steps to add an embedded form depend on your website builder. Check out our article for [WordPress](https://classyacademy.github.io/help-center/embedded-studio/embed-a-donation-form-on-wordpress/)
 
-    **Note for Wix users:** Embedded Studio does not currently support Wix.
+    **Note for Wix users:** Embedded Studio does not currently support Wix. We recommend using a [Studio page](https://support.classy.org/s/article/intro-to-classy-studio).
 
 When installing an embedded form for the first time, you’ll complete two main steps:
 
@@ -64,4 +64,4 @@ To embed the form directly on a webpage
 
 ## Need help?
 
-Check out our [troubleshooting article](help-center/embedded-studio/troubleshooting-embedded-campaigns) for help when you run into any issues.
+Check out our [troubleshooting article](https://classyacademy.github.io/help-center/embedded-studio/troubleshooting-embedded-campaigns/) for help when you run into any issues.

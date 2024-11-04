@@ -14,9 +14,13 @@ To change pages:
 1. Go to the **Design** tab
 2. Choose a page from the dropdown menu
 
+![Design tab dropdown](https://learn.classy.org/rs/673-DCU-558/images/es-design-tab.png)
+
 ## Inline donation grid
 
 The inline donation grid appears directly on your website’s page, allowing supporters to select a donation amount and open the embedded form to complete their transaction.
+
+![Inline donation grid example](https://learn.classy.org/rs/673-DCU-558/images/inline-donation-grid.png)
 
 **Styling options** for the inline donation grid:
 
@@ -29,9 +33,11 @@ The inline donation grid appears directly on your website’s page, allowing sup
 
 - Donation frequencies and suggested amounts
 
-## Embedded form
+## Embedded donation form
 
-The embedded form overlays your website when a supporter clicks the donate button or selects an amount on the inline donation grid.
+The embedded donation form overlays your website when a supporter selects the donate button or chooses an amount on the inline donation grid.
+
+![Embedded donation form example](https://learn.classy.org/rs/673-DCU-558/images/embedded-donation-form.png)
 
 **Styling options**:
 
@@ -60,6 +66,8 @@ Display a larger image spanning the entire panel with a heading on top.
 
 Recurring nudges help turn one-time gifts into sustainable monthly donors. When someone chooses a one-time gift between your highest and lowest options, this nudge suggests a smaller monthly donation that’s 25% of the selected amount.
 
+![Recurring donation nudge example](https://learn.classy.org/rs/673-DCU-558/images/recurring-donation-nudge.png)
+
 **To turn on the recurring donation nudge**:
 
 1. Go to the **Settings** tab
@@ -71,6 +79,8 @@ The recurring nudge includes a graphic whose style, icon, and animation options 
 
 The donor covered fees nudge prompts donors to cover transaction fees, ensuring that the full donation amount goes to the organization.
 
+![Donor covered fees nudge example](https://learn.classy.org/rs/673-DCU-558/images/donor-covered-fees-nudge.png)
+
 **To turn on the donor covered fees nudge**:
 
 1. Go to the **Settings** tab
@@ -81,3 +91,5 @@ The donor covered fees nudge also includes a graphic with style, icon, and anima
 ### Thank you screen
 
 The thank you screen appears after a transaction is complete. This page lets you show appreciation and encourages supporters to share the campaign with their network, increasing your campaign’s reach.
+
+![Thank you screen example](https://learn.classy.org/rs/673-DCU-558/images/thank-you-screen.png)

@@ -24,7 +24,7 @@ To change pages:
 
 The inline donation grid appears directly on your website’s page, allowing supporters to select a donation amount and open the embedded form to complete their transaction.
 
-<img alt="Embedded donation form example" style="width:100%!important;" src="https://learn.classy.org/rs/673-DCU-558/images/embedded-donation-form.png">
+![Inline donation grid example](https://learn.classy.org/rs/673-DCU-558/images/inline-donation-grid.png)
 
 **Styling options** for the inline donation grid:
 
@@ -41,7 +41,7 @@ The inline donation grid appears directly on your website’s page, allowing sup
 
 The embedded donation form overlays your website when a supporter selects the donate button or chooses an amount on the inline donation grid.
 
-![Embedded donation form example](https://learn.classy.org/rs/673-DCU-558/images/embedded-donation-form.png)
+<img alt="Embedded donation form example" style="width:100%!important;" src="https://learn.classy.org/rs/673-DCU-558/images/embedded-donation-form.png">
 
 **Styling options**:
 

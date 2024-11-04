@@ -2,7 +2,7 @@
 
 Adjust your campaign’s settings in Embedded Studio to customize the supporter experience by editing FAQs, adding custom questions, and turning on or off nudges.
 
-To access settings:
+**To access settings:**
 
 1. Go to the Studio designer
 2. Select the **Settings** tab
@@ -93,5 +93,5 @@ The **Install** page includes important elements for embedding your campaign on 
 
 For specific instructions on adding the snippet and embedding the form, refer to our guides:
 
-- [WordPress](help-center/embedded-studio/embed-a-donation-form-on-wordpress)
-- [General embed guide for other builders](help-center/embedded-studio/install-an-embedded-donation-form)
+- [WordPress](https://classyacademy.github.io/help-center/embedded-studio/embed-a-donation-form-on-wordpress/)
+- [General embed guide for other builders](https://classyacademy.github.io/help-center/embedded-studio/install-an-embedded-donation-form/)

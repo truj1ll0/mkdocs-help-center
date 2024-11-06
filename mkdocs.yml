@@ -97,6 +97,6 @@ nav:
       - Settings: embedded-studio/embedded-studio-settings.md
       - Troubleshooting: embedded-studio/troubleshooting-embedded-campaigns.md
       - Embed on WordPress: embedded-studio/embed-a-donation-form-on-wordpress.md
-      - Apple Pay: /apple-pay-on-embedded-forms.md
+      - Apple Pay: embedded-studio/apple-pay-on-embedded-forms.md
   - Multifactor authentication: multifactor-authentication.md
   - Current programs: beta-and-lighthouse/current-programs.md

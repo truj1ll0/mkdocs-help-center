@@ -75,6 +75,13 @@ plugins:
         "classy-live/card-tokenization.md": "https://support.classy.org/s/article/credit-card-tokenization"
         "classy-live/donor-covered-fees.md": "https://support.classy.org/s/article/donor-covered-fees-classy-live"
         "classy-live/group-registration.md": "https://support.classy.org/s/article/group-registration-on-classy-live"
+        "apple-pay-on-embedded-forms.md": "/embedded-studio/apple-pay-on-embedded-forms.md"
+        "embedded-studio/embedded-studio.md": "https://support.classy.org/s/article/embedded-giving"
+        "embedded-studio/embedded-studio-designer.md": "https://support.classy.org/s/article/create-an-embedded-donation-form"
+        "embedded-studio/install-an-embedded-donation-form.md": "https://support.classy.org/s/article/embed-a-donation-form-on-your-website"
+        "embedded-studio/embedded-studio-settings.md": "https://support.classy.org/s/article/more-embedded-form-customizations"
+        "embedded-studio/troubleshooting-embedded-campaigns.md": "https://support.classy.org/s/article/troubleshoot-embedded-donation-forms"
+        "embedded-studio/embed-a-donation-form-on-wordpress.md": "https://support.classy.org/s/article/add-an-embedded-donation-form-to-wordpress"
 
 extra:
   analytics:

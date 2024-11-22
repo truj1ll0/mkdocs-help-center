@@ -4,6 +4,8 @@
 
     Embedded donation forms are only available for [Classy Pay](http://support.classy.org/s/article/how-to-set-up-classy-pay-powered-by-stripe) customers.
 
+Embedded donation forms differ from donate pages because you can install them directly on your organization’s website. This helps to remove friction in the donation process by keeping your supporters on your page, reducing the time and the number of steps needed to give to your cause.
+
 Build Classy’s latest embedded campaigns with Embedded Studio. It’s a new and improved iteration of embedded donation forms that provide greater accessibility, improved performance, and more options to set up your website exactly how you need it.
 
 ## Create
@@ -88,3 +90,7 @@ To access settings, go to the **Settings** tab in the campaign designer.
 ## Troubleshooting
 
 Check out our [troubleshooting article](https://classyacademy.github.io/help-center/embedded-studio/troubleshooting-embedded-campaigns/) for help when you run into any issues.
+
+## Legacy embedded forms
+
+If you’re using a legacy form—popup or inline—consider upgrading to Embedded Studio to access Classy’s newest tools and features.

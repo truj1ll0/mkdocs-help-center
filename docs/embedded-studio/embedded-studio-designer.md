@@ -6,8 +6,8 @@ img { width: 50%; margin:auto!important; }
 
 The Embedded Studio designer is divided into two sections:
 
-- **Options panel**: Adjust Style and Configure settings for each page.
-- **Preview panel**: Displays real-time updates to show how changes will look for supporters.
+- **Sidebar**: Adjust Style and Configure settings for each page.
+- **Canvas**: Displays real-time updates to show how changes will look for supporters.
 
 **Switching between pages**
 

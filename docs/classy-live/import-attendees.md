@@ -8,7 +8,7 @@ Once added, they’ll appear on your event’s attendee list and can participate
 
 !!! example "Want to participate?"
 
-    <a href="https://learn.classy.org/classy-live-bulk-import-attendees-beta.html">Sign up</a> to join the beta program for Bulk Import Attendees on Classy Live.
+    This beta program for importing attendees is no longer accepting new participants. Stay tuned for updates about the open beta release coming soon.
 
 ## Prepare import template
 

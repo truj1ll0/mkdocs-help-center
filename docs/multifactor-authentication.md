@@ -39,15 +39,18 @@ To set up MFA:
 1. Start on your computer and log in to [Classy](https://www.classy.org/sso) using your username and password
 2. You’ll be prompted to set up multifactor authentication. Select **Setup.**
 
-![Setup multifactor authentication](https://learn.classy.org/rs/673-DCU-558/images/mfa-setup-okta.png)
+![Setup multifactor authentication](https://learn.classy.org/rs/673-DCU-558/images/set-up-security-methods.png)
 
-1. On your smartphone, download and open Google Authenticator
-2. Tap the **+ icon**
-3. Tap **Scan a QR code**
-4. Use your camera to scan the QR code on your computer (Give Authenticator access to your smartphone's camera if you need to)
-5. This adds your account to Authenticator and generates a one-time verification code
-6. Enter the code on the Classy login screen and **Verify**
-7. Select **Finish**
+3. On your smartphone, download and open Google Authenticator
+4. Tap the **+ icon**
+5. Tap **Scan a QR code**
+
+![Scan a QR code](https://learn.classy.org/rs/673-DCU-558/images/sca-a-qr-code-authenticator.PNG)
+
+6. Use your camera to scan the QR code on your computer (Give Authenticator access to your smartphone's camera if you need to)
+7. This adds your account to Authenticator and generates a one-time verification code
+8. Enter the code on the Classy login screen and **Verify**
+9. Select **Finish**
 
 You've successfully set up multifactor authentication! From now on, you'll need to provide a verification code from the Authenticator app, at least once a day, to log into your account.
 
@@ -59,7 +62,7 @@ To log in with MFA:
 2. Enter the verification code provided in the Google Authenticator app
 3. Select **Verify**
 
-![Verify with a one-time passcode](https://learn.classy.org/rs/673-DCU-558/images/mfa-enter-otp.png)
+![Verify with a one-time passcode](https://learn.classy.org/rs/673-DCU-558/images/set-up-google-authenticator.png)
 
 And you’re in! We recommend marking the checkbox so we don't challenge you again on this device for 24 hours.
 

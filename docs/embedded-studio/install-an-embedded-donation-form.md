@@ -6,10 +6,11 @@
 
     **Note for Wix users:** Embedded Studio does not currently support Wix. We recommend using a [Studio page](https://support.classy.org/s/article/intro-to-classy-studio).
 
-When installing an embedded form for the first time, you’ll complete two main steps:
+When installing an embedded form for the first time, you’ll complete three main steps:
 
-1. Add the Install snippet to your website’s `<head>` section.
-2. Add the form embed code to your pages.
+1. Safelist your website's domain
+2. Add the Install snippet to your website’s `<head>` section.
+3. Add the form embed code to your pages.
 
 You’ll find the Install snippet and embed code under **Settings** and **Install** in the campaign editor.
 
@@ -21,7 +22,14 @@ Most website builders let you to add embedded forms. For specific steps, check y
 - Custom HTML
 - Add external JavaScript
 
-### Add the Install snippet to your website
+## Safelist your domain
+
+Safelisting domains helps protect your campaigns from showing up on unapproved sites.
+
+Just add your website’s domain, like `example.com`, to safelist every page on that site.
+
+
+## Add the Install snippet to your website
 
 The Install snippet is a script that lets embedded forms function on your site. You only need to add it once.
 

@@ -22,3 +22,9 @@ This error usually indicates that your website’s domain is not safelisted. To 
 3. Choose **Install**
 4. Under **Safelisted domains**, add the URL of each site where you plan to display the form
 5. Select **Update** in the header to push through the changes
+
+## Trouble linking a donate button
+
+If your website builder doesn’t let you link to a parameter, you can add the parameter to your site’s URL instead.
+
+For example, www.example.com?campaign=12345.

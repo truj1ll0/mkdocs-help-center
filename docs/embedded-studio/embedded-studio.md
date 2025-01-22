@@ -4,6 +4,8 @@
 
     Embedded donation forms are only available for [Classy Pay](http://support.classy.org/s/article/how-to-set-up-classy-pay-powered-by-stripe) customers.
 
+    Want to learn more? Join our [weekly live training](https://academy.classy.org/setup-embed-form-training?utm_source=help-center&utm_medium=before-you-start&utm_campaign=trainings) on embedded forms.
+
 Embedded donation forms differ from donate pages because you can install them directly on your organization’s website. This helps to remove friction in the donation process by keeping your supporters on your page, reducing the time and the number of steps needed to give to your cause.
 
 Build Classy’s latest embedded campaigns with Embedded Studio. It’s a new and improved iteration of embedded donation forms that provide greater accessibility, improved performance, and more options to set up your website exactly how you need it.
@@ -94,3 +96,32 @@ Check out our [troubleshooting article](https://classyacademy.github.io/help-cen
 ## Legacy embedded forms
 
 If you’re using a legacy form—popup or inline—consider upgrading to Embedded Studio to access Classy’s newest tools and features.
+
+## Frequently asked questions
+
+**Deciding between an embedded donation form and a donation page?**
+
+Go with embedded forms to:
+
+- Add forms directly to your website
+- Keep donors on your site
+  
+Use a standard donation page to:
+
+- Share links in emails or on social media
+
+**Can popup blockers block the embedded donation form?**
+
+No, they won’t prevent it from opening.
+
+**Is it possible to embed the form on multiple sites?**
+
+Yes! Just make sure to safelist each domain where the donation form will appear. This is useful if you plan to test your donation form in a sandbox.
+
+**Can I embed the form on multiple sites?**
+
+Yes! Be sure to safelist each domain and add the Install snippet where the form will be used.
+
+**Can we embed more than one donation form on a site?**
+
+Yes, you can. Just make sure to use a single install snippet for all the forms from your account.

@@ -8,7 +8,7 @@ Once added, they’ll appear on your event’s attendee list and can participate
 
 !!! example "Want to participate?"
 
-    This beta program for importing attendees is no longer accepting new participants. Stay tuned for updates about the open beta release coming soon.
+    This beta program for importing attendees is no longer accepting new participants. Stay tuned for updates about this feature.
 
 ## Prepare import template
 

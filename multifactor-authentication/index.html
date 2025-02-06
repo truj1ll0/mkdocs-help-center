@@ -1,0 +1,847 @@
+<!-- Elements added to main will be displayed on all pages -->
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../classy-live/import-attendees/">
+      
+      
+        <link rel="next" href="../beta-and-lighthouse/current-programs/">
+      
+      
+      <link rel="icon" href="../img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.2">
+    
+    
+      
+        <title>Multifactor authentication - Classy Early Access</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.d7758b05.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish,+Arial,+Helvetica,+sans-serif:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Mulish, Arial, Helvetica, sans-serif";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-NC9WXEJ9N3"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-NC9WXEJ9N3",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-NC9WXEJ9N3",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  <meta name="robots" content="noindex" />
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="classy" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#multifactor-authentication" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Classy Early Access" class="md-header__button md-logo" aria-label="Classy Early Access" data-md-component="logo">
+      
+  <img src="../assets/square-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Classy Early Access
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Multifactor authentication
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="classy" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../classy-live/mobile-app/" class="md-tabs__link">
+          
+  
+  Classy Live
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+    
+  
+  Multifactor authentication
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../beta-and-lighthouse/current-programs/" class="md-tabs__link">
+        
+  
+    
+  
+  Current programs
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Classy Early Access" class="md-nav__button md-logo" aria-label="Classy Early Access" data-md-component="logo">
+      
+  <img src="../assets/square-logo.png" alt="logo">
+
+    </a>
+    Classy Early Access
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Classy Live
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Classy Live
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classy-live/mobile-app/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile app
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classy-live/reader-m2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reader M2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classy-live/import-attendees/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Import attendees
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Multifactor authentication
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Multifactor authentication
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="In this article">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      In this article
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-is-it-important" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why is it important?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mfa-options" class="md-nav__link">
+    <span class="md-ellipsis">
+      MFA options
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#set-up-mfa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Set up MFA
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#log-in-with-mfa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Log in with MFA
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frequently-asked-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frequently asked questions
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../beta-and-lighthouse/current-programs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Current programs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="In this article">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      In this article
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-is-it-important" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why is it important?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mfa-options" class="md-nav__link">
+    <span class="md-ellipsis">
+      MFA options
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#set-up-mfa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Set up MFA
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#log-in-with-mfa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Log in with MFA
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frequently-asked-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frequently asked questions
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<style type="text/css" rel="stylesheet">
+img { width: 50%; margin:auto!important; }
+</style>
+
+<h1 id="multifactor-authentication">Multifactor authentication</h1>
+<p>Multifactor authentication (MFA) is a user verification method that requires more than one type of validation, such as a password and a one-time passcode (OTP). It helps prevent unauthorized account access even if someone has the username and password.</p>
+<p>During Early Access, you can use MFA for your organization’s Classy account. This will require admins to enter their password and OTP via Google Authenticator on a mobile device to access your account.</p>
+<p>Want to preview the set up experience? <a href="https://app.storylane.io/share/eqzllyenh5tm">View this Storylane walkthrough</a></p>
+<div class="admonition abstract">
+<p class="admonition-title">To set up and use MFA, you'll need a:</p>
+<ul>
+<li>Computer</li>
+<li>Phone</li>
+</ul>
+<p><strong>Want to participate?</strong></p>
+<p><a href="https://learn.classy.org/mfa-beta-program.html?utm_source=early-access&amp;utm_medium=help-center&amp;utm_campaign=beta-program">Sign up to join Classy's MFA beta program.</a></p>
+</div>
+<h2 id="why-is-it-important">Why is it important?</h2>
+<p>MFA reduces the risk of unauthorized access compared to passwords alone. It's an industry best practice and a critical component in safeguarding user and supporter data.</p>
+<p>MFA can also help you:</p>
+<ul>
+<li>Comply with regulatory requirements</li>
+<li>Protect sensitive data</li>
+<li>Prevent identity theft</li>
+</ul>
+<h2 id="mfa-options">MFA options</h2>
+<p>When first setting up MFA, you can choose your preferred authentication option. Classy supports:</p>
+<ul>
+<li>Google Authenticator (<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=en_US">Android</a>)</li>
+<li>Okta Verify (<a href="https://apps.apple.com/us/app/okta-verify/id490179405">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.okta.android.auth&amp;hl=en_US">Android</a>)</li>
+<li>Call or text verification (Recommended if you do not have a smartphone)</li>
+</ul>
+<h2 id="set-up-mfa">Set up MFA</h2>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you’re a new Classy admin, select the button in the ‘Claim your account’ email sent to your address to set up your account for the first time.</p>
+</div>
+<p>To set up MFA:</p>
+<ol>
+<li>Start on your computer and log in to <a href="https://www.classy.org/sso">Classy</a> using your username and password</li>
+<li>You’ll be prompted to set up multifactor authentication. Select <strong>Setup</strong> under your preferred option.</li>
+</ol>
+<p><img alt="Setup multifactor authentication" src="https://learn.classy.org/rs/673-DCU-558/images/set-up-security-methods.png" /></p>
+<ol start="3">
+<li>Follow the prompts to verify</li>
+<li>Select <strong>Finish</strong></li>
+</ol>
+<p>You've successfully set up multifactor authentication! From now on, you'll need to provide a verification code from your chosen app or phone, at least once a day, to log into your account.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Before you finish, you'll be prompted to set up an additional security method. <strong>This step is optional</strong> and you only need one authenticator to access your account.</p>
+<p>However, you will not be able to set up additional security options after you select <strong>Finish</strong>.</p>
+</div>
+<h2 id="log-in-with-mfa">Log in with MFA</h2>
+<p>To log in with MFA:</p>
+<ol>
+<li>Log in to Classy using your username and password</li>
+<li>Enter the verification code provided in your chosen authenticator app or phone</li>
+<li>Select <strong>Verify</strong></li>
+</ol>
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+<p><strong>Is MFA required?</strong></p>
+<p>Yes. MFA will be required for all Classy admins starting in the first half of 2025. Your organization will be notified before MFA is required for your account.</p>
+<p><strong>Is there any additional cost associated with MFA?</strong></p>
+<p>No, there is no extra cost.</p>
+<p><strong>Will supporters need to use MFA to access their accounts?</strong></p>
+<p>No, supporters will not be required to use MFA. They can continue to log in using their password or a one-time code sent to their email.</p>
+<p><strong>How often will an organization need to use MFA?</strong></p>
+<p>Organizations will need to log in with MFA once per day for each browser they use (e.g., once for Chrome, once for Safari).</p>
+<p><strong>Can organizations configure the frequency of MFA?</strong></p>
+<p>No, not at this time.</p>
+<p><strong>Is there a difference between two-factor and multi-factor authentication?</strong></p>
+<p>Technically, yes—MFA allows for more than two factors. However, Classy will support two factors: a password and a one-time passcode.</p>
+<p><strong>How is MFA different from SSO?</strong></p>
+<p>SSO lets users access multiple applications with a single login. MFA requires an additional authentication step and can be used alongside SSO for extra security.</p>
+<p><strong>How does this work if my organization already has an IDP (identity provider)?</strong></p>
+<p>Classy’s multi-factor authentication solution is compatible through Google Authenticator, Okta Verify, and SMS/call.</p>
+<p>An IDP other than Google Authenticator or Okta Verify will not work for Classy’s MFA solution. We may consider verification through additional identity providers in future releases.</p>
+<p><strong>How many failed attempts can be made, and what happens if that limit is reached?</strong></p>
+<p>After five failed OTP attempts, the user’s account will be locked. To unlock it, contact our <a href="https://support.classy.org/s/contactcare">Care team</a>, who can unlock or reset authenticators via the Okta console.</p>
+<p><strong>Can my organization configure which admins get prompted for MFA?</strong></p>
+<p>No. Our out-of-the-box Okta solution applies MFA to all admins without customization options.</p>
+<p><strong>Will MFA apply to Classy Live log-ins?</strong></p>
+<p>Not at this time, but we may consider MFA for Classy Live in future updates.</p>
+<p><strong>Will email be considered as an authentication factor?</strong></p>
+<p>No. Due to phishing risks, email won’t be used as an authentication factor. We prioritize secure, industry-leading authentication options.</p>
+<p><strong>My organization doesn’t allow mobile devices at work. How do we proceed?</strong></p>
+<p>If mobile devices are restricted, please contact us at multifactor@classy.org, and we’ll work with you to find a solution.</p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../classy-live/import-attendees/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Import attendees">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Import attendees
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../beta-and-lighthouse/current-programs/" class="md-footer__link md-footer__link--next" aria-label="Next: Current programs">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Current programs
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.top", "navigation.path", "navigation.tabs", "navigation.footer", "navigation.instant", "navigation.tracking", "header.autohide", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotaion", "content.code.copy", "toc.follow"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.f13b1293.min.js"></script>
+      
+    
+  </body>
+</html>

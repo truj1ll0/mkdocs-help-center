@@ -16,14 +16,6 @@ Classy's multi-factor authentication (MFA) solution is rooted in data security a
 
 [Learn more about MFA](/help-center/multifactor-authentication/)
 
-### Campaign insights
-
-**Current status:** Closed beta
-
-Campaign insights provides an in-depth overview of your Classy campaign’s performance, including: transaction amounts, amount raised by time, one-time vs. recurring donations, and performance metrics such as conversion rate and donor covered fee rate.
-
-[Learn more about Campaign insights](/help-center/campaign-insights/)
-
 ### Classy Live: Mobile app + M2 Readers
 
 **Current status:** Open beta
@@ -62,8 +54,6 @@ Import attendees lets admins upload a list of registered event attendees to thei
 
 The feature is in a closed beta for select organizations.
 
-[Sign up to join](https://learn.classy.org/classy-live-bulk-import-attendees-beta.html?utm_source=early_access_hub&utm_medium=microsite&utm_campaign=lighthouse_beta_programs)
-
 [Learn more about import attendees on Classy Live](/help-center/classy-live/import-attendees/)
 
 ### User experience & product testing
@@ -79,6 +69,14 @@ Test and provide feedback on new designs, prototypes, and products with quick on
 ## Past programs
 
 These programs are now available to all Classy customers.
+
+### Campaign insights
+
+**Current status:** General availability
+
+Campaign insights provides an in-depth overview of your Classy campaign’s performance, including: transaction amounts, amount raised by time, one-time vs. recurring donations, and performance metrics such as conversion rate and donor covered fee rate.
+
+[Learn more about Campaign insights](/help-center/campaign-insights/)
 
 ### Classy Live: Card tokenization
 
